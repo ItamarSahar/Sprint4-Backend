@@ -1,0 +1,197 @@
+22.5.2022, 12:20:34 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:20:36 - INFO - New connected socket [id: tYzzj2eSL6XNvq_oAAAJ] 
+22.5.2022, 12:21:03 - DEBUG - auth.service - login with username: user1 (userId: 614ad26392b8a1101045b3a1)
+22.5.2022, 12:21:03 - INFO - User login:  | {"_id":"614ad26392b8a1101045b3a1","username":"user1","fullname":"Puki Norma","score":3140} (userId: 614ad26392b8a1101045b3a1)
+22.5.2022, 12:21:03 - INFO - Setting socket.userId = 614ad26392b8a1101045b3a1 for socket [id: tYzzj2eSL6XNvq_oAAAJ] 
+22.5.2022, 12:22:35 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:22:35 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:22:36 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:22:37 - INFO - New connected socket [id: 2QqTjVzWwdROXu0bAAAM] 
+22.5.2022, 12:22:37 - INFO - New connected socket [id: B7bS9JRGsmK28rYzAAAN] 
+22.5.2022, 12:22:39 - INFO - New connected socket [id: mRCJ4rbIGO73BMMcAAAP] 
+22.5.2022, 12:22:40 - INFO - Setting socket.userId = 614ad26392b8a1101045b3a1 for socket [id: mRCJ4rbIGO73BMMcAAAP] 
+22.5.2022, 12:27:03 - INFO - New connected socket [id: -BUzrAfBLsXryiQaAAAR] 
+22.5.2022, 12:27:03 - INFO - Setting socket.userId = 614ad26392b8a1101045b3a1 for socket [id: -BUzrAfBLsXryiQaAAAR] 
+22.5.2022, 12:27:05 - INFO - New chat msg from socket [id: -BUzrAfBLsXryiQaAAAR], emitting to topic Love 
+22.5.2022, 12:27:18 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:27:18 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:27:20 - INFO - New connected socket [id: KZiycNPywcK8xCxQAAAU] 
+22.5.2022, 12:27:21 - INFO - New connected socket [id: MlFm92RP29rT74FnAAAV] 
+22.5.2022, 12:27:21 - INFO - Setting socket.userId = 614ad26392b8a1101045b3a1 for socket [id: MlFm92RP29rT74FnAAAV] 
+22.5.2022, 12:27:21 - INFO - Setting socket.userId = 614ad26392b8a1101045b3a1 for socket [id: MlFm92RP29rT74FnAAAV] 
+22.5.2022, 12:27:24 - INFO - New chat msg from socket [id: MlFm92RP29rT74FnAAAV], emitting to topic Love 
+22.5.2022, 12:28:08 - INFO - New connected socket [id: U4n1j5ZqaWEe58Y4AAAX] 
+22.5.2022, 12:28:08 - INFO - New connected socket [id: 86fdhRiDYQQD6XUMAAAZ] 
+22.5.2022, 12:28:09 - INFO - Setting socket.userId = 614ad26392b8a1101045b3a1 for socket [id: 86fdhRiDYQQD6XUMAAAZ] 
+22.5.2022, 12:28:30 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:28:30 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:28:53 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:29:17 - INFO - New connected socket [id: n_mkJjbSZVo4YOVmAAAb] 
+22.5.2022, 12:29:18 - INFO - New connected socket [id: ejNTHKpzzJ89YHCgAAAd] 
+22.5.2022, 12:29:18 - INFO - New connected socket [id: 1FfDydN0OapSNjz_AAAf] 
+22.5.2022, 12:29:18 - INFO - Setting socket.userId = 614ad26392b8a1101045b3a1 for socket [id: 1FfDydN0OapSNjz_AAAf] 
+22.5.2022, 12:29:18 - INFO - Setting socket.userId = 614ad26392b8a1101045b3a1 for socket [id: 1FfDydN0OapSNjz_AAAf] 
+22.5.2022, 12:29:25 - INFO - New chat msg from socket [id: 1FfDydN0OapSNjz_AAAf], emitting to topic Love 
+22.5.2022, 12:29:37 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:29:37 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:29:37 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:29:37 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:29:38 - INFO - New connected socket [id: fvBwvzWDtD92GhMfAAAi] 
+22.5.2022, 12:29:38 - INFO - New connected socket [id: rGrIV1Ru3JpYKanLAAAj] 
+22.5.2022, 12:29:40 - INFO - New chat msg from socket [id: fvBwvzWDtD92GhMfAAAi], emitting to topic Love 
+22.5.2022, 12:29:48 - INFO - Socket is leaving topic Love [id: fvBwvzWDtD92GhMfAAAi] 
+22.5.2022, 12:29:50 - INFO - New chat msg from socket [id: fvBwvzWDtD92GhMfAAAi], emitting to topic Politics 
+22.5.2022, 12:29:52 - INFO - Socket is leaving topic Love [id: 1FfDydN0OapSNjz_AAAf] 
+22.5.2022, 12:29:57 - INFO - New chat msg from socket [id: 1FfDydN0OapSNjz_AAAf], emitting to topic Politics 
+22.5.2022, 12:30:04 - INFO - New connected socket [id: plCcCqupiDHyld2UAAAl] 
+22.5.2022, 12:30:05 - INFO - Setting socket.userId = 614ad26392b8a1101045b3a1 for socket [id: plCcCqupiDHyld2UAAAl] 
+22.5.2022, 12:30:08 - INFO - New chat msg from socket [id: plCcCqupiDHyld2UAAAl], emitting to topic Politics 
+22.5.2022, 12:30:33 - INFO - New connected socket [id: 0stgyTJy3n4OgaYnAAAn] 
+22.5.2022, 12:30:34 - INFO - New connected socket [id: ydymkx_-7V93uBzDAAAp] 
+22.5.2022, 12:30:34 - INFO - Setting socket.userId = 614ad26392b8a1101045b3a1 for socket [id: 0stgyTJy3n4OgaYnAAAn] 
+22.5.2022, 12:33:50 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:33:50 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:33:50 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:33:50 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:33:50 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:33:51 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:33:51 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:33:54 - INFO - New connected socket [id: TTmNL1dGwk-S_jULAAAs] 
+22.5.2022, 12:33:54 - INFO - New connected socket [id: U6AwtEMcqFfKt0PQAAAt] 
+22.5.2022, 12:33:56 - INFO - New connected socket [id: XxiopI45tBSt4agTAAAv] 
+22.5.2022, 12:33:56 - INFO - New connected socket [id: qbsSlJtWRI7m7a02AAAx] 
+22.5.2022, 12:34:01 - INFO - Setting socket.userId = 614ad26392b8a1101045b3a1 for socket [id: qbsSlJtWRI7m7a02AAAx] 
+22.5.2022, 12:34:01 - INFO - Setting socket.userId = 614ad26392b8a1101045b3a1 for socket [id: qbsSlJtWRI7m7a02AAAx] 
+22.5.2022, 12:34:01 - INFO - New connected socket [id: 3wRnMPyGKGzFJ2NpAAAz] 
+22.5.2022, 12:34:01 - INFO - New connected socket [id: YW9Fu4crINjIpAIBAAA1] 
+22.5.2022, 12:34:02 - INFO - Setting socket.userId = 614ad26392b8a1101045b3a1 for socket [id: 3wRnMPyGKGzFJ2NpAAAz] 
+22.5.2022, 12:34:12 - INFO - New connected socket [id: M_WYsYSrYNMnwgL-AAA3] 
+22.5.2022, 12:34:12 - INFO - New connected socket [id: tqi40f8K4hopopZWAAA5] 
+22.5.2022, 12:34:13 - INFO - Setting socket.userId = 614ad26392b8a1101045b3a1 for socket [id: M_WYsYSrYNMnwgL-AAA3] 
+22.5.2022, 12:34:38 - INFO - New connected socket [id: VFYwSGb3a0OfE-AxAAA7] 
+22.5.2022, 12:34:38 - INFO - New connected socket [id: 0P2WkGzQ2H6HNqn7AAA9] 
+22.5.2022, 12:34:39 - INFO - Setting socket.userId = 614ad26392b8a1101045b3a1 for socket [id: 0P2WkGzQ2H6HNqn7AAA9] 
+22.5.2022, 12:34:59 - INFO - New connected socket [id: PVS-WK9KuLcKO6N2AAA_] 
+22.5.2022, 12:34:59 - INFO - New connected socket [id: JmtpTt1QxJBwfI2rAABB] 
+22.5.2022, 12:35:00 - INFO - Setting socket.userId = 614ad26392b8a1101045b3a1 for socket [id: PVS-WK9KuLcKO6N2AAA_] 
+22.5.2022, 12:36:36 - DEBUG - auth.service - signup with username: ya, fullname: Ya 
+22.5.2022, 12:36:36 - DEBUG - auth.route - new account created: {"username":"ya","password":"$2b$10$j6/XZncPCi1CfI1RsfSB1.zIXgZrpYrSZjrtC5mCxK0Mp/phQcwZm","fullname":"Ya","imgUrl":"https://res.cloudinary.com/dcwibf9o5/image/upload/v1653212192/jfz8ymdhk5i6jdb2u4bq.jpg","score":100,"_id":"628a0424ae695950446757ed"} 
+22.5.2022, 12:36:36 - DEBUG - auth.service - login with username: ya 
+22.5.2022, 12:36:36 - INFO - User signup: | {"_id":"628a0424ae695950446757ed","username":"ya","fullname":"Ya","imgUrl":"https://res.cloudinary.com/dcwibf9o5/image/upload/v1653212192/jfz8ymdhk5i6jdb2u4bq.jpg","score":100} 
+22.5.2022, 12:36:36 - INFO - Setting socket.userId = 628a0424ae695950446757ed for socket [id: JmtpTt1QxJBwfI2rAABB] 
+22.5.2022, 12:37:12 - INFO - Broadcasting event: review-added (userId: 614ad26392b8a1101045b3a1)
+22.5.2022, 12:37:12 - INFO - Broadcast to all excluding user: 614ad26392b8a1101045b3a1 (userId: 614ad26392b8a1101045b3a1)
+22.5.2022, 12:37:12 - INFO - No active socket for user: 614ad26392b8a1101045b3a2 (userId: 614ad26392b8a1101045b3a1)
+22.5.2022, 12:37:21 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:37:21 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:37:21 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:37:21 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:37:21 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:37:21 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:37:22 - INFO - New connected socket [id: MezB_7I3gkaalxL0AABD] 
+22.5.2022, 12:37:23 - INFO - Setting socket.userId = 614ad26392b8a1101045b3a1 for socket [id: MezB_7I3gkaalxL0AABD] 
+22.5.2022, 12:37:34 - INFO - Broadcasting event: review-added (userId: 614ad26392b8a1101045b3a1)
+22.5.2022, 12:37:34 - INFO - Broadcast to all excluding user: 614ad26392b8a1101045b3a1 (userId: 614ad26392b8a1101045b3a1)
+22.5.2022, 12:37:34 - INFO - No active socket for user: 614ad26392b8a1101045b3a2 (userId: 614ad26392b8a1101045b3a1)
+22.5.2022, 12:42:17 - INFO - Broadcasting event: review-added (userId: 614ad26392b8a1101045b3a1)
+22.5.2022, 12:42:17 - INFO - Broadcast to all excluding user: 614ad26392b8a1101045b3a1 (userId: 614ad26392b8a1101045b3a1)
+22.5.2022, 12:42:17 - INFO - Emiting event: review-about-you to user: 628a0424ae695950446757ed socket [id: JmtpTt1QxJBwfI2rAABB] (userId: 614ad26392b8a1101045b3a1)
+22.5.2022, 12:42:23 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:42:23 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:42:23 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:42:23 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:42:23 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:42:23 - INFO - Socket disconnected [id: undefined] 
+22.5.2022, 12:42:25 - INFO - New connected socket [id: E9WeiJex6SooPIH-AABF] 
+22.5.2022, 12:42:25 - INFO - Setting socket.userId = 628a0424ae695950446757ed for socket [id: E9WeiJex6SooPIH-AABF] 
+22.5.2022, 12:42:31 - INFO - Broadcasting event: review-added (userId: 614ad26392b8a1101045b3a1)
+22.5.2022, 12:42:31 - INFO - Broadcast to all excluding user: 614ad26392b8a1101045b3a1 (userId: 614ad26392b8a1101045b3a1)
+22.5.2022, 12:42:31 - INFO - Emiting event: review-about-you to user: 628a0424ae695950446757ed socket [id: E9WeiJex6SooPIH-AABF] (userId: 614ad26392b8a1101045b3a1)
+22.5.2022, 12:50:13 - INFO - Server is running on port: 3030 
+22.5.2022, 12:50:14 - INFO - New connected socket [id: mZHpoZgSSRZdhPhnAAAD] 
+22.5.2022, 12:50:14 - INFO - New connected socket [id: RW_hz9tYkApiAfrSAAAE] 
+22.5.2022, 12:50:14 - INFO - New connected socket [id: Lo3Gi2gYCkos4d0yAAAF] 
+22.5.2022, 12:53:43 - INFO - user-watch from socket [id: RW_hz9tYkApiAfrSAAAE], on user 614ad26392b8a1101045b3a1 
+22.5.2022, 12:53:58 - INFO - user-watch from socket [id: RW_hz9tYkApiAfrSAAAE], on user 628a0424ae695950446757ed 
+22.5.2022, 12:54:09 - INFO - Broadcasting event: review-added (userId: 628a0424ae695950446757ed)
+22.5.2022, 12:54:09 - INFO - Emit to all (userId: 628a0424ae695950446757ed)
+22.5.2022, 12:54:09 - INFO - No active socket for user: 614ad26492b8a1101045b3a3 (userId: 628a0424ae695950446757ed)
+22.5.2022, 12:54:46 - INFO - Socket disconnected [id: undefined] 
+31.5.2022, 20:39:49 - INFO - Server is running on port: 3030 
+31.5.2022, 20:39:52 - DEBUG - auth.service - login with username: itamar 
+31.5.2022, 20:39:52 - INFO - User login:  | {"_id":"6283b2ce4e310c321ce602b2","username":"itamar","fullname":"itamarSahar","score":100,"isAdmin":true} 
+31.5.2022, 20:40:31 - DEBUG - auth.service - signup with username: itamar12, fullname: itamarSahar 
+31.5.2022, 20:40:31 - DEBUG - auth.route - new account created: {"username":"itamar12","password":"$2b$10$hTNqB0rP0x4VSDSZzSGoy.mg96L.Mu9EoDQH0AEm50VRBUWVXzYEC","fullname":"itamarSahar","score":100,"_id":"6296530fce1ff622e8b7f632"} 
+31.5.2022, 20:40:31 - DEBUG - auth.service - login with username: itamar12 
+31.5.2022, 20:40:31 - INFO - User signup: | {"_id":"6296530fce1ff622e8b7f632","username":"itamar12","fullname":"itamarSahar","imgUrl":null,"score":100} 
+31.5.2022, 20:44:12 - INFO - Server is running on port: 3030 
+31.5.2022, 20:44:48 - DEBUG - auth.service - signup with username: itamar12, fullname: itamarSahar (userId: 6296530fce1ff622e8b7f632)
+31.5.2022, 20:44:48 - ERROR - Failed to signup Missing required signup information (userId: 6296530fce1ff622e8b7f632)
+31.5.2022, 20:44:57 - DEBUG - auth.service - signup with username: itamar12, fullname: itamarSahar (userId: 6296530fce1ff622e8b7f632)
+31.5.2022, 20:44:57 - ERROR - Failed to signup Username already taken (userId: 6296530fce1ff622e8b7f632)
+31.5.2022, 20:46:04 - INFO - Server is running on port: 3030 
+31.5.2022, 20:46:14 - INFO - Server is running on port: 3030 
+31.5.2022, 20:46:24 - INFO - Server is running on port: 3030 
+31.5.2022, 21:05:35 - INFO - Server is running on port: 3030 
+31.5.2022, 21:06:14 - INFO - Server is running on port: 3030 
+31.5.2022, 21:13:40 - INFO - Server is running on port: 3030 
+31.5.2022, 21:17:01 - INFO - Server is running on port: 3030 
+31.5.2022, 21:19:33 - INFO - Server is running on port: 3030 
+31.5.2022, 21:20:15 - INFO - Server is running on port: 3030 
+31.5.2022, 21:20:25 - INFO - Server is running on port: 3030 
+31.5.2022, 21:22:05 - INFO - Server is running on port: 3030 
+31.5.2022, 21:24:16 - INFO - Server is running on port: 3030 
+31.5.2022, 21:26:50 - INFO - Server is running on port: 3030 
+31.5.2022, 21:27:02 - INFO - Server is running on port: 3030 
+31.5.2022, 21:27:34 - INFO - Server is running on port: 3030 
+31.5.2022, 21:28:24 - INFO - Server is running on port: 3030 
+31.5.2022, 21:30:14 - INFO - Server is running on port: 3030 
+31.5.2022, 21:32:38 - INFO - Server is running on port: 3030 
+31.5.2022, 21:36:01 - INFO - Server is running on port: 3030 
+31.5.2022, 21:36:20 - DEBUG - auth.service - login with username: itamar 
+31.5.2022, 21:36:20 - ERROR - Failed to Login Invalid username or password 
+31.5.2022, 21:36:24 - DEBUG - auth.service - signup with username: itamar12, fullname: itamarSahar 
+31.5.2022, 21:36:24 - ERROR - Failed to signup ReferenceError: saltRounds is not defined 
+31.5.2022, 21:38:41 - INFO - Server is running on port: 3030 
+31.5.2022, 21:38:56 - DEBUG - auth.service - signup with username: itamar12, fullname: itamarSahar 
+31.5.2022, 21:38:57 - ERROR - Failed to signup Error: data and salt arguments required 
+31.5.2022, 21:39:31 - INFO - Server is running on port: 3030 
+31.5.2022, 21:39:33 - DEBUG - auth.service - signup with username: itamar12, fullname: itamarSahar 
+31.5.2022, 21:39:35 - DEBUG - auth.route - new account created: {"username":"itamar12","password":"$2b$10$I1Bri7HwxdD7nh21u/WmMOj8buveJGTBFXfWBAhbTRe7cIvE5mZJW","fullname":"itamarSahar","score":100,"_id":"629660e6ae28a16e44512807"} 
+31.5.2022, 21:39:35 - DEBUG - auth.service - login with username: itamar12 
+31.5.2022, 21:39:35 - INFO - User signup: | {"_id":"629660e6ae28a16e44512807","username":"itamar12","fullname":"itamarSahar","imgUrl":null,"score":100} 
+31.5.2022, 21:42:04 - INFO - Server is running on port: 3030 
+31.5.2022, 21:43:57 - ERROR - cannot find users | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629660e6ae28a16e44512807)
+31.5.2022, 21:43:57 - ERROR - Failed to get users | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629660e6ae28a16e44512807)
+31.5.2022, 21:44:35 - ERROR - cannot find users | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629660e6ae28a16e44512807)
+31.5.2022, 21:44:35 - ERROR - Failed to get users | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629660e6ae28a16e44512807)
+31.5.2022, 21:45:39 - INFO - Server is running on port: 3030 
+31.5.2022, 21:46:44 - INFO - Server is running on port: 3030 
+1.6.2022, 10:26:55 - DEBUG - auth.service - login with username: itamכar (userId: 629660e6ae28a16e44512807)
+1.6.2022, 10:26:55 - ERROR - Failed to Login Invalid username or password (userId: 629660e6ae28a16e44512807)
+1.6.2022, 10:27:11 - DEBUG - auth.service - signup with username: itamar, fullname: itamarSahar (userId: 629660e6ae28a16e44512807)
+1.6.2022, 10:27:11 - DEBUG - auth.route - new account created: {"username":"itamar","password":"$2b$10$P02.bS4FT/pPSUsU.Zswm.sOhg0k4ESUwjqbrq4f6LUW9XHW8hFvq","fullname":"itamarSahar","score":100,"_id":"629714cf3604a80aec97a456"} (userId: 629660e6ae28a16e44512807)
+1.6.2022, 10:27:11 - DEBUG - auth.service - login with username: itamar (userId: 629660e6ae28a16e44512807)
+1.6.2022, 10:27:11 - INFO - User signup: | {"_id":"629714cf3604a80aec97a456","username":"itamar","fullname":"itamarSahar","imgUrl":null,"score":100} (userId: 629660e6ae28a16e44512807)
+1.6.2022, 10:27:14 - DEBUG - auth.service - login with username: itamar (userId: 629714cf3604a80aec97a456)
+1.6.2022, 10:27:14 - INFO - User login:  | {"_id":"629714cf3604a80aec97a456","username":"itamar","fullname":"itamarSahar","imgUrl":null,"score":100} (userId: 629714cf3604a80aec97a456)
+1.6.2022, 10:36:04 - INFO - Server is running on port: 3030 
+1.6.2022, 10:36:12 - DEBUG - auth.service - signup with username: itamar12, fullname: itamarSahar (userId: 629714cf3604a80aec97a456)
+1.6.2022, 10:36:13 - DEBUG - auth.route - new account created: {"username":"itamar12","password":"$2b$10$0FREkbsWZgrMy/yM2bg.kuggUfFuTk2t.izQoBmpXC7YOMRctoVA6","fullname":"itamarSahar","boards":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"629716edc6602b726013fc18"} (userId: 629714cf3604a80aec97a456)
+1.6.2022, 10:36:13 - DEBUG - auth.service - login with username: itamar12 (userId: 629714cf3604a80aec97a456)
+1.6.2022, 10:36:13 - INFO - User signup: | {"_id":"629716edc6602b726013fc18","username":"itamar12","fullname":"itamarSahar","boards":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} (userId: 629714cf3604a80aec97a456)
+1.6.2022, 10:42:27 - DEBUG - auth.service - signup with username: 3, fullname: 3 
+1.6.2022, 10:42:28 - DEBUG - auth.route - new account created: {"username":"3","password":"$2b$10$4MSp.qooySBZBLwtPL428.mFlfLZJyyTWFLKFDtNeX0nE4krfJF8e","fullname":"3","boards":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62971863c6602b726013fc19"} 
+1.6.2022, 10:42:28 - DEBUG - auth.service - login with username: 3 
+1.6.2022, 10:42:28 - INFO - User signup: | {"_id":"62971863c6602b726013fc19","username":"3","fullname":"3","boards":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} 
+1.6.2022, 10:44:39 - DEBUG - auth.service - login with username: itamar12 (userId: 62971863c6602b726013fc19)
+1.6.2022, 10:44:40 - INFO - User login:  | {"_id":"629716edc6602b726013fc18","username":"itamar12","fullname":"itamarSahar","boards":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} (userId: 62971863c6602b726013fc19)
+1.6.2022, 11:22:35 - INFO - Server is running on port: 3030 
+1.6.2022, 11:22:55 - INFO - Server is running on port: 3030 
+1.6.2022, 11:23:03 - INFO - Server is running on port: 3030 
+1.6.2022, 11:25:47 - INFO - Server is running on port: 3030 
+1.6.2022, 11:26:05 - INFO - Server is running on port: 3030 
+1.6.2022, 11:30:50 - INFO - Server is running on port: 3030 
+1.6.2022, 11:31:57 - INFO - Server is running on port: 3030 
+1.6.2022, 11:32:13 - INFO - Server is running on port: 3030 
+1.6.2022, 13:57:11 - INFO - Server is running on port: 3030 
