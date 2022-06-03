@@ -10,6 +10,7 @@ async function getTempletes(req, res) {
 		const filterBy = { ...req.query }
 
 		const templetes = await templeteService.query(filterBy)
+		console.log(templates);
 		res.send(templetes)
 	} catch (err) {
 		logger.error('Cannot get templetes', err)
