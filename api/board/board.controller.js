@@ -69,8 +69,21 @@ async function addBoard(req, res) {
 	}
 }
 
+async function updateBoard(req, res) {
+    try {
+        const board = req.body
+        // console.log('board from front:' , board);
+        const savedBoard = await boardService.update(board)
+        res.send(savedBoard)
+    } catch (err) {
+        logger.error('Failed to update board', err)
+        res.status(500).send({ err: 'Failed to update board' })
+    }
+}
+
 module.exports = {
 	getBoards,
 	getBoard,
 	addBoard,
+	updateBoard
 }

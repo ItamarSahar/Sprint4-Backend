@@ -7,6 +7,7 @@ module.exports = {
 	query,
 	getById,
 	add,
+	update
 }
 
 async function query(filterBy = {}) {
@@ -45,6 +46,20 @@ async function add(board) {
 		return boardToAdd
 	} catch (err) {
 		logger.error('cannot insert review', err)
+		throw err
+	}
+}
+
+async function update(board) {
+	try {
+		// peek only updatable properties44778/
+		const boardToSave = {...board, _id:ObjectId(board._id)}
+		const collection = await dbService.getCollection('board')
+		const updateBoard =await collection.updateOne({ _id: boardToSave._id }, { $set: boardToSave })
+		console.log('update', updateBoard);
+		return boardToSave
+	} catch (err) {
+		logger.error(`cannot update board ${board._id}`, err)
 		throw err
 	}
 }
