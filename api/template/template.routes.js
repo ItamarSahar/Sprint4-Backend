@@ -4,9 +4,10 @@ const {
 	requireAdmin,
 } = require('../../middlewares/requireAuth.middleware')
 const { log } = require('../../middlewares/logger.middleware')
-const { getTempletes } = require('./templete.controller')
+const { getTemplates, getTemplate } = require('./template.controller')
 const router = express.Router()
 
-router.get('/', log, getTempletes)
+router.get('/', log, getTemplates)
+router.get('/:id', getTemplate)
 
 module.exports = router

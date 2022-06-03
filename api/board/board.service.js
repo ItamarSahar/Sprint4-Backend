@@ -12,7 +12,7 @@ module.exports = {
 
 async function query(filterBy = {}) {
 	const criteria = _buildCriteria(filterBy)
-	console.log('criteria:',criteria);
+	console.log('criteria:', criteria)
 	try {
 		const collection = await dbService.getCollection('board')
 		var boards = await collection.find(criteria).toArray()
@@ -52,11 +52,15 @@ async function add(board) {
 
 async function update(board) {
 	try {
-		// peek only updatable properties44778/
-		const boardToSave = {...board, _id:ObjectId(board._id)}
+		// peek only updatable properties
+		const boardToSave = { ...board, _id: ObjectId(board._id) }
+
 		const collection = await dbService.getCollection('board')
-		const updateBoard =await collection.updateOne({ _id: boardToSave._id }, { $set: boardToSave })
-		console.log('update', updateBoard);
+		const update = await collection.updateOne(
+			{ _id: boardToSave._id },
+			{ $set: boardToSave }
+		)
+		console.log('updateDB:', update)
 		return boardToSave
 	} catch (err) {
 		logger.error(`cannot update board ${board._id}`, err)
