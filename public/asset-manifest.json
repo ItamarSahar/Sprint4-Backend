@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2a36429d.css",
+    "main.js": "/static/js/main.74efe751.js",
+    "static/js/787.2faa5723.chunk.js": "/static/js/787.2faa5723.chunk.js",
+    "static/media/SFUIText-Regular.otf": "/static/media/SFUIText-Regular.3891cf449d0d4808a8b5.otf",
+    "static/media/SFUIDisplay-Regular.otf": "/static/media/SFUIDisplay-Regular.824bcb096242327a0403.otf",
+    "static/media/hero1.png": "/static/media/hero1.e8878a5487f1b4b94d6f.png",
+    "static/media/CharlieText-Bold.ttf": "/static/media/CharlieText-Bold.eb3a81215767065765bd.ttf",
+    "static/media/CharlieDisplay-Semibold.ttf": "/static/media/CharlieDisplay-Semibold.201c3bbd088f77242610.ttf",
+    "static/media/CharlieText-Semibold.ttf": "/static/media/CharlieText-Semibold.9c8e3395b54fc4328868.ttf",
+    "static/media/CharlieDisplay-Regular.ttf": "/static/media/CharlieDisplay-Regular.a2a3c582da84941794e4.ttf",
+    "static/media/CharlieText-Regular.ttf": "/static/media/CharlieText-Regular.3443d70ce64d7c39caf1.ttf",
+    "static/media/charlie-text.woff": "/static/media/charlie-text.412ff94c22c5a7b585da.woff",
+    "static/media/Charlie.otf": "/static/media/Charlie.24d7eab43fe70d94fc1b.otf",
+    "static/media/info.png": "/static/media/info.a9b33a5d268cc03a1305.png",
+    "index.html": "/index.html",
+    "main.2a36429d.css.map": "/static/css/main.2a36429d.css.map",
+    "main.74efe751.js.map": "/static/js/main.74efe751.js.map",
+    "787.2faa5723.chunk.js.map": "/static/js/787.2faa5723.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a36429d.css",
+    "static/js/main.74efe751.js"
+  ]
+}
