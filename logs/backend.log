@@ -1703,3 +1703,4 @@
 8.7.2022, 19:29:23 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
 8.7.2022, 19:29:24 - ERROR - while finding board YcX3L | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
 8.7.2022, 19:29:24 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+8.7.2022, 19:55:00 - INFO - Server is running on port: 3030 
