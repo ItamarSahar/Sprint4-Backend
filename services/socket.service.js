@@ -46,6 +46,15 @@ function setupSocketAPI(http) {
 			)
 			socket.userId = userId
 		})
+
+
+		socket.on('updated-board', (board) => {
+			logger.info(
+				`updated board`)
+		gIo.emit('update-board',board)
+		})
+
+
 		socket.on('unset-user-socket', () => {
 			logger.info(`Removing socket.userId for socket [id: ${socket.id}]`)
 			delete socket.userId
