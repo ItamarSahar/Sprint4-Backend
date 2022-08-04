@@ -97,8 +97,7 @@ async function add(user) {
 			password: user.password,
 			fullname: user.fullname,
 			boards: [],
-			imgUrl:
-				'https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg',
+			imgUrl:user.imgUrl||'',
 			mentions: [],
 		}
 		const collection = await dbService.getCollection('user')

@@ -12,7 +12,7 @@ module.exports = {
 
 async function query(filterBy = {}) {
 	const criteria = _buildCriteria(filterBy)
-	console.log('criteria:', criteria)
+	// console.log('criteria:', criteria)
 	try {
 		const collection = await dbService.getCollection('board')
 		var boards = await collection.find(criteria).toArray()
@@ -60,7 +60,7 @@ async function update(board) {
 			{ _id: boardToSave._id },
 			{ $set: boardToSave }
 		)
-		console.log('updateDB:', update)
+		// console.log('updateDB:', update)
 		return boardToSave
 	} catch (err) {
 		logger.error(`cannot update board ${board._id}`, err)

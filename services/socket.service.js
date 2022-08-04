@@ -1,15 +1,19 @@
+const { Socket } = require('socket.io');
 const asyncLocalStorage = require('./als.service')
 const logger = require('./logger.service')
 
 var gIo = null
 
 function setupSocketAPI(http) {
+	console.log('in setupsocketapi BACK');
 	gIo = require('socket.io')(http, {
 		cors: {
 			origin: '*',
 		},
 	})
+	console.log(gIo,' BACK');
 	gIo.on('connection', (socket) => {
+		console.log('in on connection BACK');
 		logger.info(`New connected socket [id: ${socket.id}]`)
 		socket.on('disconnect', (socket) => {
 			logger.info(`Socket disconnected [id: ${socket.id}]`)
@@ -34,6 +38,19 @@ function setupSocketAPI(http) {
 			// emits only to sockets in the same room
 			gIo.to(socket.myTopic).emit('chat addMsg', msg)
 		})
+		//NEW
+		socket.on('board-updated', (board) => {
+			logger.info(
+				`board updated`
+			)
+			gIo.emit('update-board', board)
+			// emits to all sockets:
+			// gIo.emit('chat addMsg', msg)
+			// emits only to sockets in the same room
+			// gIo.to(socket.myTopic).emit('chat addMsg', msg)
+		})
+
+
 		socket.on('user-watch', (userId) => {
 			logger.info(
 				`user-watch from socket [id: ${socket.id}], on user ${userId}`

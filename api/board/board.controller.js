@@ -19,7 +19,7 @@ async function getBoards(req, res) {
 	try {
 		const filterBy = { ...req.query }
 
-		console.log('req.query:board.c', req.query)
+		// console.log('req.query:board.c', req.query)
 
 		const boards = await boardService.query(filterBy)
 		res.send(boards)
@@ -34,7 +34,7 @@ async function addBoard(req, res) {
 
 	try {
 		var board = req.body
-		console.log(board)
+		// console.log(board)
 		board = await boardService.add(board)
 
 		loggedinUser = await userService.update(loggedinUser)
