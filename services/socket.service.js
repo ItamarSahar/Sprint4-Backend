@@ -45,6 +45,7 @@ function setupSocketAPI(http) {
 				`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`
 			)
 			socket.userId = userId
+			logger.info(`Setting socket ${socket.userId}`)
 		})
 
 

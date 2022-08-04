@@ -10,6 +10,19 @@ module.exports = {
 	remove,
 	update,
 	add,
+	queryAllUsers
+}
+
+
+async function queryAllUsers() {
+	try {
+		const collection = await dbService.getCollection('user')
+		return collection
+	} catch (err) {
+		logger.error('cannot load users', err)
+		throw err
+	}
+
 }
 
 async function query(filterBy = {}) {
@@ -92,13 +105,14 @@ async function update(user) {
 async function add(user) {
 	try {
 		// peek only updatable fields!
+		console.log(user)
+		let imgUrl = user.imgUrl ? user.imgUrl : ''
 		const userToAdd = {
 			username: user.username,
 			password: user.password,
 			fullname: user.fullname,
 			boards: [],
-			imgUrl:
-				'https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg',
+			imgUrl,
 			mentions: [],
 		}
 		const collection = await dbService.getCollection('user')
