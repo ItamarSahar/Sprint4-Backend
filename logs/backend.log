@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 22.5.2022, 12:20:34 - INFO - Socket disconnected [id: undefined] 
 22.5.2022, 12:20:36 - INFO - New connected socket [id: tYzzj2eSL6XNvq_oAAAJ] 
 22.5.2022, 12:21:03 - DEBUG - auth.service - login with username: user1 (userId: 614ad26392b8a1101045b3a1)
@@ -3612,3 +3613,2067 @@
 4.8.2022, 22:58:44 - INFO - User signup: | {"_id":"62ec24f4f07e54483c4de6b0","username":"v","fullname":"2we3rfg","boards":[],"imgUrl":"","mentions":[]} (userId: 62ec2424ce4fed52e0c9dda2)
 4.8.2022, 22:58:45 - INFO - Setting socket.userId = 62ec24f4f07e54483c4de6b0 for socket [id: d46LgaqbnwSt1A_2AAAF] 
 4.8.2022, 22:58:50 - INFO - board updated 
+=======
+8.7.2022, 19:47:51 - INFO - Server is running on port: 3030 
+8.7.2022, 19:50:39 - INFO - Server is running on port: 3030 
+13.7.2022, 19:49:21 - INFO - Server is running on port: 3030 
+13.7.2022, 19:50:56 - INFO - Server is running on port: 3030 
+13.7.2022, 19:52:24 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+13.7.2022, 19:52:24 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+13.7.2022, 19:54:12 - INFO - Server is running on port: 3030 
+13.7.2022, 19:59:19 - INFO - Server is running on port: 3030 
+13.7.2022, 19:59:21 - DEBUG - auth.service - login with username: n1 
+13.7.2022, 19:59:22 - DEBUG - auth.service - login with username: n1 
+13.7.2022, 19:59:22 - DEBUG - auth.service - login with username: n1 
+13.7.2022, 19:59:23 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62a0442c85df3b9b549bd492"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} 
+13.7.2022, 19:59:23 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62a0442c85df3b9b549bd492"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} 
+13.7.2022, 19:59:23 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62a0442c85df3b9b549bd492"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} 
+13.7.2022, 19:59:40 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+13.7.2022, 19:59:40 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+13.7.2022, 23:11:50 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+13.7.2022, 23:11:51 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62a0442c85df3b9b549bd492"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+13.7.2022, 23:11:54 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+13.7.2022, 23:11:54 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+14.7.2022, 13:57:49 - INFO - Server is running on port: 3030 
+14.7.2022, 15:14:48 - INFO - Server is running on port: 3030 
+14.7.2022, 15:15:27 - INFO - Server is running on port: 3030 
+14.7.2022, 15:15:31 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+14.7.2022, 15:15:33 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62a0442c85df3b9b549bd492"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+14.7.2022, 15:15:34 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+14.7.2022, 15:15:34 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+14.7.2022, 20:35:55 - INFO - Server is running on port: 3030 
+14.7.2022, 20:36:42 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+14.7.2022, 20:36:43 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62a0442c85df3b9b549bd492"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+14.7.2022, 20:36:54 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+14.7.2022, 20:36:54 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+17.7.2022, 11:18:08 - INFO - Server is running on port: 3030 
+17.7.2022, 11:18:38 - DEBUG - auth.service - login with username: n1 
+17.7.2022, 11:18:40 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62a0442c85df3b9b549bd492"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} 
+17.7.2022, 11:18:44 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+17.7.2022, 11:18:45 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+17.7.2022, 14:57:25 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+17.7.2022, 14:57:25 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+17.7.2022, 15:05:55 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+17.7.2022, 15:05:55 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+17.7.2022, 15:06:57 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+17.7.2022, 15:06:57 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+19.7.2022, 16:05:41 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+19.7.2022, 16:05:42 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62a0442c85df3b9b549bd492"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+19.7.2022, 16:05:46 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+19.7.2022, 16:05:46 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+19.7.2022, 16:06:44 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+19.7.2022, 16:06:44 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62a0442c85df3b9b549bd492"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+19.7.2022, 16:06:46 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+19.7.2022, 16:06:46 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+20.7.2022, 1:11:12 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+20.7.2022, 1:11:12 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62a0442c85df3b9b549bd492"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+20.7.2022, 1:11:16 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+20.7.2022, 1:11:16 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+20.7.2022, 19:08:49 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+20.7.2022, 19:08:49 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+21.7.2022, 1:35:51 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+21.7.2022, 1:35:51 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62a0442c85df3b9b549bd492"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+21.7.2022, 1:35:56 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+21.7.2022, 1:35:56 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+21.7.2022, 1:47:32 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+21.7.2022, 1:47:32 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+21.7.2022, 13:24:38 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+21.7.2022, 13:24:39 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62a0442c85df3b9b549bd492"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+21.7.2022, 13:24:44 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+21.7.2022, 13:24:44 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+21.7.2022, 15:28:44 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+21.7.2022, 15:28:44 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+21.7.2022, 16:02:19 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+21.7.2022, 16:02:19 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62a0442c85df3b9b549bd492"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+21.7.2022, 16:02:23 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+21.7.2022, 16:02:23 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+22.7.2022, 0:55:37 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+22.7.2022, 0:55:38 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62a0442c85df3b9b549bd492"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+22.7.2022, 0:55:47 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+22.7.2022, 0:55:47 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+22.7.2022, 16:40:05 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+22.7.2022, 16:40:05 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+22.7.2022, 23:59:39 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+22.7.2022, 23:59:39 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+23.7.2022, 0:00:01 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+23.7.2022, 0:00:01 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+23.7.2022, 2:34:33 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+23.7.2022, 2:34:33 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+23.7.2022, 17:26:21 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+23.7.2022, 17:26:21 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+23.7.2022, 17:33:50 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+23.7.2022, 17:33:50 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+24.7.2022, 0:24:14 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+24.7.2022, 0:24:14 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+24.7.2022, 18:58:34 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+24.7.2022, 18:58:34 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62a0442c85df3b9b549bd492"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+24.7.2022, 18:58:37 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+24.7.2022, 18:58:37 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+25.7.2022, 15:57:07 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+25.7.2022, 15:57:07 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+25.7.2022, 16:02:08 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+25.7.2022, 16:02:08 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+25.7.2022, 16:04:58 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+25.7.2022, 16:04:58 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+25.7.2022, 16:05:13 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+25.7.2022, 16:05:13 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+25.7.2022, 16:08:30 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+25.7.2022, 16:08:30 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+25.7.2022, 17:03:52 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+25.7.2022, 17:03:52 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+25.7.2022, 17:06:36 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+25.7.2022, 17:06:36 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+25.7.2022, 17:13:30 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+25.7.2022, 17:13:30 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+25.7.2022, 17:20:52 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+25.7.2022, 17:20:52 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+25.7.2022, 17:21:00 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+25.7.2022, 17:21:00 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 1:03:03 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 1:03:03 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 1:03:19 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 1:03:19 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 1:04:25 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 1:04:25 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 1:04:47 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 1:04:47 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 1:13:49 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+26.7.2022, 1:13:49 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62a0442c85df3b9b549bd492"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+26.7.2022, 1:13:56 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 1:13:56 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 1:16:40 - INFO - Server is running on port: 3030 
+26.7.2022, 15:20:12 - INFO - Server is running on port: 3030 
+26.7.2022, 15:21:18 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+26.7.2022, 15:21:20 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62a0442c85df3b9b549bd492"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+26.7.2022, 15:21:27 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 15:21:27 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 15:34:43 - INFO - Server is running on port: 3030 
+26.7.2022, 15:35:16 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+26.7.2022, 15:35:17 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62a0442c85df3b9b549bd492"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+26.7.2022, 15:40:45 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 15:40:45 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 15:42:29 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 15:42:29 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 20:15:55 - INFO - Server is running on port: 3030 
+26.7.2022, 20:17:01 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+26.7.2022, 20:17:03 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62a0442c85df3b9b549bd492","62e009dd2a7ffb4a904cf571"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+26.7.2022, 20:17:06 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 20:17:06 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 20:20:35 - INFO - New connected socket [id: bbgSjBlQggnZzyOLAAAB] 
+26.7.2022, 20:20:37 - INFO - Setting socket.userId = null for socket [id: bbgSjBlQggnZzyOLAAAB] 
+26.7.2022, 20:20:42 - INFO - Socket disconnected [id: undefined] 
+26.7.2022, 20:20:44 - INFO - New connected socket [id: RrB3vSyV-1WGQAgkAAAD] 
+26.7.2022, 20:20:44 - INFO - Setting socket.userId = null for socket [id: RrB3vSyV-1WGQAgkAAAD] 
+26.7.2022, 20:23:11 - INFO - New connected socket [id: CpE4oLBnurBjWQc3AAAF] 
+26.7.2022, 20:23:54 - INFO - Setting socket.userId = null for socket [id: CpE4oLBnurBjWQc3AAAF] 
+26.7.2022, 20:27:08 - INFO - Server is running on port: 3030 
+26.7.2022, 20:27:09 - INFO - New connected socket [id: xiPhL6qaA76u0d19AAAC] 
+26.7.2022, 20:27:09 - INFO - New connected socket [id: fR6HXZ-dywLL4nnSAAAD] 
+26.7.2022, 20:28:10 - INFO - New connected socket [id: mIlFLy7h911oSl_EAAAF] 
+26.7.2022, 20:28:11 - INFO - updated board 
+26.7.2022, 20:29:27 - INFO - Setting socket.userId = null for socket [id: mIlFLy7h911oSl_EAAAF] 
+26.7.2022, 20:30:41 - INFO - New connected socket [id: ytOH3EGJzr9DtQjEAAAH] 
+26.7.2022, 20:30:41 - INFO - Setting socket.userId = null for socket [id: ytOH3EGJzr9DtQjEAAAH] 
+26.7.2022, 20:30:43 - INFO - updated board 
+26.7.2022, 20:30:48 - INFO - updated board 
+26.7.2022, 20:30:55 - INFO - updated board 
+26.7.2022, 20:31:00 - INFO - Socket disconnected [id: undefined] 
+26.7.2022, 20:31:00 - INFO - New connected socket [id: 0irxV_JC_1UHw940AAAJ] 
+26.7.2022, 20:31:00 - INFO - Setting socket.userId = null for socket [id: 0irxV_JC_1UHw940AAAJ] 
+26.7.2022, 20:31:02 - INFO - updated board 
+26.7.2022, 20:31:05 - INFO - updated board 
+26.7.2022, 20:31:45 - INFO - Server is running on port: 3030 
+26.7.2022, 20:31:45 - INFO - New connected socket [id: q0k-GeO4PKD7ZAZuAAAD] 
+26.7.2022, 20:31:45 - INFO - New connected socket [id: VTOLaP5H9w_d0G-HAAAE] 
+26.7.2022, 20:31:46 - INFO - New connected socket [id: UFMTOhBgc8mEuDVpAAAF] 
+26.7.2022, 20:31:46 - INFO - New connected socket [id: CwctHMPAfpIE0C4yAAAH] 
+26.7.2022, 20:31:51 - INFO - updated board 
+26.7.2022, 20:31:55 - INFO - updated board 
+26.7.2022, 20:32:08 - INFO - Server is running on port: 3030 
+26.7.2022, 20:32:09 - INFO - New connected socket [id: oiq9QJgR4E0_l-GmAAAE] 
+26.7.2022, 20:32:09 - INFO - New connected socket [id: wJb-cCs0iHtsjFiFAAAF] 
+26.7.2022, 20:32:09 - INFO - New connected socket [id: puola5AVIwPcOz8dAAAG] 
+26.7.2022, 20:32:09 - INFO - New connected socket [id: umPPtIQVjxkE4Vx9AAAH] 
+26.7.2022, 20:32:39 - INFO - updated board 
+26.7.2022, 20:33:09 - INFO - updated board 
+26.7.2022, 20:33:37 - INFO - updated board 
+26.7.2022, 20:33:44 - INFO - updated board 
+26.7.2022, 20:35:10 - INFO - updated board 
+26.7.2022, 20:35:16 - INFO - updated board 
+26.7.2022, 20:35:20 - INFO - updated board 
+26.7.2022, 20:35:23 - INFO - updated board 
+26.7.2022, 20:35:41 - INFO - updated board 
+26.7.2022, 20:56:39 - INFO - Socket disconnected [id: undefined] 
+26.7.2022, 20:56:39 - INFO - Socket disconnected [id: undefined] 
+26.7.2022, 20:56:39 - INFO - Socket disconnected [id: undefined] 
+26.7.2022, 20:56:43 - INFO - Socket disconnected [id: undefined] 
+26.7.2022, 22:11:12 - INFO - New connected socket [id: FomS7Q3tuXxXkKmsAAAL] 
+26.7.2022, 22:11:12 - INFO - New connected socket [id: k5XzifBhBsI8IIzQAAAN] 
+26.7.2022, 22:11:12 - INFO - New connected socket [id: BgJRSd7BwWjDBStTAAAO] 
+26.7.2022, 22:11:12 - INFO - New connected socket [id: qQgzi0R_QEsQ8059AAAP] 
+26.7.2022, 22:29:43 - INFO - Socket disconnected [id: undefined] 
+26.7.2022, 22:29:43 - INFO - Socket disconnected [id: undefined] 
+26.7.2022, 22:29:43 - INFO - Socket disconnected [id: undefined] 
+26.7.2022, 22:29:44 - INFO - Socket disconnected [id: undefined] 
+26.7.2022, 22:29:55 - INFO - New connected socket [id: HfaPcyHMHPEWLBcqAAAR] 
+26.7.2022, 22:29:55 - INFO - New connected socket [id: iie--CsDEwiSmIONAAAV] 
+26.7.2022, 22:29:55 - INFO - New connected socket [id: 9T0cR3znBW6mGnvcAAAW] 
+26.7.2022, 22:29:55 - INFO - New connected socket [id: _P-6-e96XbeaBa9rAAAX] 
+26.7.2022, 23:24:26 - INFO - Server is running on port: 3030 
+26.7.2022, 23:24:57 - INFO - New connected socket [id: E5u5cmyOAf6MxAJ4AAAB] 
+26.7.2022, 23:24:57 - INFO - Setting socket.userId = null for socket [id: E5u5cmyOAf6MxAJ4AAAB] 
+26.7.2022, 23:25:34 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+26.7.2022, 23:25:36 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62a0442c85df3b9b549bd492","62e009dd2a7ffb4a904cf571"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+26.7.2022, 23:25:40 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 23:25:40 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 23:25:41 - INFO - updated board 
+26.7.2022, 23:32:26 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 23:32:26 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 23:32:27 - INFO - updated board 
+26.7.2022, 23:32:31 - INFO - updated board 
+26.7.2022, 23:33:13 - INFO - updated board 
+26.7.2022, 23:33:18 - INFO - Socket disconnected [id: undefined] 
+26.7.2022, 23:33:19 - INFO - New connected socket [id: Ts8nzbBrhCP7YSwiAAAD] 
+26.7.2022, 23:33:19 - INFO - Setting socket.userId = null for socket [id: Ts8nzbBrhCP7YSwiAAAD] 
+26.7.2022, 23:33:20 - INFO - updated board 
+26.7.2022, 23:33:24 - INFO - updated board 
+26.7.2022, 23:33:26 - INFO - Socket disconnected [id: undefined] 
+26.7.2022, 23:33:26 - INFO - New connected socket [id: Ey5Vbdo-rgvCP-SQAAAF] 
+26.7.2022, 23:33:26 - INFO - Setting socket.userId = null for socket [id: Ey5Vbdo-rgvCP-SQAAAF] 
+26.7.2022, 23:33:26 - INFO - updated board 
+26.7.2022, 23:33:32 - INFO - updated board 
+26.7.2022, 23:33:33 - INFO - Socket disconnected [id: undefined] 
+26.7.2022, 23:33:33 - INFO - New connected socket [id: 9eDrKwWtsrNkhplNAAAH] 
+26.7.2022, 23:33:33 - INFO - Setting socket.userId = null for socket [id: 9eDrKwWtsrNkhplNAAAH] 
+26.7.2022, 23:33:34 - INFO - updated board 
+26.7.2022, 23:35:37 - INFO - Socket disconnected [id: undefined] 
+26.7.2022, 23:35:37 - INFO - New connected socket [id: e9T_UXec8L3WwO4hAAAJ] 
+26.7.2022, 23:35:38 - INFO - Setting socket.userId = null for socket [id: e9T_UXec8L3WwO4hAAAJ] 
+26.7.2022, 23:35:38 - INFO - updated board 
+26.7.2022, 23:43:52 - INFO - Socket disconnected [id: undefined] 
+26.7.2022, 23:43:53 - INFO - New connected socket [id: cS9TjBQm4ePRNGbRAAAL] 
+26.7.2022, 23:43:53 - INFO - Setting socket.userId = null for socket [id: cS9TjBQm4ePRNGbRAAAL] 
+26.7.2022, 23:43:54 - INFO - updated board 
+26.7.2022, 23:44:02 - INFO - updated board 
+26.7.2022, 23:44:02 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 23:44:02 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 23:44:03 - INFO - updated board 
+26.7.2022, 23:44:49 - INFO - updated board 
+26.7.2022, 23:44:50 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 23:44:50 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 23:44:50 - INFO - updated board 
+26.7.2022, 23:45:23 - INFO - updated board 
+26.7.2022, 23:45:32 - INFO - Socket disconnected [id: undefined] 
+26.7.2022, 23:45:32 - INFO - New connected socket [id: VfO-lRec60S-gQNaAAAN] 
+26.7.2022, 23:45:33 - INFO - Setting socket.userId = null for socket [id: VfO-lRec60S-gQNaAAAN] 
+26.7.2022, 23:45:33 - INFO - updated board 
+26.7.2022, 23:45:41 - INFO - updated board 
+26.7.2022, 23:47:22 - INFO - Socket disconnected [id: undefined] 
+26.7.2022, 23:47:22 - INFO - New connected socket [id: 90sK0x2gExdWzXUTAAAP] 
+26.7.2022, 23:47:23 - INFO - Setting socket.userId = null for socket [id: 90sK0x2gExdWzXUTAAAP] 
+26.7.2022, 23:47:23 - INFO - updated board 
+26.7.2022, 23:48:56 - INFO - Socket disconnected [id: undefined] 
+26.7.2022, 23:48:56 - INFO - New connected socket [id: MiZpXR2-u14McTZsAAAR] 
+26.7.2022, 23:48:57 - INFO - Setting socket.userId = null for socket [id: MiZpXR2-u14McTZsAAAR] 
+26.7.2022, 23:48:58 - INFO - updated board 
+26.7.2022, 23:49:05 - INFO - updated board 
+26.7.2022, 23:50:55 - INFO - updated board 
+26.7.2022, 23:52:43 - INFO - Socket disconnected [id: undefined] 
+26.7.2022, 23:52:43 - INFO - New connected socket [id: MEFMcXkGzZpipkk7AAAT] 
+26.7.2022, 23:52:43 - INFO - Setting socket.userId = null for socket [id: MEFMcXkGzZpipkk7AAAT] 
+26.7.2022, 23:52:44 - INFO - updated board 
+26.7.2022, 23:53:32 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 23:53:32 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 23:53:33 - INFO - updated board 
+26.7.2022, 23:53:35 - INFO - Socket disconnected [id: undefined] 
+26.7.2022, 23:53:36 - INFO - New connected socket [id: 1qUZeET2sXniKG37AAAV] 
+26.7.2022, 23:53:36 - INFO - Setting socket.userId = null for socket [id: 1qUZeET2sXniKG37AAAV] 
+26.7.2022, 23:53:37 - INFO - updated board 
+26.7.2022, 23:56:44 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 23:56:44 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 23:56:45 - INFO - updated board 
+26.7.2022, 23:57:15 - INFO - updated board 
+26.7.2022, 23:57:15 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 23:57:15 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 23:57:15 - INFO - updated board 
+26.7.2022, 23:57:24 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 23:57:24 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+26.7.2022, 23:57:25 - INFO - updated board 
+26.7.2022, 23:57:30 - INFO - updated board 
+27.7.2022, 0:08:11 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 0:08:12 - INFO - New connected socket [id: kSFBCer0UEumWdW5AAAX] 
+27.7.2022, 0:08:12 - INFO - Setting socket.userId = null for socket [id: kSFBCer0UEumWdW5AAAX] 
+27.7.2022, 0:08:14 - INFO - updated board 
+27.7.2022, 0:08:21 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 0:08:22 - INFO - New connected socket [id: Ih4e03fV0d4aiBQVAAAZ] 
+27.7.2022, 0:08:22 - INFO - Setting socket.userId = null for socket [id: Ih4e03fV0d4aiBQVAAAZ] 
+27.7.2022, 0:08:24 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 0:08:25 - INFO - New connected socket [id: zUdTkOHegd2dAh9FAAAb] 
+27.7.2022, 0:08:25 - INFO - Setting socket.userId = null for socket [id: zUdTkOHegd2dAh9FAAAb] 
+27.7.2022, 0:08:25 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 0:08:26 - INFO - New connected socket [id: RzmGLdNyZN_lQBEhAAAd] 
+27.7.2022, 0:08:26 - INFO - Setting socket.userId = null for socket [id: RzmGLdNyZN_lQBEhAAAd] 
+27.7.2022, 0:11:03 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 0:11:03 - INFO - New connected socket [id: UNDRtiizUCM8iy20AAAf] 
+27.7.2022, 0:11:04 - INFO - Setting socket.userId = null for socket [id: UNDRtiizUCM8iy20AAAf] 
+27.7.2022, 0:12:34 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 0:12:34 - INFO - New connected socket [id: aYe4SSozYb2ZBECIAAAh] 
+27.7.2022, 0:12:35 - INFO - Setting socket.userId = null for socket [id: aYe4SSozYb2ZBECIAAAh] 
+27.7.2022, 0:14:48 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 0:14:49 - INFO - New connected socket [id: XO9eIsytrvnZCUu-AAAj] 
+27.7.2022, 0:14:49 - INFO - Setting socket.userId = null for socket [id: XO9eIsytrvnZCUu-AAAj] 
+27.7.2022, 0:15:14 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 0:15:14 - INFO - New connected socket [id: 2UgBSpUfNJlFtSJyAAAl] 
+27.7.2022, 0:15:15 - INFO - Setting socket.userId = null for socket [id: 2UgBSpUfNJlFtSJyAAAl] 
+27.7.2022, 0:16:15 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 0:16:16 - INFO - New connected socket [id: aHDlPCL3HwAS5-_PAAAn] 
+27.7.2022, 0:16:16 - INFO - Setting socket.userId = null for socket [id: aHDlPCL3HwAS5-_PAAAn] 
+27.7.2022, 0:16:19 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 0:16:19 - INFO - New connected socket [id: QEoL5ojMNJI56CwXAAAp] 
+27.7.2022, 0:16:19 - INFO - Setting socket.userId = null for socket [id: QEoL5ojMNJI56CwXAAAp] 
+27.7.2022, 0:16:23 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 0:16:24 - INFO - New connected socket [id: G6Y3CC56B544mSU-AAAr] 
+27.7.2022, 0:16:24 - INFO - Setting socket.userId = null for socket [id: G6Y3CC56B544mSU-AAAr] 
+27.7.2022, 0:16:29 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+27.7.2022, 0:16:29 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+27.7.2022, 0:16:34 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+27.7.2022, 0:16:34 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+27.7.2022, 0:16:35 - INFO - updated board 
+27.7.2022, 0:17:51 - INFO - updated board 
+27.7.2022, 0:17:56 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 0:17:56 - INFO - New connected socket [id: ZIpVfEbwjM5tpACcAAAt] 
+27.7.2022, 0:17:56 - INFO - Setting socket.userId = null for socket [id: ZIpVfEbwjM5tpACcAAAt] 
+27.7.2022, 0:17:57 - INFO - updated board 
+27.7.2022, 0:18:04 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 0:18:04 - INFO - New connected socket [id: ZX_H1qaV5gicvefEAAAv] 
+27.7.2022, 0:18:04 - INFO - Setting socket.userId = null for socket [id: ZX_H1qaV5gicvefEAAAv] 
+27.7.2022, 0:18:05 - INFO - updated board 
+27.7.2022, 0:18:13 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 0:18:14 - INFO - New connected socket [id: OcIwHK8xECj6-QE8AAAx] 
+27.7.2022, 0:18:14 - INFO - Setting socket.userId = null for socket [id: OcIwHK8xECj6-QE8AAAx] 
+27.7.2022, 0:18:15 - INFO - updated board 
+27.7.2022, 0:18:23 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 0:18:23 - INFO - New connected socket [id: XZxE-PPWAiEnCLlPAAAz] 
+27.7.2022, 0:18:23 - INFO - Setting socket.userId = null for socket [id: XZxE-PPWAiEnCLlPAAAz] 
+27.7.2022, 0:18:24 - INFO - updated board 
+27.7.2022, 0:18:31 - INFO - updated board 
+27.7.2022, 0:18:33 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 0:18:34 - INFO - New connected socket [id: fyQflBDxtPjvTsfUAAA1] 
+27.7.2022, 0:18:34 - INFO - Setting socket.userId = null for socket [id: fyQflBDxtPjvTsfUAAA1] 
+27.7.2022, 0:18:35 - INFO - updated board 
+27.7.2022, 0:18:38 - INFO - updated board 
+27.7.2022, 0:18:44 - INFO - updated board 
+27.7.2022, 0:18:46 - INFO - updated board 
+27.7.2022, 0:18:47 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 0:18:47 - INFO - New connected socket [id: vn3wJc7O5JhEkCzxAAA3] 
+27.7.2022, 0:18:48 - INFO - Setting socket.userId = null for socket [id: vn3wJc7O5JhEkCzxAAA3] 
+27.7.2022, 0:18:48 - INFO - updated board 
+27.7.2022, 0:18:51 - INFO - updated board 
+27.7.2022, 0:18:56 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 0:18:56 - INFO - New connected socket [id: 5R2AX7S9JkacWJ7xAAA5] 
+27.7.2022, 0:18:56 - INFO - Setting socket.userId = null for socket [id: 5R2AX7S9JkacWJ7xAAA5] 
+27.7.2022, 0:18:57 - INFO - updated board 
+27.7.2022, 0:19:07 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 0:19:07 - INFO - New connected socket [id: _6TILtoh8bMHc7rAAAA7] 
+27.7.2022, 0:19:07 - INFO - Setting socket.userId = null for socket [id: _6TILtoh8bMHc7rAAAA7] 
+27.7.2022, 0:19:08 - INFO - updated board 
+27.7.2022, 0:19:14 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 0:19:14 - INFO - New connected socket [id: IFhYNZ9YY1wCvo4WAAA9] 
+27.7.2022, 0:19:14 - INFO - Setting socket.userId = null for socket [id: IFhYNZ9YY1wCvo4WAAA9] 
+27.7.2022, 0:19:15 - INFO - updated board 
+27.7.2022, 0:19:25 - INFO - updated board 
+27.7.2022, 0:19:35 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 0:19:35 - INFO - New connected socket [id: k2s_orb5yQKpCnJeAAA_] 
+27.7.2022, 0:19:35 - INFO - Setting socket.userId = null for socket [id: k2s_orb5yQKpCnJeAAA_] 
+27.7.2022, 0:19:36 - INFO - updated board 
+27.7.2022, 0:19:56 - INFO - updated board 
+27.7.2022, 0:19:58 - INFO - updated board 
+27.7.2022, 0:20:00 - INFO - updated board 
+27.7.2022, 0:20:46 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 0:20:47 - INFO - New connected socket [id: KmEdt4REEFr9ZAJLAABB] 
+27.7.2022, 0:20:47 - INFO - Setting socket.userId = null for socket [id: KmEdt4REEFr9ZAJLAABB] 
+27.7.2022, 0:20:48 - INFO - updated board 
+27.7.2022, 0:21:28 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 0:21:28 - INFO - New connected socket [id: ngoOW7xjhAyYLfHaAABD] 
+27.7.2022, 0:21:28 - INFO - Setting socket.userId = null for socket [id: ngoOW7xjhAyYLfHaAABD] 
+27.7.2022, 0:21:29 - INFO - updated board 
+27.7.2022, 0:21:35 - INFO - updated board 
+27.7.2022, 1:24:21 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 13:20:57 - INFO - New connected socket [id: sdOQmLMXPnGjWNE3AABF] 
+27.7.2022, 13:21:26 - INFO - updated board 
+27.7.2022, 13:21:27 - INFO - updated board 
+27.7.2022, 13:27:37 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 13:28:12 - INFO - New connected socket [id: qpFQcLBqcQrJo_z_AABH] 
+27.7.2022, 13:42:42 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 14:47:17 - INFO - New connected socket [id: 7Kbc6qwC727VQn4NAABJ] 
+27.7.2022, 14:49:37 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 16:27:54 - INFO - New connected socket [id: IZt91yYu5QDRGBQBAABL] 
+27.7.2022, 16:36:07 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+27.7.2022, 16:36:07 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+27.7.2022, 16:36:08 - INFO - updated board 
+27.7.2022, 16:39:06 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+27.7.2022, 16:39:06 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+27.7.2022, 16:39:07 - INFO - updated board 
+27.7.2022, 16:39:32 - INFO - updated board 
+27.7.2022, 16:46:31 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+27.7.2022, 16:46:31 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+27.7.2022, 16:46:33 - INFO - updated board 
+27.7.2022, 17:49:49 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 19:23:47 - INFO - New connected socket [id: kYVOFagxY4PmrNktAABN] 
+27.7.2022, 19:26:07 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 19:26:09 - INFO - New connected socket [id: 5Px62smouxvZnskOAABP] 
+27.7.2022, 19:26:10 - INFO - Setting socket.userId = null for socket [id: 5Px62smouxvZnskOAABP] 
+27.7.2022, 19:26:13 - INFO - updated board 
+27.7.2022, 19:33:29 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 19:33:31 - INFO - New connected socket [id: RRXg1S6ZubHrNPA3AABR] 
+27.7.2022, 19:33:31 - INFO - Setting socket.userId = null for socket [id: RRXg1S6ZubHrNPA3AABR] 
+27.7.2022, 19:33:34 - INFO - updated board 
+27.7.2022, 19:46:55 - INFO - updated board 
+27.7.2022, 19:49:12 - INFO - updated board 
+27.7.2022, 19:49:21 - INFO - updated board 
+27.7.2022, 19:49:24 - INFO - updated board 
+27.7.2022, 19:49:27 - INFO - updated board 
+27.7.2022, 19:50:35 - INFO - updated board 
+27.7.2022, 19:50:37 - INFO - updated board 
+27.7.2022, 19:50:43 - INFO - updated board 
+27.7.2022, 19:50:51 - INFO - updated board 
+27.7.2022, 19:50:55 - INFO - updated board 
+27.7.2022, 19:50:57 - INFO - updated board 
+27.7.2022, 19:50:59 - INFO - updated board 
+27.7.2022, 19:51:01 - INFO - updated board 
+27.7.2022, 19:51:03 - INFO - updated board 
+27.7.2022, 19:55:40 - INFO - updated board 
+27.7.2022, 19:55:47 - INFO - updated board 
+27.7.2022, 19:55:49 - INFO - updated board 
+27.7.2022, 19:55:50 - INFO - updated board 
+27.7.2022, 19:55:54 - INFO - updated board 
+27.7.2022, 19:58:08 - INFO - updated board 
+27.7.2022, 19:58:11 - INFO - updated board 
+27.7.2022, 19:58:13 - INFO - updated board 
+27.7.2022, 19:58:31 - INFO - updated board 
+27.7.2022, 19:59:51 - INFO - updated board 
+27.7.2022, 20:02:15 - INFO - updated board 
+27.7.2022, 20:02:53 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 20:02:54 - INFO - New connected socket [id: 02welPEe5aZMln-LAABT] 
+27.7.2022, 20:02:54 - INFO - Setting socket.userId = null for socket [id: 02welPEe5aZMln-LAABT] 
+27.7.2022, 20:02:55 - INFO - updated board 
+27.7.2022, 20:03:07 - INFO - updated board 
+27.7.2022, 20:03:12 - INFO - updated board 
+27.7.2022, 20:03:31 - INFO - updated board 
+27.7.2022, 20:03:48 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 20:03:48 - INFO - New connected socket [id: q7Z2_oB0W9e8CwABAABV] 
+27.7.2022, 20:03:49 - INFO - Setting socket.userId = null for socket [id: q7Z2_oB0W9e8CwABAABV] 
+27.7.2022, 20:03:49 - INFO - updated board 
+27.7.2022, 20:03:55 - INFO - updated board 
+27.7.2022, 20:05:35 - INFO - updated board 
+27.7.2022, 21:18:38 - INFO - updated board 
+27.7.2022, 21:19:27 - INFO - updated board 
+27.7.2022, 21:23:44 - INFO - updated board 
+27.7.2022, 21:24:06 - INFO - updated board 
+27.7.2022, 21:24:39 - INFO - Socket disconnected [id: undefined] 
+27.7.2022, 21:24:39 - INFO - New connected socket [id: icF1J5BCPENJxi3BAABX] 
+27.7.2022, 21:24:40 - INFO - Setting socket.userId = null for socket [id: icF1J5BCPENJxi3BAABX] 
+27.7.2022, 21:24:41 - INFO - updated board 
+27.7.2022, 21:24:47 - INFO - updated board 
+27.7.2022, 21:25:40 - INFO - updated board 
+27.7.2022, 21:25:59 - INFO - updated board 
+27.7.2022, 21:26:48 - INFO - updated board 
+27.7.2022, 21:27:22 - INFO - updated board 
+27.7.2022, 21:27:26 - INFO - updated board 
+27.7.2022, 21:28:19 - INFO - updated board 
+27.7.2022, 21:29:04 - INFO - updated board 
+27.7.2022, 21:59:38 - INFO - Socket disconnected [id: undefined] 
+28.7.2022, 12:25:14 - INFO - New connected socket [id: ZLtF-fj6bfjpawV0AABZ] 
+28.7.2022, 12:43:54 - INFO - Socket disconnected [id: undefined] 
+28.7.2022, 12:58:05 - INFO - New connected socket [id: ytJGyMODzL9RXqoeAABb] 
+28.7.2022, 19:16:55 - INFO - Server is running on port: 3030 
+28.7.2022, 19:17:18 - INFO - New connected socket [id: l9J3XP12MZZi57PcAAAB] 
+28.7.2022, 19:17:18 - INFO - Setting socket.userId = null for socket [id: l9J3XP12MZZi57PcAAAB] 
+28.7.2022, 19:17:24 - DEBUG - auth.service - login with username: n1 
+28.7.2022, 19:17:26 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62e13fed2a2e2b44a859f122"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} 
+28.7.2022, 19:17:30 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+28.7.2022, 19:17:30 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+28.7.2022, 19:17:31 - INFO - updated board 
+28.7.2022, 19:17:41 - INFO - updated board 
+28.7.2022, 19:17:41 - INFO - updated board 
+28.7.2022, 19:17:41 - INFO - updated board 
+28.7.2022, 19:17:45 - INFO - updated board 
+28.7.2022, 19:17:48 - INFO - updated board 
+28.7.2022, 19:17:51 - INFO - updated board 
+28.7.2022, 19:17:56 - INFO - updated board 
+28.7.2022, 19:33:36 - INFO - Socket disconnected [id: undefined] 
+28.7.2022, 19:44:26 - INFO - New connected socket [id: yMprLB0drYwd1p5BAAAD] 
+28.7.2022, 19:48:59 - INFO - updated board 
+28.7.2022, 19:49:24 - INFO - updated board 
+28.7.2022, 19:49:26 - INFO - Socket disconnected [id: undefined] 
+28.7.2022, 19:49:27 - INFO - New connected socket [id: SPJyY4zweo2tKuZ-AAAF] 
+28.7.2022, 19:49:28 - INFO - Setting socket.userId = null for socket [id: SPJyY4zweo2tKuZ-AAAF] 
+28.7.2022, 19:49:29 - INFO - updated board 
+28.7.2022, 19:50:13 - INFO - updated board 
+28.7.2022, 20:21:32 - INFO - Socket disconnected [id: undefined] 
+28.7.2022, 21:10:36 - INFO - New connected socket [id: WU2L0FLko0Kzs_OfAAAH] 
+28.7.2022, 21:12:59 - INFO - Socket disconnected [id: undefined] 
+28.7.2022, 21:13:01 - INFO - New connected socket [id: fp55yC4I_j8IEPfOAAAJ] 
+28.7.2022, 21:13:01 - INFO - Setting socket.userId = null for socket [id: fp55yC4I_j8IEPfOAAAJ] 
+28.7.2022, 21:13:03 - INFO - updated board 
+28.7.2022, 21:27:17 - INFO - Socket disconnected [id: undefined] 
+28.7.2022, 21:27:18 - INFO - New connected socket [id: Juypw6Q1xKMfYTwFAAAL] 
+28.7.2022, 21:27:18 - INFO - Setting socket.userId = null for socket [id: Juypw6Q1xKMfYTwFAAAL] 
+28.7.2022, 21:27:20 - INFO - updated board 
+28.7.2022, 21:27:48 - INFO - Socket disconnected [id: undefined] 
+28.7.2022, 21:27:49 - INFO - New connected socket [id: GHCymcny07RY01ikAAAN] 
+28.7.2022, 21:27:49 - INFO - Setting socket.userId = null for socket [id: GHCymcny07RY01ikAAAN] 
+28.7.2022, 21:27:51 - INFO - updated board 
+28.7.2022, 21:28:58 - INFO - Socket disconnected [id: undefined] 
+28.7.2022, 21:28:59 - INFO - New connected socket [id: ruoos57tckjbxWdsAAAP] 
+28.7.2022, 21:28:59 - INFO - Setting socket.userId = null for socket [id: ruoos57tckjbxWdsAAAP] 
+28.7.2022, 21:29:01 - INFO - updated board 
+28.7.2022, 21:29:40 - INFO - Socket disconnected [id: undefined] 
+28.7.2022, 21:29:41 - INFO - New connected socket [id: z9YjHRspyeZZaCBQAAAR] 
+28.7.2022, 21:29:41 - INFO - Setting socket.userId = null for socket [id: z9YjHRspyeZZaCBQAAAR] 
+28.7.2022, 21:29:42 - INFO - updated board 
+28.7.2022, 21:35:48 - INFO - Socket disconnected [id: undefined] 
+28.7.2022, 21:35:49 - INFO - New connected socket [id: Dkx3XNd49xB2TVJRAAAT] 
+28.7.2022, 21:35:50 - INFO - Setting socket.userId = null for socket [id: Dkx3XNd49xB2TVJRAAAT] 
+28.7.2022, 21:35:51 - INFO - updated board 
+28.7.2022, 21:37:30 - INFO - Socket disconnected [id: undefined] 
+28.7.2022, 21:37:31 - INFO - New connected socket [id: oaL9XjC8DJecQh45AAAV] 
+28.7.2022, 21:37:31 - INFO - Setting socket.userId = null for socket [id: oaL9XjC8DJecQh45AAAV] 
+28.7.2022, 21:37:32 - INFO - updated board 
+28.7.2022, 21:38:52 - INFO - Socket disconnected [id: undefined] 
+28.7.2022, 21:38:54 - INFO - New connected socket [id: LhY2Jc4jJr_uLpe0AAAX] 
+28.7.2022, 21:38:54 - INFO - Setting socket.userId = null for socket [id: LhY2Jc4jJr_uLpe0AAAX] 
+28.7.2022, 21:38:57 - INFO - updated board 
+28.7.2022, 21:44:43 - INFO - Socket disconnected [id: undefined] 
+28.7.2022, 21:44:45 - INFO - New connected socket [id: N_tLoqYCwXoro0rdAAAZ] 
+28.7.2022, 21:44:45 - INFO - Setting socket.userId = null for socket [id: N_tLoqYCwXoro0rdAAAZ] 
+28.7.2022, 21:44:46 - INFO - updated board 
+28.7.2022, 21:45:57 - INFO - Socket disconnected [id: undefined] 
+28.7.2022, 21:45:59 - INFO - New connected socket [id: hLIic1MhUW-_m9fbAAAb] 
+28.7.2022, 21:45:59 - INFO - Setting socket.userId = null for socket [id: hLIic1MhUW-_m9fbAAAb] 
+28.7.2022, 21:46:01 - INFO - updated board 
+28.7.2022, 21:48:07 - INFO - updated board 
+28.7.2022, 21:48:57 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+28.7.2022, 21:48:57 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+28.7.2022, 21:48:59 - INFO - updated board 
+28.7.2022, 21:49:07 - INFO - updated board 
+28.7.2022, 21:49:52 - INFO - updated board 
+28.7.2022, 21:51:07 - INFO - Socket disconnected [id: undefined] 
+28.7.2022, 21:51:08 - INFO - New connected socket [id: Lz71WqlRqLtzt6nSAAAd] 
+28.7.2022, 21:51:08 - INFO - Setting socket.userId = null for socket [id: Lz71WqlRqLtzt6nSAAAd] 
+28.7.2022, 21:51:09 - INFO - updated board 
+28.7.2022, 21:51:20 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+28.7.2022, 21:51:20 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+28.7.2022, 21:51:21 - INFO - updated board 
+28.7.2022, 21:51:27 - INFO - updated board 
+28.7.2022, 21:52:12 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+28.7.2022, 21:52:12 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+28.7.2022, 21:52:15 - INFO - updated board 
+28.7.2022, 21:52:25 - INFO - updated board 
+28.7.2022, 21:52:43 - INFO - updated board 
+28.7.2022, 21:52:52 - INFO - updated board 
+28.7.2022, 21:53:00 - INFO - updated board 
+28.7.2022, 21:53:05 - INFO - updated board 
+28.7.2022, 21:53:11 - INFO - updated board 
+28.7.2022, 21:53:18 - INFO - updated board 
+28.7.2022, 21:53:25 - INFO - Socket disconnected [id: undefined] 
+28.7.2022, 21:53:26 - INFO - New connected socket [id: 7eHmG_n2KNT6GTMtAAAf] 
+28.7.2022, 21:53:26 - INFO - Setting socket.userId = null for socket [id: 7eHmG_n2KNT6GTMtAAAf] 
+28.7.2022, 21:53:28 - INFO - updated board 
+28.7.2022, 21:53:39 - INFO - updated board 
+28.7.2022, 21:56:14 - INFO - Socket disconnected [id: undefined] 
+30.7.2022, 16:26:17 - INFO - New connected socket [id: 3OO4-bd852joToSAAAAh] 
+30.7.2022, 16:28:29 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+30.7.2022, 16:28:29 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+30.7.2022, 16:28:30 - INFO - updated board 
+30.7.2022, 16:28:33 - INFO - Socket disconnected [id: undefined] 
+30.7.2022, 16:28:34 - INFO - New connected socket [id: WSxYGInWo3g22obUAAAj] 
+30.7.2022, 16:28:34 - INFO - Setting socket.userId = null for socket [id: WSxYGInWo3g22obUAAAj] 
+30.7.2022, 16:28:35 - INFO - updated board 
+30.7.2022, 16:28:47 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+30.7.2022, 16:28:47 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62e13fed2a2e2b44a859f122"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+30.7.2022, 16:28:52 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+30.7.2022, 16:28:52 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+30.7.2022, 16:28:54 - INFO - updated board 
+30.7.2022, 16:29:27 - INFO - Socket disconnected [id: undefined] 
+30.7.2022, 16:29:27 - INFO - New connected socket [id: HDjOebvbS4fBf3ahAAAl] 
+30.7.2022, 16:29:27 - INFO - Socket disconnected [id: undefined] 
+30.7.2022, 16:29:27 - INFO - New connected socket [id: FxaXX-bTunvcEHQOAAAn] 
+30.7.2022, 16:29:28 - INFO - Setting socket.userId = null for socket [id: FxaXX-bTunvcEHQOAAAn] 
+30.7.2022, 16:29:28 - INFO - updated board 
+30.7.2022, 16:29:44 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+30.7.2022, 16:29:44 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62e13fed2a2e2b44a859f122","62e5322f5216cd4610cf35c4"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+30.7.2022, 16:29:49 - INFO - updated board 
+30.7.2022, 16:29:49 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+30.7.2022, 16:29:49 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+30.7.2022, 16:29:49 - INFO - updated board 
+30.7.2022, 16:33:45 - INFO - updated board 
+30.7.2022, 16:57:42 - INFO - Socket disconnected [id: undefined] 
+30.7.2022, 16:57:43 - INFO - New connected socket [id: Hv3ND_TTaHYXjNNBAAAp] 
+30.7.2022, 16:57:43 - INFO - Setting socket.userId = null for socket [id: Hv3ND_TTaHYXjNNBAAAp] 
+30.7.2022, 16:58:31 - INFO - updated board 
+30.7.2022, 16:58:35 - INFO - Socket disconnected [id: undefined] 
+30.7.2022, 16:58:36 - INFO - New connected socket [id: NKucW2rqfeEKhEKhAAAr] 
+30.7.2022, 16:58:36 - INFO - Setting socket.userId = null for socket [id: NKucW2rqfeEKhEKhAAAr] 
+30.7.2022, 16:58:36 - INFO - updated board 
+30.7.2022, 16:58:43 - INFO - Socket disconnected [id: undefined] 
+30.7.2022, 16:58:44 - INFO - New connected socket [id: OmSOpbBw4IFWy577AAAt] 
+30.7.2022, 16:58:44 - INFO - Setting socket.userId = null for socket [id: OmSOpbBw4IFWy577AAAt] 
+30.7.2022, 16:58:49 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+30.7.2022, 16:58:49 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62e13fed2a2e2b44a859f122","62e5322f5216cd4610cf35c4"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+30.7.2022, 16:58:54 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+30.7.2022, 16:58:54 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+30.7.2022, 16:58:55 - INFO - updated board 
+30.7.2022, 17:00:20 - INFO - Socket disconnected [id: undefined] 
+30.7.2022, 17:00:21 - INFO - New connected socket [id: bIhlkBHZo_pQoUzmAAAv] 
+30.7.2022, 17:00:21 - INFO - Setting socket.userId = null for socket [id: bIhlkBHZo_pQoUzmAAAv] 
+30.7.2022, 17:00:22 - INFO - updated board 
+30.7.2022, 17:01:59 - INFO - Socket disconnected [id: undefined] 
+30.7.2022, 17:02:00 - INFO - New connected socket [id: 9lov6xvJ0BfUDGfdAAAx] 
+30.7.2022, 17:02:00 - INFO - Setting socket.userId = null for socket [id: 9lov6xvJ0BfUDGfdAAAx] 
+30.7.2022, 17:02:00 - INFO - updated board 
+30.7.2022, 17:02:08 - INFO - Socket disconnected [id: undefined] 
+30.7.2022, 17:02:08 - INFO - New connected socket [id: Nb7nuggQUE9PBd_5AAAz] 
+30.7.2022, 17:02:08 - INFO - Setting socket.userId = null for socket [id: Nb7nuggQUE9PBd_5AAAz] 
+30.7.2022, 17:02:09 - INFO - updated board 
+30.7.2022, 17:03:50 - INFO - Socket disconnected [id: undefined] 
+30.7.2022, 17:03:50 - INFO - New connected socket [id: b0iLTqx7AhvleJVHAAA1] 
+30.7.2022, 17:03:51 - INFO - Setting socket.userId = null for socket [id: b0iLTqx7AhvleJVHAAA1] 
+30.7.2022, 17:03:51 - INFO - updated board 
+30.7.2022, 17:04:11 - INFO - Socket disconnected [id: undefined] 
+30.7.2022, 17:04:12 - INFO - New connected socket [id: 4UxonZiqSZ2Uj9JfAAA3] 
+30.7.2022, 17:04:12 - INFO - Setting socket.userId = null for socket [id: 4UxonZiqSZ2Uj9JfAAA3] 
+30.7.2022, 17:04:13 - INFO - updated board 
+30.7.2022, 17:06:21 - INFO - Socket disconnected [id: undefined] 
+30.7.2022, 17:06:21 - INFO - New connected socket [id: rupvsFp9SbmIa5jSAAA5] 
+30.7.2022, 17:06:21 - INFO - Setting socket.userId = null for socket [id: rupvsFp9SbmIa5jSAAA5] 
+30.7.2022, 17:06:22 - INFO - updated board 
+30.7.2022, 17:07:06 - INFO - Socket disconnected [id: undefined] 
+30.7.2022, 17:07:07 - INFO - New connected socket [id: HupXz0SMhksbT97fAAA7] 
+30.7.2022, 17:07:07 - INFO - Setting socket.userId = null for socket [id: HupXz0SMhksbT97fAAA7] 
+30.7.2022, 17:07:08 - INFO - updated board 
+30.7.2022, 17:09:34 - INFO - Socket disconnected [id: undefined] 
+30.7.2022, 17:09:34 - INFO - New connected socket [id: slyYBGaab2cDVKgsAAA9] 
+30.7.2022, 17:09:35 - INFO - Setting socket.userId = null for socket [id: slyYBGaab2cDVKgsAAA9] 
+30.7.2022, 17:09:35 - INFO - updated board 
+30.7.2022, 17:13:06 - INFO - Socket disconnected [id: undefined] 
+30.7.2022, 17:13:07 - INFO - New connected socket [id: QzZaaE34B4ysDISbAAA_] 
+30.7.2022, 17:13:07 - INFO - Setting socket.userId = null for socket [id: QzZaaE34B4ysDISbAAA_] 
+30.7.2022, 17:13:08 - INFO - updated board 
+30.7.2022, 17:13:13 - INFO - updated board 
+30.7.2022, 17:13:18 - INFO - updated board 
+30.7.2022, 17:13:23 - INFO - Socket disconnected [id: undefined] 
+30.7.2022, 17:13:24 - INFO - New connected socket [id: mh24zMZG6gOnPO0AAABB] 
+30.7.2022, 17:13:24 - INFO - Setting socket.userId = null for socket [id: mh24zMZG6gOnPO0AAABB] 
+30.7.2022, 17:13:25 - INFO - updated board 
+30.7.2022, 17:19:28 - INFO - Socket disconnected [id: undefined] 
+30.7.2022, 17:19:29 - INFO - New connected socket [id: af615unI0MFIuRvgAABD] 
+30.7.2022, 17:19:29 - INFO - Setting socket.userId = null for socket [id: af615unI0MFIuRvgAABD] 
+30.7.2022, 17:19:30 - INFO - updated board 
+30.7.2022, 17:22:04 - INFO - Socket disconnected [id: undefined] 
+30.7.2022, 17:22:05 - INFO - New connected socket [id: pbzwmNA5LKdfzoI1AABF] 
+30.7.2022, 17:22:05 - INFO - Setting socket.userId = null for socket [id: pbzwmNA5LKdfzoI1AABF] 
+30.7.2022, 17:22:06 - INFO - updated board 
+30.7.2022, 17:23:10 - INFO - Socket disconnected [id: undefined] 
+30.7.2022, 17:23:11 - INFO - New connected socket [id: RrjZJ1loM9nQji5aAABH] 
+30.7.2022, 17:23:11 - INFO - Setting socket.userId = null for socket [id: RrjZJ1loM9nQji5aAABH] 
+30.7.2022, 17:23:12 - INFO - updated board 
+30.7.2022, 18:08:39 - INFO - Socket disconnected [id: undefined] 
+30.7.2022, 19:34:14 - INFO - New connected socket [id: koaAvuXSbfNJy16WAABJ] 
+30.7.2022, 20:49:01 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 15:28:39 - INFO - New connected socket [id: N3p_tPfT-DS2v5hcAABL] 
+31.7.2022, 16:35:48 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 17:00:53 - INFO - New connected socket [id: pCXueuJMCB3tIjp5AABN] 
+31.7.2022, 17:16:35 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 17:34:01 - INFO - New connected socket [id: coCT6GNf3sMMVyyVAABP] 
+31.7.2022, 18:00:58 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 18:01:00 - INFO - New connected socket [id: L_QWVFBYDSooc_L3AABR] 
+31.7.2022, 18:01:00 - INFO - Setting socket.userId = null for socket [id: L_QWVFBYDSooc_L3AABR] 
+31.7.2022, 18:05:12 - INFO - updated board 
+31.7.2022, 18:05:15 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 18:05:16 - INFO - New connected socket [id: Oaij4FwkAfTVUmf6AABT] 
+31.7.2022, 18:05:16 - INFO - Setting socket.userId = null for socket [id: Oaij4FwkAfTVUmf6AABT] 
+31.7.2022, 18:05:18 - INFO - updated board 
+31.7.2022, 18:05:20 - INFO - updated board 
+31.7.2022, 18:09:03 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 19:28:50 - INFO - New connected socket [id: TWLKR9LhYuRDf-sPAABV] 
+31.7.2022, 19:43:18 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 19:43:19 - INFO - New connected socket [id: Jaa9VzhPRyQ2xfDQAABX] 
+31.7.2022, 19:43:19 - INFO - Setting socket.userId = null for socket [id: Jaa9VzhPRyQ2xfDQAABX] 
+31.7.2022, 19:43:20 - INFO - updated board 
+31.7.2022, 19:43:35 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 19:43:35 - INFO - New connected socket [id: Cdr3FB-j4WU6CGF6AABZ] 
+31.7.2022, 19:43:36 - INFO - Setting socket.userId = null for socket [id: Cdr3FB-j4WU6CGF6AABZ] 
+31.7.2022, 19:43:36 - INFO - updated board 
+31.7.2022, 19:44:27 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 19:44:27 - INFO - New connected socket [id: xKrrKAXjiVmSwAiRAABb] 
+31.7.2022, 19:44:28 - INFO - Setting socket.userId = null for socket [id: xKrrKAXjiVmSwAiRAABb] 
+31.7.2022, 19:44:28 - INFO - updated board 
+31.7.2022, 19:47:13 - INFO - Server is running on port: 3030 
+31.7.2022, 19:47:14 - INFO - New connected socket [id: lzqP96bTxQMjvXTkAAAB] 
+31.7.2022, 19:47:18 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 19:47:19 - INFO - New connected socket [id: 10qD7He_I7X8bWhvAAAD] 
+31.7.2022, 19:47:19 - INFO - Setting socket.userId = null for socket [id: 10qD7He_I7X8bWhvAAAD] 
+31.7.2022, 19:47:19 - INFO - Setting socket null 
+31.7.2022, 19:47:21 - INFO - updated board 
+31.7.2022, 19:49:19 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 19:49:20 - INFO - New connected socket [id: 3ORAgTuAdIFdGsw-AAAF] 
+31.7.2022, 19:49:21 - INFO - Setting socket.userId = null for socket [id: 3ORAgTuAdIFdGsw-AAAF] 
+31.7.2022, 19:49:21 - INFO - Setting socket null 
+31.7.2022, 19:49:22 - INFO - updated board 
+31.7.2022, 19:49:26 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 19:49:26 - INFO - New connected socket [id: LfI5t2VFs2YIJiT9AAAH] 
+31.7.2022, 19:49:26 - INFO - Setting socket.userId = null for socket [id: LfI5t2VFs2YIJiT9AAAH] 
+31.7.2022, 19:49:26 - INFO - Setting socket null 
+31.7.2022, 19:49:27 - INFO - updated board 
+31.7.2022, 19:50:01 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+31.7.2022, 19:50:01 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62e13fed2a2e2b44a859f122","62e5322f5216cd4610cf35c4"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+31.7.2022, 19:50:16 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+31.7.2022, 19:50:16 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+31.7.2022, 19:50:17 - INFO - updated board 
+31.7.2022, 19:50:26 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 19:50:26 - INFO - New connected socket [id: RA-YKiBCuvAtqfiSAAAJ] 
+31.7.2022, 19:50:26 - INFO - Setting socket.userId = null for socket [id: RA-YKiBCuvAtqfiSAAAJ] 
+31.7.2022, 19:50:26 - INFO - Setting socket null 
+31.7.2022, 19:50:27 - INFO - updated board 
+31.7.2022, 19:53:14 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+31.7.2022, 19:53:15 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62e13fed2a2e2b44a859f122","62e5322f5216cd4610cf35c4"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+31.7.2022, 19:53:32 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+31.7.2022, 19:53:32 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+31.7.2022, 19:53:33 - INFO - updated board 
+31.7.2022, 19:53:57 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 19:53:57 - INFO - New connected socket [id: njnHvvu0WN_d2herAAAL] 
+31.7.2022, 19:53:57 - INFO - Setting socket.userId = null for socket [id: njnHvvu0WN_d2herAAAL] 
+31.7.2022, 19:53:57 - INFO - Setting socket null 
+31.7.2022, 19:53:58 - INFO - updated board 
+31.7.2022, 19:54:36 - INFO - updated board 
+31.7.2022, 19:55:40 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 19:55:41 - INFO - New connected socket [id: Xe_TDNRMdCKtNCmTAAAN] 
+31.7.2022, 19:55:41 - INFO - Setting socket.userId = null for socket [id: Xe_TDNRMdCKtNCmTAAAN] 
+31.7.2022, 19:55:41 - INFO - Setting socket null 
+31.7.2022, 19:55:42 - INFO - updated board 
+31.7.2022, 19:56:42 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 19:56:42 - INFO - New connected socket [id: 90Egbw5FhTdD1burAAAP] 
+31.7.2022, 19:56:42 - INFO - Setting socket.userId = null for socket [id: 90Egbw5FhTdD1burAAAP] 
+31.7.2022, 19:56:42 - INFO - Setting socket null 
+31.7.2022, 19:56:43 - INFO - updated board 
+31.7.2022, 19:59:35 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 19:59:36 - INFO - New connected socket [id: g0kki4Gvac4iiQv_AAAR] 
+31.7.2022, 19:59:36 - INFO - Setting socket.userId = null for socket [id: g0kki4Gvac4iiQv_AAAR] 
+31.7.2022, 19:59:36 - INFO - Setting socket null 
+31.7.2022, 19:59:37 - INFO - updated board 
+31.7.2022, 20:00:35 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+31.7.2022, 20:00:35 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62e13fed2a2e2b44a859f122","62e5322f5216cd4610cf35c4"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+31.7.2022, 20:04:00 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 20:04:00 - INFO - New connected socket [id: 731DPhorz7Jtl-mTAAAT] 
+31.7.2022, 20:04:01 - INFO - Setting socket.userId = null for socket [id: 731DPhorz7Jtl-mTAAAT] 
+31.7.2022, 20:04:01 - INFO - Setting socket null 
+31.7.2022, 20:04:04 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 20:04:04 - INFO - New connected socket [id: iG3ajB1zjL3vagSsAAAV] 
+31.7.2022, 20:04:05 - INFO - Setting socket.userId = null for socket [id: iG3ajB1zjL3vagSsAAAV] 
+31.7.2022, 20:04:05 - INFO - Setting socket null 
+31.7.2022, 20:04:18 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+31.7.2022, 20:04:18 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62e13fed2a2e2b44a859f122","62e5322f5216cd4610cf35c4"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+31.7.2022, 20:04:27 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+31.7.2022, 20:04:27 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+31.7.2022, 20:04:28 - INFO - updated board 
+31.7.2022, 20:04:36 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 20:04:36 - INFO - New connected socket [id: dX8pdc8M95U8M5saAAAX] 
+31.7.2022, 20:04:36 - INFO - Setting socket.userId = null for socket [id: dX8pdc8M95U8M5saAAAX] 
+31.7.2022, 20:04:36 - INFO - Setting socket null 
+31.7.2022, 20:04:37 - INFO - updated board 
+31.7.2022, 20:06:07 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 20:06:08 - INFO - New connected socket [id: h4cHD-X9jw6Afxt1AAAZ] 
+31.7.2022, 20:06:08 - INFO - Setting socket.userId = null for socket [id: h4cHD-X9jw6Afxt1AAAZ] 
+31.7.2022, 20:06:08 - INFO - Setting socket null 
+31.7.2022, 20:06:09 - INFO - updated board 
+31.7.2022, 20:06:18 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+31.7.2022, 20:06:18 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62e13fed2a2e2b44a859f122","62e5322f5216cd4610cf35c4"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+31.7.2022, 20:06:31 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+31.7.2022, 20:06:31 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+31.7.2022, 20:06:31 - INFO - updated board 
+31.7.2022, 20:06:33 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 20:06:33 - INFO - New connected socket [id: ziRyHQ3yoqxt2oH9AAAb] 
+31.7.2022, 20:06:34 - INFO - Setting socket.userId = null for socket [id: ziRyHQ3yoqxt2oH9AAAb] 
+31.7.2022, 20:06:34 - INFO - Setting socket null 
+31.7.2022, 20:06:41 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 20:06:42 - INFO - New connected socket [id: CNYFH-sv_2nrBu4eAAAd] 
+31.7.2022, 20:06:42 - INFO - Setting socket.userId = null for socket [id: CNYFH-sv_2nrBu4eAAAd] 
+31.7.2022, 20:06:42 - INFO - Setting socket null 
+31.7.2022, 20:06:50 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+31.7.2022, 20:06:50 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62e13fed2a2e2b44a859f122","62e5322f5216cd4610cf35c4"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+31.7.2022, 20:06:52 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+31.7.2022, 20:06:52 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+31.7.2022, 20:06:53 - INFO - updated board 
+31.7.2022, 20:07:17 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 20:07:18 - INFO - New connected socket [id: OhHiNitVT_YZFxJ7AAAf] 
+31.7.2022, 20:07:18 - INFO - Setting socket.userId = null for socket [id: OhHiNitVT_YZFxJ7AAAf] 
+31.7.2022, 20:07:18 - INFO - Setting socket null 
+31.7.2022, 20:07:19 - INFO - updated board 
+31.7.2022, 20:10:18 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 20:10:19 - INFO - New connected socket [id: wl5f-5pTauUNkHldAAAh] 
+31.7.2022, 20:10:20 - INFO - Setting socket.userId = null for socket [id: wl5f-5pTauUNkHldAAAh] 
+31.7.2022, 20:10:20 - INFO - Setting socket null 
+31.7.2022, 20:10:20 - INFO - updated board 
+31.7.2022, 20:11:20 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 20:11:21 - INFO - New connected socket [id: PYudNzZ1DQahCHEoAAAj] 
+31.7.2022, 20:11:21 - INFO - Setting socket.userId = null for socket [id: PYudNzZ1DQahCHEoAAAj] 
+31.7.2022, 20:11:21 - INFO - Setting socket null 
+31.7.2022, 20:11:22 - INFO - updated board 
+31.7.2022, 20:14:28 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 20:14:29 - INFO - New connected socket [id: NyILULHzhHKS5tvJAAAl] 
+31.7.2022, 20:14:29 - INFO - Setting socket.userId = null for socket [id: NyILULHzhHKS5tvJAAAl] 
+31.7.2022, 20:14:29 - INFO - Setting socket null 
+31.7.2022, 20:14:30 - INFO - updated board 
+31.7.2022, 20:15:29 - INFO - updated board 
+31.7.2022, 20:16:37 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 20:16:37 - INFO - New connected socket [id: F42Xaqg5u_VmqG0NAAAn] 
+31.7.2022, 20:16:37 - INFO - Setting socket.userId = null for socket [id: F42Xaqg5u_VmqG0NAAAn] 
+31.7.2022, 20:16:37 - INFO - Setting socket null 
+31.7.2022, 20:16:38 - INFO - updated board 
+31.7.2022, 20:16:41 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 20:16:41 - INFO - New connected socket [id: DPofbXaJwjqUzEJtAAAp] 
+31.7.2022, 20:16:41 - INFO - Setting socket.userId = null for socket [id: DPofbXaJwjqUzEJtAAAp] 
+31.7.2022, 20:16:41 - INFO - Setting socket null 
+31.7.2022, 20:16:42 - INFO - updated board 
+31.7.2022, 20:17:30 - INFO - updated board 
+31.7.2022, 20:17:35 - INFO - updated board 
+31.7.2022, 20:17:37 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 20:17:38 - INFO - New connected socket [id: _KCtvXp4sXIpVoXpAAAr] 
+31.7.2022, 20:17:38 - INFO - Setting socket.userId = null for socket [id: _KCtvXp4sXIpVoXpAAAr] 
+31.7.2022, 20:17:38 - INFO - Setting socket null 
+31.7.2022, 20:17:39 - INFO - updated board 
+31.7.2022, 20:17:40 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 20:17:41 - INFO - New connected socket [id: shiHI1I1rx8_RMgHAAAt] 
+31.7.2022, 20:17:41 - INFO - Setting socket.userId = null for socket [id: shiHI1I1rx8_RMgHAAAt] 
+31.7.2022, 20:17:41 - INFO - Setting socket null 
+31.7.2022, 20:17:42 - INFO - updated board 
+31.7.2022, 20:17:46 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 20:17:47 - INFO - New connected socket [id: FgYho9-k8mwWWHQzAAAv] 
+31.7.2022, 20:17:47 - INFO - Setting socket.userId = null for socket [id: FgYho9-k8mwWWHQzAAAv] 
+31.7.2022, 20:17:47 - INFO - Setting socket null 
+31.7.2022, 20:17:48 - INFO - updated board 
+31.7.2022, 20:24:24 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 20:24:25 - INFO - New connected socket [id: nbBAqSmmLJnAbVD4AAAx] 
+31.7.2022, 20:24:25 - INFO - Setting socket.userId = null for socket [id: nbBAqSmmLJnAbVD4AAAx] 
+31.7.2022, 20:24:25 - INFO - Setting socket null 
+31.7.2022, 20:24:26 - INFO - updated board 
+31.7.2022, 20:26:19 - INFO - updated board 
+31.7.2022, 20:26:19 - INFO - updated board 
+31.7.2022, 20:26:21 - INFO - updated board 
+31.7.2022, 20:26:23 - INFO - updated board 
+31.7.2022, 20:26:24 - INFO - updated board 
+31.7.2022, 21:08:25 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 22:24:58 - INFO - New connected socket [id: Xnz8nv4jEMP8GX4yAAAz] 
+31.7.2022, 22:27:12 - DEBUG - auth.service - signup with username: Bella, fullname: Bella (userId: 629e05249a28133be456c129)
+31.7.2022, 22:27:14 - DEBUG - auth.route - new account created: {"username":"Bella","password":"$2b$10$e/EvkOgqVB6MFwNCLyKlGeQr5D/tMU4Re03UtTfTGAyQYF90XAueS","fullname":"Bella","boards":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62e6d79216a87a5f48c504b2"} (userId: 629e05249a28133be456c129)
+31.7.2022, 22:27:14 - DEBUG - auth.service - login with username: Bella (userId: 629e05249a28133be456c129)
+31.7.2022, 22:27:14 - INFO - User signup: | {"_id":"62e6d79216a87a5f48c504b2","username":"Bella","fullname":"Bella","boards":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} (userId: 629e05249a28133be456c129)
+31.7.2022, 22:27:14 - INFO - Setting socket.userId = 62e6d79216a87a5f48c504b2 for socket [id: Xnz8nv4jEMP8GX4yAAAz] 
+31.7.2022, 22:27:14 - INFO - Setting socket 62e6d79216a87a5f48c504b2 
+31.7.2022, 22:27:30 - INFO - updated board 
+31.7.2022, 22:28:06 - INFO - updated board 
+31.7.2022, 22:28:17 - INFO - updated board 
+31.7.2022, 22:28:21 - INFO - updated board 
+31.7.2022, 22:28:24 - INFO - updated board 
+31.7.2022, 22:28:31 - INFO - updated board 
+31.7.2022, 22:28:36 - INFO - updated board 
+31.7.2022, 22:29:16 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 22:29:17 - INFO - New connected socket [id: 9CnJu9W4Y9O4Qv-IAAA1] 
+31.7.2022, 22:29:18 - INFO - Setting socket.userId = null for socket [id: 9CnJu9W4Y9O4Qv-IAAA1] 
+31.7.2022, 22:29:18 - INFO - Setting socket null 
+31.7.2022, 22:29:18 - INFO - updated board 
+31.7.2022, 22:29:23 - INFO - updated board 
+31.7.2022, 22:29:25 - INFO - updated board 
+31.7.2022, 22:29:28 - INFO - updated board 
+31.7.2022, 22:29:30 - INFO - updated board 
+31.7.2022, 22:29:32 - INFO - updated board 
+31.7.2022, 22:29:40 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 62e6d79216a87a5f48c504b2)
+31.7.2022, 22:29:40 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 62e6d79216a87a5f48c504b2)
+31.7.2022, 22:29:41 - INFO - updated board 
+31.7.2022, 22:29:41 - INFO - updated board 
+31.7.2022, 22:29:46 - INFO - updated board 
+31.7.2022, 22:29:55 - INFO - updated board 
+31.7.2022, 22:30:02 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 22:30:03 - INFO - New connected socket [id: xo_o27d1U2zPg33dAAA3] 
+31.7.2022, 22:30:03 - INFO - Setting socket.userId = null for socket [id: xo_o27d1U2zPg33dAAA3] 
+31.7.2022, 22:30:03 - INFO - Setting socket null 
+31.7.2022, 22:30:04 - INFO - updated board 
+31.7.2022, 22:30:27 - DEBUG - auth.service - login with username: Bella (userId: 62e6d79216a87a5f48c504b2)
+31.7.2022, 22:30:28 - INFO - User login:  | {"_id":"62e6d79216a87a5f48c504b2","username":"Bella","fullname":"Bella","boards":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} (userId: 62e6d79216a87a5f48c504b2)
+31.7.2022, 22:41:09 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 22:41:10 - INFO - New connected socket [id: zIDlH12zTpz-7bkzAAA5] 
+31.7.2022, 22:41:10 - INFO - Setting socket null 
+31.7.2022, 22:41:10 - INFO - Setting socket.userId = null for socket [id: zIDlH12zTpz-7bkzAAA5] 
+31.7.2022, 22:43:08 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 22:43:09 - INFO - New connected socket [id: HshsF3GZ5K1ayEiQAAA7] 
+31.7.2022, 22:43:09 - INFO - Setting socket.userId = null for socket [id: HshsF3GZ5K1ayEiQAAA7] 
+31.7.2022, 22:43:09 - INFO - Setting socket null 
+31.7.2022, 22:43:39 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 22:43:41 - INFO - New connected socket [id: d0LXyEGkAWg8wY8uAAA9] 
+31.7.2022, 22:43:41 - INFO - Setting socket.userId = null for socket [id: d0LXyEGkAWg8wY8uAAA9] 
+31.7.2022, 22:43:41 - INFO - Setting socket null 
+31.7.2022, 23:07:54 - DEBUG - auth.service - login with username: n1 (userId: 62e6d79216a87a5f48c504b2)
+31.7.2022, 23:07:55 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62e13fed2a2e2b44a859f122","62e5322f5216cd4610cf35c4"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 62e6d79216a87a5f48c504b2)
+31.7.2022, 23:07:59 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+31.7.2022, 23:07:59 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+31.7.2022, 23:08:00 - INFO - updated board 
+31.7.2022, 23:08:03 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 23:08:04 - INFO - New connected socket [id: 5WVN9KmpbAJC0aA4AAA_] 
+31.7.2022, 23:08:05 - INFO - Setting socket.userId = null for socket [id: 5WVN9KmpbAJC0aA4AAA_] 
+31.7.2022, 23:08:05 - INFO - Setting socket null 
+31.7.2022, 23:08:06 - INFO - updated board 
+31.7.2022, 23:09:13 - INFO - updated board 
+31.7.2022, 23:09:29 - INFO - updated board 
+31.7.2022, 23:09:47 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 23:09:48 - INFO - New connected socket [id: kfiXr9ztEIxrNt15AABB] 
+31.7.2022, 23:09:48 - INFO - Setting socket.userId = null for socket [id: kfiXr9ztEIxrNt15AABB] 
+31.7.2022, 23:09:48 - INFO - Setting socket null 
+31.7.2022, 23:09:50 - INFO - updated board 
+31.7.2022, 23:09:59 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 23:10:00 - INFO - New connected socket [id: V1YOmeGgT08Jwu34AABD] 
+31.7.2022, 23:10:00 - INFO - Setting socket.userId = null for socket [id: V1YOmeGgT08Jwu34AABD] 
+31.7.2022, 23:10:00 - INFO - Setting socket null 
+31.7.2022, 23:11:35 - DEBUG - auth.service - login with username: Bella (userId: 629e05249a28133be456c129)
+31.7.2022, 23:11:35 - INFO - User login:  | {"_id":"62e6d79216a87a5f48c504b2","username":"Bella","fullname":"Bella","boards":["62e6dad016a87a5f48c504b5"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} (userId: 629e05249a28133be456c129)
+31.7.2022, 23:12:09 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 62e6d79216a87a5f48c504b2)
+31.7.2022, 23:12:09 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 62e6d79216a87a5f48c504b2)
+31.7.2022, 23:12:10 - INFO - updated board 
+31.7.2022, 23:12:56 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 62e6d79216a87a5f48c504b2)
+31.7.2022, 23:12:56 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 62e6d79216a87a5f48c504b2)
+31.7.2022, 23:12:56 - INFO - updated board 
+31.7.2022, 23:13:05 - INFO - updated board 
+31.7.2022, 23:13:13 - INFO - updated board 
+31.7.2022, 23:13:21 - INFO - updated board 
+31.7.2022, 23:16:30 - DEBUG - auth.service - login with username: n1 (userId: 62e6d79216a87a5f48c504b2)
+31.7.2022, 23:16:30 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62e13fed2a2e2b44a859f122","62e5322f5216cd4610cf35c4"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 62e6d79216a87a5f48c504b2)
+31.7.2022, 23:23:16 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 23:23:17 - INFO - New connected socket [id: GqrxBiTbJTKj5Dy8AABF] 
+31.7.2022, 23:23:17 - INFO - Setting socket.userId = null for socket [id: GqrxBiTbJTKj5Dy8AABF] 
+31.7.2022, 23:23:17 - INFO - Setting socket null 
+31.7.2022, 23:24:27 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 23:24:28 - INFO - New connected socket [id: NE39E37Z-EqZeCI6AABH] 
+31.7.2022, 23:24:28 - INFO - Setting socket.userId = null for socket [id: NE39E37Z-EqZeCI6AABH] 
+31.7.2022, 23:24:28 - INFO - Setting socket null 
+31.7.2022, 23:25:34 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 23:25:35 - INFO - New connected socket [id: fWOWiTfzlV52tTLHAABJ] 
+31.7.2022, 23:25:35 - INFO - Setting socket.userId = null for socket [id: fWOWiTfzlV52tTLHAABJ] 
+31.7.2022, 23:25:35 - INFO - Setting socket null 
+31.7.2022, 23:26:12 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 23:26:13 - INFO - New connected socket [id: oKI0mD3ViWlBELnXAABL] 
+31.7.2022, 23:26:13 - INFO - Setting socket.userId = null for socket [id: oKI0mD3ViWlBELnXAABL] 
+31.7.2022, 23:26:13 - INFO - Setting socket null 
+31.7.2022, 23:28:49 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 23:28:50 - INFO - New connected socket [id: Jg_BXvO9ftjegcz9AABN] 
+31.7.2022, 23:28:50 - INFO - Setting socket.userId = null for socket [id: Jg_BXvO9ftjegcz9AABN] 
+31.7.2022, 23:28:50 - INFO - Setting socket null 
+31.7.2022, 23:31:20 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 23:31:21 - INFO - New connected socket [id: gvK5dc5UhCUrmZTJAABP] 
+31.7.2022, 23:31:21 - INFO - Setting socket.userId = null for socket [id: gvK5dc5UhCUrmZTJAABP] 
+31.7.2022, 23:31:21 - INFO - Setting socket null 
+31.7.2022, 23:31:26 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 23:31:27 - INFO - New connected socket [id: 3aoLuvqwbxqzxGlPAABR] 
+31.7.2022, 23:31:27 - INFO - Setting socket null 
+31.7.2022, 23:31:27 - INFO - Setting socket.userId = null for socket [id: 3aoLuvqwbxqzxGlPAABR] 
+31.7.2022, 23:31:33 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+31.7.2022, 23:31:34 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62e13fed2a2e2b44a859f122","62e5322f5216cd4610cf35c4"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+31.7.2022, 23:33:54 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 23:33:55 - INFO - New connected socket [id: 4pSDem8OXmP-cSv_AABT] 
+31.7.2022, 23:33:55 - INFO - Setting socket.userId = null for socket [id: 4pSDem8OXmP-cSv_AABT] 
+31.7.2022, 23:33:55 - INFO - Setting socket null 
+31.7.2022, 23:35:12 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 23:35:12 - INFO - New connected socket [id: KKQWiFbEjtBtOWp-AABV] 
+31.7.2022, 23:35:13 - INFO - Setting socket.userId = null for socket [id: KKQWiFbEjtBtOWp-AABV] 
+31.7.2022, 23:35:13 - INFO - Setting socket null 
+31.7.2022, 23:35:52 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 23:35:53 - INFO - New connected socket [id: eSBIBDGFNK5NVZ13AABX] 
+31.7.2022, 23:35:53 - INFO - Setting socket.userId = null for socket [id: eSBIBDGFNK5NVZ13AABX] 
+31.7.2022, 23:35:53 - INFO - Setting socket null 
+31.7.2022, 23:36:19 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 23:36:20 - INFO - New connected socket [id: dEBa1u0j6toV8pctAABZ] 
+31.7.2022, 23:36:20 - INFO - Setting socket.userId = null for socket [id: dEBa1u0j6toV8pctAABZ] 
+31.7.2022, 23:36:20 - INFO - Setting socket null 
+31.7.2022, 23:36:45 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 23:36:46 - INFO - New connected socket [id: RcxRZf-OE-IkVHrjAABb] 
+31.7.2022, 23:36:46 - INFO - Setting socket.userId = null for socket [id: RcxRZf-OE-IkVHrjAABb] 
+31.7.2022, 23:36:46 - INFO - Setting socket null 
+31.7.2022, 23:38:40 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 23:38:41 - INFO - New connected socket [id: z8f4_t5rFaCpVlM2AABd] 
+31.7.2022, 23:38:41 - INFO - Setting socket.userId = null for socket [id: z8f4_t5rFaCpVlM2AABd] 
+31.7.2022, 23:38:41 - INFO - Setting socket null 
+31.7.2022, 23:40:41 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 23:40:42 - INFO - New connected socket [id: RjjuL3E11UV_AIQcAABf] 
+31.7.2022, 23:40:42 - INFO - Setting socket.userId = null for socket [id: RjjuL3E11UV_AIQcAABf] 
+31.7.2022, 23:40:42 - INFO - Setting socket null 
+31.7.2022, 23:45:40 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 23:45:41 - INFO - New connected socket [id: u3H1xZX7Xeqjnh9wAABh] 
+31.7.2022, 23:45:41 - INFO - Setting socket.userId = null for socket [id: u3H1xZX7Xeqjnh9wAABh] 
+31.7.2022, 23:45:41 - INFO - Setting socket null 
+31.7.2022, 23:46:10 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 23:46:11 - INFO - New connected socket [id: clfcWjgVX2osYanqAABj] 
+31.7.2022, 23:46:11 - INFO - Setting socket.userId = null for socket [id: clfcWjgVX2osYanqAABj] 
+31.7.2022, 23:46:11 - INFO - Setting socket null 
+31.7.2022, 23:51:49 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 23:51:50 - INFO - New connected socket [id: BVNKrV78aooV1LBaAABl] 
+31.7.2022, 23:51:50 - INFO - Setting socket.userId = null for socket [id: BVNKrV78aooV1LBaAABl] 
+31.7.2022, 23:51:50 - INFO - Setting socket null 
+31.7.2022, 23:52:20 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 23:52:21 - INFO - New connected socket [id: GMIMIzm3xnmR4n-CAABn] 
+31.7.2022, 23:52:21 - INFO - Setting socket.userId = null for socket [id: GMIMIzm3xnmR4n-CAABn] 
+31.7.2022, 23:52:21 - INFO - Setting socket null 
+31.7.2022, 23:55:35 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 23:55:36 - INFO - New connected socket [id: YN-d4lK4X8jiQaNoAABp] 
+31.7.2022, 23:55:36 - INFO - Setting socket.userId = null for socket [id: YN-d4lK4X8jiQaNoAABp] 
+31.7.2022, 23:55:36 - INFO - Setting socket null 
+31.7.2022, 23:55:57 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 23:55:58 - INFO - New connected socket [id: 0Lhd6b_JKk4pvIVZAABr] 
+31.7.2022, 23:55:58 - INFO - Setting socket.userId = null for socket [id: 0Lhd6b_JKk4pvIVZAABr] 
+31.7.2022, 23:55:58 - INFO - Setting socket null 
+31.7.2022, 23:56:18 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 23:56:18 - INFO - New connected socket [id: xbRsnNe8X3Ie45boAABt] 
+31.7.2022, 23:56:18 - INFO - Setting socket.userId = null for socket [id: xbRsnNe8X3Ie45boAABt] 
+31.7.2022, 23:56:18 - INFO - Setting socket null 
+31.7.2022, 23:56:22 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+31.7.2022, 23:56:23 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62e13fed2a2e2b44a859f122","62e5322f5216cd4610cf35c4"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+31.7.2022, 23:56:45 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 23:56:45 - INFO - New connected socket [id: B3Wd_trxhh5ceBWzAABv] 
+31.7.2022, 23:56:45 - INFO - Setting socket.userId = null for socket [id: B3Wd_trxhh5ceBWzAABv] 
+31.7.2022, 23:56:45 - INFO - Setting socket null 
+31.7.2022, 23:57:13 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 23:57:13 - INFO - New connected socket [id: ckG4PB8c98FumDWsAABx] 
+31.7.2022, 23:57:14 - INFO - Setting socket.userId = null for socket [id: ckG4PB8c98FumDWsAABx] 
+31.7.2022, 23:57:14 - INFO - Setting socket null 
+31.7.2022, 23:57:16 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 23:57:17 - INFO - New connected socket [id: bhWGHgYIBTz4qzW8AABz] 
+31.7.2022, 23:57:17 - INFO - Setting socket.userId = null for socket [id: bhWGHgYIBTz4qzW8AABz] 
+31.7.2022, 23:57:17 - INFO - Setting socket null 
+31.7.2022, 23:57:22 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+31.7.2022, 23:57:22 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62e13fed2a2e2b44a859f122","62e5322f5216cd4610cf35c4"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+31.7.2022, 23:58:37 - INFO - Socket disconnected [id: undefined] 
+31.7.2022, 23:58:37 - INFO - New connected socket [id: dQ0ewLFth98Pid-eAAB1] 
+31.7.2022, 23:58:38 - INFO - Setting socket.userId = null for socket [id: dQ0ewLFth98Pid-eAAB1] 
+31.7.2022, 23:58:38 - INFO - Setting socket null 
+1.8.2022, 0:03:20 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 0:03:21 - INFO - New connected socket [id: Jt37ZY7HhSl74PtgAAB3] 
+1.8.2022, 0:03:21 - INFO - Setting socket.userId = null for socket [id: Jt37ZY7HhSl74PtgAAB3] 
+1.8.2022, 0:03:21 - INFO - Setting socket null 
+1.8.2022, 0:08:05 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+1.8.2022, 0:08:05 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+1.8.2022, 0:08:07 - INFO - updated board 
+1.8.2022, 0:08:32 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 0:08:34 - INFO - New connected socket [id: T9ooSZp7Bplqb62RAAB5] 
+1.8.2022, 0:08:34 - INFO - Setting socket.userId = null for socket [id: T9ooSZp7Bplqb62RAAB5] 
+1.8.2022, 0:08:34 - INFO - Setting socket null 
+1.8.2022, 0:08:35 - INFO - updated board 
+1.8.2022, 0:29:16 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 13:48:22 - INFO - New connected socket [id: iKooui12ADqcdH71AAB7] 
+1.8.2022, 14:35:43 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 14:35:43 - INFO - New connected socket [id: AwyHFIS3lErXLYEVAAB9] 
+1.8.2022, 14:35:44 - INFO - Setting socket.userId = null for socket [id: AwyHFIS3lErXLYEVAAB9] 
+1.8.2022, 14:35:44 - INFO - Setting socket null 
+1.8.2022, 14:37:34 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 14:37:35 - INFO - New connected socket [id: Qei_8p-jegogCK-cAAB_] 
+1.8.2022, 14:37:35 - INFO - Setting socket.userId = null for socket [id: Qei_8p-jegogCK-cAAB_] 
+1.8.2022, 14:37:35 - INFO - Setting socket null 
+1.8.2022, 14:42:35 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+1.8.2022, 14:42:35 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+1.8.2022, 14:42:37 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+1.8.2022, 14:42:37 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+1.8.2022, 14:42:38 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+1.8.2022, 14:42:38 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+1.8.2022, 14:42:40 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 14:42:44 - INFO - New connected socket [id: 6k3rG3ZtBwcm2M9QAACB] 
+1.8.2022, 14:42:44 - INFO - Setting socket.userId = null for socket [id: 6k3rG3ZtBwcm2M9QAACB] 
+1.8.2022, 14:42:44 - INFO - Setting socket null 
+1.8.2022, 14:46:20 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 14:46:21 - INFO - New connected socket [id: ZvR5M86pM6t2J_gSAACD] 
+1.8.2022, 14:46:22 - INFO - Setting socket.userId = null for socket [id: ZvR5M86pM6t2J_gSAACD] 
+1.8.2022, 14:46:22 - INFO - Setting socket null 
+1.8.2022, 16:13:23 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 16:13:26 - INFO - New connected socket [id: YTVfVwc0LjmaI9KYAACF] 
+1.8.2022, 16:13:26 - INFO - Setting socket.userId = null for socket [id: YTVfVwc0LjmaI9KYAACF] 
+1.8.2022, 16:13:26 - INFO - Setting socket null 
+1.8.2022, 16:15:02 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 16:15:04 - INFO - New connected socket [id: 6T97nGOuQWh2OmIQAACH] 
+1.8.2022, 16:15:05 - INFO - Setting socket.userId = null for socket [id: 6T97nGOuQWh2OmIQAACH] 
+1.8.2022, 16:15:05 - INFO - Setting socket null 
+1.8.2022, 16:16:23 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 16:16:25 - INFO - New connected socket [id: NtlWA55H7ZXQ2xEXAACJ] 
+1.8.2022, 16:16:26 - INFO - Setting socket.userId = null for socket [id: NtlWA55H7ZXQ2xEXAACJ] 
+1.8.2022, 16:16:26 - INFO - Setting socket null 
+1.8.2022, 16:16:52 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 16:16:54 - INFO - New connected socket [id: mmbIqtjKG11triF8AACL] 
+1.8.2022, 16:16:55 - INFO - Setting socket.userId = null for socket [id: mmbIqtjKG11triF8AACL] 
+1.8.2022, 16:16:55 - INFO - Setting socket null 
+1.8.2022, 16:18:03 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 16:18:05 - INFO - New connected socket [id: 2BBWCtQ2YG-crl3NAACN] 
+1.8.2022, 16:18:06 - INFO - Setting socket.userId = null for socket [id: 2BBWCtQ2YG-crl3NAACN] 
+1.8.2022, 16:18:06 - INFO - Setting socket null 
+1.8.2022, 16:19:29 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 16:19:30 - INFO - New connected socket [id: Ats2lqu4_0trVfJZAACP] 
+1.8.2022, 16:19:31 - INFO - Setting socket.userId = null for socket [id: Ats2lqu4_0trVfJZAACP] 
+1.8.2022, 16:19:31 - INFO - Setting socket null 
+1.8.2022, 16:19:59 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 16:20:03 - INFO - New connected socket [id: Zgozcaeiz1W9-zD1AACR] 
+1.8.2022, 16:20:05 - INFO - Setting socket.userId = null for socket [id: Zgozcaeiz1W9-zD1AACR] 
+1.8.2022, 16:20:05 - INFO - Setting socket null 
+1.8.2022, 16:22:19 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 16:22:20 - INFO - New connected socket [id: 1Aiu2J6QG6wGQedXAACT] 
+1.8.2022, 16:22:22 - INFO - Setting socket.userId = null for socket [id: 1Aiu2J6QG6wGQedXAACT] 
+1.8.2022, 16:22:22 - INFO - Setting socket null 
+1.8.2022, 16:39:12 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 16:39:13 - INFO - New connected socket [id: EulPrgv8uhOIpVNaAACV] 
+1.8.2022, 16:39:15 - INFO - Setting socket.userId = null for socket [id: EulPrgv8uhOIpVNaAACV] 
+1.8.2022, 16:39:15 - INFO - Setting socket null 
+1.8.2022, 16:42:17 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 16:42:19 - INFO - New connected socket [id: 4_SYNkmGid3Kxaq5AACX] 
+1.8.2022, 16:42:21 - INFO - Setting socket.userId = null for socket [id: 4_SYNkmGid3Kxaq5AACX] 
+1.8.2022, 16:42:21 - INFO - Setting socket null 
+1.8.2022, 16:43:10 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 16:43:12 - INFO - New connected socket [id: w4KKtSD5xgKbjJ0mAACZ] 
+1.8.2022, 16:43:14 - INFO - Setting socket.userId = null for socket [id: w4KKtSD5xgKbjJ0mAACZ] 
+1.8.2022, 16:43:14 - INFO - Setting socket null 
+1.8.2022, 16:48:08 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 16:48:10 - INFO - New connected socket [id: f1jKTdl4uK4aqY1_AACb] 
+1.8.2022, 16:48:12 - INFO - Setting socket.userId = null for socket [id: f1jKTdl4uK4aqY1_AACb] 
+1.8.2022, 16:48:12 - INFO - Setting socket null 
+1.8.2022, 16:48:19 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 16:48:21 - INFO - New connected socket [id: eqRHP8AI8oljWX75AACd] 
+1.8.2022, 16:48:22 - INFO - Setting socket.userId = null for socket [id: eqRHP8AI8oljWX75AACd] 
+1.8.2022, 16:48:22 - INFO - Setting socket null 
+1.8.2022, 16:48:33 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 16:48:35 - INFO - New connected socket [id: oP17bk8bs3pa9tY-AACf] 
+1.8.2022, 16:48:37 - INFO - Setting socket.userId = null for socket [id: oP17bk8bs3pa9tY-AACf] 
+1.8.2022, 16:48:37 - INFO - Setting socket null 
+1.8.2022, 16:50:12 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 16:50:14 - INFO - New connected socket [id: wC3cq61SEme3MxX6AACh] 
+1.8.2022, 16:50:16 - INFO - Setting socket null 
+1.8.2022, 16:50:16 - INFO - Setting socket.userId = null for socket [id: wC3cq61SEme3MxX6AACh] 
+1.8.2022, 16:51:00 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 16:51:01 - INFO - New connected socket [id: X965LPm3ND0IM-LuAACj] 
+1.8.2022, 16:51:02 - INFO - Setting socket.userId = null for socket [id: X965LPm3ND0IM-LuAACj] 
+1.8.2022, 16:51:02 - INFO - Setting socket null 
+1.8.2022, 17:21:12 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 17:21:15 - INFO - New connected socket [id: RGSA1Se1PwHLw9vBAACl] 
+1.8.2022, 17:21:15 - INFO - Setting socket.userId = null for socket [id: RGSA1Se1PwHLw9vBAACl] 
+1.8.2022, 17:21:15 - INFO - Setting socket null 
+1.8.2022, 17:21:19 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+1.8.2022, 17:21:19 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+1.8.2022, 17:21:21 - INFO - updated board 
+1.8.2022, 18:11:54 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 18:11:57 - INFO - New connected socket [id: orxT6CqXWd_g43x3AACn] 
+1.8.2022, 18:11:57 - INFO - Setting socket.userId = null for socket [id: orxT6CqXWd_g43x3AACn] 
+1.8.2022, 18:11:57 - INFO - Setting socket null 
+1.8.2022, 18:12:41 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+1.8.2022, 18:12:41 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+1.8.2022, 18:17:58 - INFO - updated board 
+1.8.2022, 18:21:49 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 18:21:50 - INFO - New connected socket [id: aKDE5h7hsN5wg-QyAACp] 
+1.8.2022, 18:21:51 - INFO - Setting socket null 
+1.8.2022, 18:21:51 - INFO - Setting socket.userId = null for socket [id: aKDE5h7hsN5wg-QyAACp] 
+1.8.2022, 18:23:11 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 18:23:12 - INFO - New connected socket [id: 72TBWpnytV4eZR_WAACr] 
+1.8.2022, 18:23:12 - INFO - Setting socket.userId = null for socket [id: 72TBWpnytV4eZR_WAACr] 
+1.8.2022, 18:23:12 - INFO - Setting socket null 
+1.8.2022, 18:23:45 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 18:23:46 - INFO - New connected socket [id: ihkfPzSbRW0OEga-AACt] 
+1.8.2022, 18:23:47 - INFO - Setting socket null 
+1.8.2022, 18:23:47 - INFO - Setting socket.userId = null for socket [id: ihkfPzSbRW0OEga-AACt] 
+1.8.2022, 18:24:04 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 18:24:04 - INFO - New connected socket [id: rTnoQL_4_yGo6475AACv] 
+1.8.2022, 18:24:05 - INFO - Setting socket.userId = null for socket [id: rTnoQL_4_yGo6475AACv] 
+1.8.2022, 18:24:05 - INFO - Setting socket null 
+1.8.2022, 18:24:16 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 18:24:18 - INFO - New connected socket [id: PTX4g9G_NMSHzYTiAACx] 
+1.8.2022, 18:24:18 - INFO - Setting socket.userId = null for socket [id: PTX4g9G_NMSHzYTiAACx] 
+1.8.2022, 18:24:18 - INFO - Setting socket null 
+1.8.2022, 18:24:21 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 18:24:22 - INFO - New connected socket [id: 1uWy79G33blbZ1FiAACz] 
+1.8.2022, 18:24:22 - INFO - Setting socket.userId = null for socket [id: 1uWy79G33blbZ1FiAACz] 
+1.8.2022, 18:24:22 - INFO - Setting socket null 
+1.8.2022, 18:24:25 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+1.8.2022, 18:24:25 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+1.8.2022, 18:24:26 - INFO - updated board 
+1.8.2022, 18:24:29 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 18:24:30 - INFO - New connected socket [id: pGKSCK_qofeszeHgAAC1] 
+1.8.2022, 18:24:30 - INFO - Setting socket.userId = null for socket [id: pGKSCK_qofeszeHgAAC1] 
+1.8.2022, 18:24:30 - INFO - Setting socket null 
+1.8.2022, 18:24:36 - INFO - updated board 
+1.8.2022, 18:24:46 - INFO - updated board 
+1.8.2022, 18:24:57 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 18:24:58 - INFO - New connected socket [id: MWbyYbV0NmULNRd0AAC3] 
+1.8.2022, 18:24:58 - INFO - Setting socket.userId = null for socket [id: MWbyYbV0NmULNRd0AAC3] 
+1.8.2022, 18:24:58 - INFO - Setting socket null 
+1.8.2022, 18:25:28 - INFO - updated board 
+1.8.2022, 18:25:47 - INFO - updated board 
+1.8.2022, 18:25:50 - INFO - updated board 
+1.8.2022, 18:26:18 - INFO - updated board 
+1.8.2022, 18:26:22 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 18:26:23 - INFO - New connected socket [id: GopyGuY-e6WEVIhFAAC5] 
+1.8.2022, 18:26:23 - INFO - Setting socket.userId = null for socket [id: GopyGuY-e6WEVIhFAAC5] 
+1.8.2022, 18:26:23 - INFO - Setting socket null 
+1.8.2022, 18:26:24 - INFO - updated board 
+1.8.2022, 18:26:34 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+1.8.2022, 18:26:34 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+1.8.2022, 18:26:34 - INFO - updated board 
+1.8.2022, 18:26:34 - INFO - updated board 
+1.8.2022, 18:26:51 - INFO - updated board 
+1.8.2022, 18:26:54 - INFO - updated board 
+1.8.2022, 18:27:21 - INFO - updated board 
+1.8.2022, 18:27:51 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 18:27:52 - INFO - New connected socket [id: lQRQm4L-2eux3K5-AAC7] 
+1.8.2022, 18:27:53 - INFO - Setting socket.userId = null for socket [id: lQRQm4L-2eux3K5-AAC7] 
+1.8.2022, 18:27:53 - INFO - Setting socket null 
+1.8.2022, 18:27:53 - INFO - updated board 
+1.8.2022, 18:28:07 - INFO - updated board 
+1.8.2022, 18:30:45 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 18:30:46 - INFO - New connected socket [id: Jgh_RlqKcm0kjskJAAC9] 
+1.8.2022, 18:30:47 - INFO - Setting socket.userId = null for socket [id: Jgh_RlqKcm0kjskJAAC9] 
+1.8.2022, 18:30:47 - INFO - Setting socket null 
+1.8.2022, 18:31:40 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 18:31:41 - INFO - New connected socket [id: iIUr5GzfECbBJGRWAAC_] 
+1.8.2022, 18:31:42 - INFO - Setting socket.userId = null for socket [id: iIUr5GzfECbBJGRWAAC_] 
+1.8.2022, 18:31:42 - INFO - Setting socket null 
+1.8.2022, 18:33:40 - INFO - updated board 
+1.8.2022, 18:33:41 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 18:33:43 - INFO - New connected socket [id: TDiYUQjmw_M51xiuAADB] 
+1.8.2022, 18:33:43 - INFO - Setting socket.userId = null for socket [id: TDiYUQjmw_M51xiuAADB] 
+1.8.2022, 18:33:43 - INFO - Setting socket null 
+1.8.2022, 18:45:21 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 18:45:23 - INFO - New connected socket [id: Ms2w6zKKXLt4ZHbXAADD] 
+1.8.2022, 18:45:24 - INFO - Setting socket null 
+1.8.2022, 18:45:24 - INFO - Setting socket.userId = null for socket [id: Ms2w6zKKXLt4ZHbXAADD] 
+1.8.2022, 19:41:53 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 21:24:48 - INFO - New connected socket [id: xxr7RjTwZg2s3igcAADF] 
+1.8.2022, 21:34:04 - INFO - updated board 
+1.8.2022, 21:34:05 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 21:34:07 - INFO - New connected socket [id: P6wkFeYV2hJ5DjZAAADH] 
+1.8.2022, 21:34:08 - INFO - Setting socket.userId = null for socket [id: P6wkFeYV2hJ5DjZAAADH] 
+1.8.2022, 21:34:08 - INFO - Setting socket null 
+1.8.2022, 21:37:36 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 21:37:38 - INFO - New connected socket [id: T9CsumMS-3UHwiUVAADJ] 
+1.8.2022, 21:37:40 - INFO - Setting socket.userId = null for socket [id: T9CsumMS-3UHwiUVAADJ] 
+1.8.2022, 21:37:40 - INFO - Setting socket null 
+1.8.2022, 21:39:16 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 21:39:19 - INFO - New connected socket [id: hRbwek3RJt3HAsWtAADL] 
+1.8.2022, 21:39:20 - INFO - Setting socket.userId = null for socket [id: hRbwek3RJt3HAsWtAADL] 
+1.8.2022, 21:39:20 - INFO - Setting socket null 
+1.8.2022, 21:40:33 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 21:40:36 - INFO - New connected socket [id: 3Yyu3urpC7D2881vAADN] 
+1.8.2022, 21:40:37 - INFO - Setting socket.userId = null for socket [id: 3Yyu3urpC7D2881vAADN] 
+1.8.2022, 21:40:37 - INFO - Setting socket null 
+1.8.2022, 21:44:47 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+1.8.2022, 21:44:47 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+1.8.2022, 21:44:48 - INFO - updated board 
+1.8.2022, 21:45:16 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 21:45:17 - INFO - New connected socket [id: w4L3HItrP1JBzPW_AADP] 
+1.8.2022, 21:45:18 - INFO - Setting socket.userId = null for socket [id: w4L3HItrP1JBzPW_AADP] 
+1.8.2022, 21:45:18 - INFO - Setting socket null 
+1.8.2022, 21:45:27 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+1.8.2022, 21:45:27 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+1.8.2022, 21:45:28 - INFO - updated board 
+1.8.2022, 21:45:40 - INFO - updated board 
+1.8.2022, 21:45:59 - INFO - updated board 
+1.8.2022, 21:48:46 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+1.8.2022, 21:48:46 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+1.8.2022, 21:48:50 - INFO - updated board 
+1.8.2022, 21:48:59 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 21:49:00 - INFO - New connected socket [id: fctYzuakdlZv4dIsAADR] 
+1.8.2022, 21:49:03 - INFO - Setting socket.userId = null for socket [id: fctYzuakdlZv4dIsAADR] 
+1.8.2022, 21:49:03 - INFO - Setting socket null 
+1.8.2022, 21:49:05 - INFO - updated board 
+1.8.2022, 22:12:35 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+1.8.2022, 22:12:35 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+1.8.2022, 22:16:29 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 22:16:31 - INFO - New connected socket [id: OwpN9dYWk8UTa1P5AADT] 
+1.8.2022, 22:16:32 - INFO - Setting socket.userId = null for socket [id: OwpN9dYWk8UTa1P5AADT] 
+1.8.2022, 22:16:32 - INFO - Setting socket null 
+1.8.2022, 22:28:46 - INFO - updated board 
+1.8.2022, 22:29:35 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+1.8.2022, 22:29:35 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+1.8.2022, 22:29:37 - INFO - updated board 
+1.8.2022, 22:29:38 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 22:30:14 - INFO - New connected socket [id: w41dWidMDWk5jsKfAADV] 
+1.8.2022, 22:35:32 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 22:35:33 - INFO - New connected socket [id: Atf3krq8lI6lAsAmAADX] 
+1.8.2022, 22:35:34 - INFO - Setting socket.userId = null for socket [id: Atf3krq8lI6lAsAmAADX] 
+1.8.2022, 22:35:34 - INFO - Setting socket null 
+1.8.2022, 22:35:39 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 22:35:40 - INFO - New connected socket [id: YsqDy09V-kwDpmUYAADZ] 
+1.8.2022, 22:35:41 - INFO - Setting socket.userId = null for socket [id: YsqDy09V-kwDpmUYAADZ] 
+1.8.2022, 22:35:41 - INFO - Setting socket null 
+1.8.2022, 22:35:46 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+1.8.2022, 22:35:46 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62e8296d16a87a5f48c504c1"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+1.8.2022, 22:35:51 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 22:35:52 - INFO - New connected socket [id: 7iVa9j90oUTbDoFvAADb] 
+1.8.2022, 22:35:52 - INFO - Setting socket null 
+1.8.2022, 22:35:52 - INFO - Setting socket.userId = null for socket [id: 7iVa9j90oUTbDoFvAADb] 
+1.8.2022, 22:35:55 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 22:35:56 - INFO - New connected socket [id: -cmVPkhj1dbJt89qAADd] 
+1.8.2022, 22:35:56 - INFO - Setting socket.userId = null for socket [id: -cmVPkhj1dbJt89qAADd] 
+1.8.2022, 22:35:56 - INFO - Setting socket null 
+1.8.2022, 22:36:37 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+1.8.2022, 22:36:37 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+1.8.2022, 22:36:40 - INFO - updated board 
+1.8.2022, 22:36:43 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 22:36:45 - INFO - New connected socket [id: gTeFd6_LsaFzxU27AADf] 
+1.8.2022, 22:36:45 - INFO - Setting socket.userId = null for socket [id: gTeFd6_LsaFzxU27AADf] 
+1.8.2022, 22:36:45 - INFO - Setting socket null 
+1.8.2022, 22:36:47 - INFO - updated board 
+1.8.2022, 22:40:08 - INFO - Server is running on port: 3030 
+1.8.2022, 22:40:09 - INFO - New connected socket [id: vS6PY4pQg3m2VpYXAAAB] 
+1.8.2022, 22:53:53 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 22:53:56 - INFO - New connected socket [id: gSQTgvptYoWSFHW7AAAD] 
+1.8.2022, 22:53:56 - INFO - Setting socket.userId = null for socket [id: gSQTgvptYoWSFHW7AAAD] 
+1.8.2022, 22:53:56 - INFO - Setting socket null 
+1.8.2022, 23:04:03 - DEBUG - auth.service - signup with username: ori, fullname: Ori (userId: 629e05249a28133be456c129)
+1.8.2022, 23:04:05 - DEBUG - auth.route - new account created: {"username":"ori","password":"$2b$10$FGBUroMNr4jLjnfFKHNKUOW1q2iMmybasWiEWFAoWG7Ws/qFQnBSi","fullname":"Ori","boards":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62e831b5cec5f228f07535a2"} (userId: 629e05249a28133be456c129)
+1.8.2022, 23:04:05 - DEBUG - auth.service - login with username: ori (userId: 629e05249a28133be456c129)
+1.8.2022, 23:04:05 - INFO - User signup: | {"_id":"62e831b5cec5f228f07535a2","username":"ori","fullname":"Ori","boards":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} (userId: 629e05249a28133be456c129)
+1.8.2022, 23:04:05 - INFO - Setting socket.userId = 62e831b5cec5f228f07535a2 for socket [id: gSQTgvptYoWSFHW7AAAD] 
+1.8.2022, 23:04:05 - INFO - Setting socket 62e831b5cec5f228f07535a2 
+1.8.2022, 23:05:25 - INFO - Server is running on port: 3030 
+1.8.2022, 23:05:25 - INFO - New connected socket [id: GYq7PPcLw1u_CEZPAAAB] 
+1.8.2022, 23:05:53 - DEBUG - auth.service - signup with username: GD, fullname: GoldFish (userId: 62e831b5cec5f228f07535a2)
+1.8.2022, 23:05:55 - DEBUG - auth.route - new account created: {"username":"GD","password":"$2b$10$AFi0OqDjHrfRIsFU1uC/cuQhXJXKoIl24HtNSuUn5v/qX4BCqmbci","fullname":"GoldFish","boards":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62e8322305e9b003d8ea1d84"} (userId: 62e831b5cec5f228f07535a2)
+1.8.2022, 23:05:55 - DEBUG - auth.service - login with username: GD (userId: 62e831b5cec5f228f07535a2)
+1.8.2022, 23:05:55 - INFO - User signup: | {"_id":"62e8322305e9b003d8ea1d84","username":"GD","fullname":"GoldFish","boards":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} (userId: 62e831b5cec5f228f07535a2)
+1.8.2022, 23:05:56 - INFO - Setting socket.userId = 62e8322305e9b003d8ea1d84 for socket [id: GYq7PPcLw1u_CEZPAAAB] 
+1.8.2022, 23:05:56 - INFO - Setting socket 62e8322305e9b003d8ea1d84 
+1.8.2022, 23:07:58 - DEBUG - auth.service - signup with username: GD, fullname: GoldFish (userId: 62e8322305e9b003d8ea1d84)
+1.8.2022, 23:07:59 - DEBUG - auth.route - new account created: {"username":"GD","password":"$2b$10$H507cbwhC8Dfy69xEdMQwO8QYLZ0BI0OBqmpbhbvLW/ouuELAiI2W","fullname":"GoldFish","boards":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62e8329e05e9b003d8ea1d85"} (userId: 62e8322305e9b003d8ea1d84)
+1.8.2022, 23:07:59 - DEBUG - auth.service - login with username: GD (userId: 62e8322305e9b003d8ea1d84)
+1.8.2022, 23:07:59 - INFO - User signup: | {"_id":"62e8329e05e9b003d8ea1d85","username":"GD","fullname":"GoldFish","boards":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} (userId: 62e8322305e9b003d8ea1d84)
+1.8.2022, 23:08:01 - INFO - Setting socket.userId = 62e8329e05e9b003d8ea1d85 for socket [id: GYq7PPcLw1u_CEZPAAAB] 
+1.8.2022, 23:08:01 - INFO - Setting socket 62e8329e05e9b003d8ea1d85 
+1.8.2022, 23:14:12 - INFO - Server is running on port: 3030 
+1.8.2022, 23:14:13 - INFO - New connected socket [id: RoO-GyG7TE_3pF4_AAAB] 
+1.8.2022, 23:14:16 - INFO - Server is running on port: 3030 
+1.8.2022, 23:14:16 - INFO - New connected socket [id: xQEtTLkHVd21xsFPAAAB] 
+1.8.2022, 23:14:22 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 23:14:24 - INFO - New connected socket [id: EMQ0ffoVYKHojpdhAAAD] 
+1.8.2022, 23:14:25 - INFO - Setting socket.userId = null for socket [id: EMQ0ffoVYKHojpdhAAAD] 
+1.8.2022, 23:14:25 - INFO - Setting socket null 
+1.8.2022, 23:14:47 - DEBUG - auth.service - signup with username: BR, fullname: Book Readera (userId: 62e8329e05e9b003d8ea1d85)
+1.8.2022, 23:14:50 - DEBUG - auth.route - new account created: {"username":"BR","password":"$2b$10$VyzhLd2wEUKp4HZRB1YJDeEeztHNDYcynZtd6XNowkmH4hrNUv606","fullname":"Book Readera","boards":[],"imgUrl":"http://res.cloudinary.com/noambar/image/upload/v1659384875/iwskowuhnzzcn2yjrf6e.png","mentions":[],"_id":"62e83439518ef763dc647dba"} (userId: 62e8329e05e9b003d8ea1d85)
+1.8.2022, 23:14:50 - DEBUG - auth.service - login with username: BR (userId: 62e8329e05e9b003d8ea1d85)
+1.8.2022, 23:14:50 - INFO - User signup: | {"_id":"62e83439518ef763dc647dba","username":"BR","fullname":"Book Readera","boards":[],"imgUrl":"http://res.cloudinary.com/noambar/image/upload/v1659384875/iwskowuhnzzcn2yjrf6e.png","mentions":[]} (userId: 62e8329e05e9b003d8ea1d85)
+1.8.2022, 23:14:50 - INFO - Setting socket.userId = 62e83439518ef763dc647dba for socket [id: EMQ0ffoVYKHojpdhAAAD] 
+1.8.2022, 23:14:50 - INFO - Setting socket 62e83439518ef763dc647dba 
+1.8.2022, 23:15:10 - INFO - updated board 
+1.8.2022, 23:15:17 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 23:15:17 - INFO - New connected socket [id: 7FFA7OFDkganJ7ytAAAF] 
+1.8.2022, 23:15:18 - INFO - Setting socket.userId = null for socket [id: 7FFA7OFDkganJ7ytAAAF] 
+1.8.2022, 23:15:18 - INFO - Setting socket null 
+1.8.2022, 23:15:18 - INFO - updated board 
+1.8.2022, 23:15:29 - INFO - updated board 
+1.8.2022, 23:15:32 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 23:15:33 - INFO - New connected socket [id: DE9kxVF7m25XruKSAAAH] 
+1.8.2022, 23:15:34 - INFO - Setting socket.userId = null for socket [id: DE9kxVF7m25XruKSAAAH] 
+1.8.2022, 23:15:34 - INFO - Setting socket null 
+1.8.2022, 23:15:34 - INFO - updated board 
+1.8.2022, 23:16:34 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 23:16:35 - INFO - New connected socket [id: JmA2IYb-7VklvVCEAAAJ] 
+1.8.2022, 23:16:35 - INFO - Setting socket null 
+1.8.2022, 23:16:35 - INFO - Setting socket.userId = null for socket [id: JmA2IYb-7VklvVCEAAAJ] 
+1.8.2022, 23:16:36 - INFO - updated board 
+1.8.2022, 23:16:46 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 23:16:47 - INFO - New connected socket [id: spay_bFJJIxqIwbSAAAL] 
+1.8.2022, 23:16:47 - INFO - Setting socket.userId = null for socket [id: spay_bFJJIxqIwbSAAAL] 
+1.8.2022, 23:16:47 - INFO - Setting socket null 
+1.8.2022, 23:16:48 - INFO - updated board 
+1.8.2022, 23:17:31 - INFO - updated board 
+1.8.2022, 23:17:37 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 23:17:38 - INFO - New connected socket [id: BV8Xsnt01GyO2yAqAAAN] 
+1.8.2022, 23:17:39 - INFO - Setting socket.userId = null for socket [id: BV8Xsnt01GyO2yAqAAAN] 
+1.8.2022, 23:17:39 - INFO - Setting socket null 
+1.8.2022, 23:17:39 - INFO - updated board 
+1.8.2022, 23:18:05 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 23:18:08 - INFO - New connected socket [id: vQckGiRM7IPilnBvAAAQ] 
+1.8.2022, 23:18:08 - INFO - Setting socket.userId = null for socket [id: vQckGiRM7IPilnBvAAAQ] 
+1.8.2022, 23:18:08 - INFO - updated board 
+1.8.2022, 23:18:08 - INFO - Setting socket null 
+1.8.2022, 23:18:08 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 23:18:09 - INFO - New connected socket [id: FuUNhoMVPHwAPqzCAAAS] 
+1.8.2022, 23:18:10 - INFO - Setting socket.userId = null for socket [id: FuUNhoMVPHwAPqzCAAAS] 
+1.8.2022, 23:18:10 - INFO - Setting socket null 
+1.8.2022, 23:18:10 - INFO - updated board 
+1.8.2022, 23:18:23 - INFO - updated board 
+1.8.2022, 23:19:22 - DEBUG - auth.service - login with username: BR (userId: 62e83439518ef763dc647dba)
+1.8.2022, 23:19:23 - INFO - User login:  | {"_id":"62e83439518ef763dc647dba","username":"BR","fullname":"Book Readera","boards":["62e8344c518ef763dc647dbb"],"imgUrl":"http://res.cloudinary.com/noambar/image/upload/v1659384875/iwskowuhnzzcn2yjrf6e.png","mentions":[]} (userId: 62e83439518ef763dc647dba)
+1.8.2022, 23:19:25 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 62e83439518ef763dc647dba)
+1.8.2022, 23:19:25 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 62e83439518ef763dc647dba)
+1.8.2022, 23:19:26 - INFO - updated board 
+1.8.2022, 23:19:32 - INFO - updated board 
+1.8.2022, 23:37:31 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 23:37:32 - INFO - New connected socket [id: 2TIAP84AG5MLQl0yAAAU] 
+1.8.2022, 23:37:33 - INFO - Setting socket.userId = null for socket [id: 2TIAP84AG5MLQl0yAAAU] 
+1.8.2022, 23:37:33 - INFO - Setting socket null 
+1.8.2022, 23:37:34 - INFO - updated board 
+1.8.2022, 23:38:50 - DEBUG - auth.service - signup with username: o, fullname: Ori (userId: 62e83439518ef763dc647dba)
+1.8.2022, 23:38:51 - DEBUG - auth.route - new account created: {"username":"o","password":"$2b$10$sfw4lwb4oMWbXnUURgegbeoYJC0dNdMJU/owyV9hDFaYQsA48HwC6","fullname":"Ori","boards":[],"imgUrl":"","mentions":[],"_id":"62e839db518ef763dc647dbc"} (userId: 62e83439518ef763dc647dba)
+1.8.2022, 23:38:51 - DEBUG - auth.service - login with username: o (userId: 62e83439518ef763dc647dba)
+1.8.2022, 23:38:51 - INFO - User signup: | {"_id":"62e839db518ef763dc647dbc","username":"o","fullname":"Ori","boards":[],"imgUrl":"","mentions":[]} (userId: 62e83439518ef763dc647dba)
+1.8.2022, 23:38:52 - INFO - Setting socket.userId = 62e839db518ef763dc647dbc for socket [id: 2TIAP84AG5MLQl0yAAAU] 
+1.8.2022, 23:38:52 - INFO - Setting socket 62e839db518ef763dc647dbc 
+1.8.2022, 23:39:05 - INFO - updated board 
+1.8.2022, 23:46:04 - INFO - Socket disconnected [id: undefined] 
+1.8.2022, 23:46:11 - INFO - New connected socket [id: _T2cdYPhyZjwpQM6AAAW] 
+1.8.2022, 23:46:11 - INFO - Setting socket.userId = null for socket [id: _T2cdYPhyZjwpQM6AAAW] 
+1.8.2022, 23:46:11 - INFO - Setting socket null 
+1.8.2022, 23:46:12 - INFO - updated board 
+1.8.2022, 23:46:24 - DEBUG - auth.service - login with username: o (userId: 62e839db518ef763dc647dbc)
+1.8.2022, 23:46:24 - INFO - User login:  | {"_id":"62e839db518ef763dc647dbc","username":"o","fullname":"Ori","boards":["62e839e8518ef763dc647dbd"],"imgUrl":"","mentions":[]} (userId: 62e839db518ef763dc647dbc)
+2.8.2022, 0:08:35 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 62e839db518ef763dc647dbc)
+2.8.2022, 0:08:35 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 62e839db518ef763dc647dbc)
+2.8.2022, 0:08:36 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 62e839db518ef763dc647dbc)
+2.8.2022, 0:08:36 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 62e839db518ef763dc647dbc)
+2.8.2022, 0:08:37 - INFO - updated board 
+2.8.2022, 0:08:56 - DEBUG - auth.service - login with username: n1 (userId: 62e839db518ef763dc647dbc)
+2.8.2022, 0:08:56 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62e8296d16a87a5f48c504c1"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 62e839db518ef763dc647dbc)
+2.8.2022, 0:08:59 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+2.8.2022, 0:08:59 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+2.8.2022, 0:09:01 - INFO - updated board 
+2.8.2022, 0:09:08 - INFO - Socket disconnected [id: undefined] 
+2.8.2022, 0:09:09 - INFO - New connected socket [id: HJkJ-2j4GlE49M7IAAAY] 
+2.8.2022, 0:09:09 - INFO - Setting socket.userId = null for socket [id: HJkJ-2j4GlE49M7IAAAY] 
+2.8.2022, 0:09:09 - INFO - Setting socket null 
+2.8.2022, 0:09:12 - INFO - updated board 
+2.8.2022, 0:24:07 - INFO - Socket disconnected [id: undefined] 
+2.8.2022, 0:24:10 - INFO - New connected socket [id: pAM7nqOwh3W8ygvtAAAa] 
+2.8.2022, 0:24:11 - INFO - Setting socket.userId = null for socket [id: pAM7nqOwh3W8ygvtAAAa] 
+2.8.2022, 0:24:11 - INFO - Setting socket null 
+2.8.2022, 0:24:15 - INFO - updated board 
+2.8.2022, 0:24:55 - INFO - Socket disconnected [id: undefined] 
+2.8.2022, 0:24:56 - INFO - New connected socket [id: N2IzVDh27yyv_SOXAAAc] 
+2.8.2022, 0:24:56 - INFO - Setting socket.userId = null for socket [id: N2IzVDh27yyv_SOXAAAc] 
+2.8.2022, 0:24:56 - INFO - Setting socket null 
+2.8.2022, 0:24:58 - INFO - updated board 
+2.8.2022, 0:25:06 - INFO - updated board 
+2.8.2022, 0:25:06 - INFO - updated board 
+2.8.2022, 0:25:06 - INFO - updated board 
+2.8.2022, 0:25:06 - INFO - updated board 
+2.8.2022, 0:25:07 - INFO - updated board 
+2.8.2022, 0:25:07 - INFO - updated board 
+2.8.2022, 0:25:23 - INFO - updated board 
+2.8.2022, 0:25:29 - INFO - updated board 
+2.8.2022, 0:26:21 - INFO - Socket disconnected [id: undefined] 
+2.8.2022, 0:26:22 - INFO - New connected socket [id: iqgyaOM-4IAwFGajAAAe] 
+2.8.2022, 0:26:22 - INFO - Setting socket.userId = null for socket [id: iqgyaOM-4IAwFGajAAAe] 
+2.8.2022, 0:26:22 - INFO - Setting socket null 
+2.8.2022, 0:26:25 - INFO - updated board 
+2.8.2022, 0:26:42 - INFO - updated board 
+2.8.2022, 0:26:43 - INFO - updated board 
+2.8.2022, 0:26:44 - INFO - updated board 
+2.8.2022, 0:26:45 - INFO - updated board 
+2.8.2022, 0:26:46 - INFO - updated board 
+2.8.2022, 0:26:49 - INFO - updated board 
+2.8.2022, 0:26:55 - INFO - updated board 
+2.8.2022, 0:26:57 - INFO - updated board 
+2.8.2022, 0:26:58 - INFO - updated board 
+2.8.2022, 0:26:59 - INFO - updated board 
+2.8.2022, 0:26:59 - INFO - updated board 
+2.8.2022, 0:27:01 - INFO - updated board 
+2.8.2022, 0:27:01 - INFO - updated board 
+2.8.2022, 0:27:03 - INFO - updated board 
+2.8.2022, 0:27:04 - INFO - updated board 
+2.8.2022, 0:27:05 - INFO - updated board 
+2.8.2022, 0:27:06 - INFO - updated board 
+2.8.2022, 0:27:10 - INFO - updated board 
+2.8.2022, 0:27:12 - INFO - updated board 
+2.8.2022, 0:27:14 - INFO - updated board 
+2.8.2022, 0:28:12 - INFO - updated board 
+2.8.2022, 0:28:26 - INFO - Socket disconnected [id: undefined] 
+2.8.2022, 0:28:28 - INFO - New connected socket [id: sSo3kNHhyv8AN03CAAAg] 
+2.8.2022, 0:28:33 - INFO - Setting socket.userId = null for socket [id: sSo3kNHhyv8AN03CAAAg] 
+2.8.2022, 0:28:33 - INFO - Setting socket null 
+2.8.2022, 0:28:34 - INFO - updated board 
+2.8.2022, 0:28:39 - INFO - updated board 
+2.8.2022, 0:29:00 - INFO - Socket disconnected [id: undefined] 
+2.8.2022, 0:29:02 - INFO - New connected socket [id: N-vWhnXn7pqLqHl1AAAi] 
+2.8.2022, 0:29:06 - INFO - Setting socket.userId = null for socket [id: N-vWhnXn7pqLqHl1AAAi] 
+2.8.2022, 0:29:06 - INFO - Setting socket null 
+2.8.2022, 0:29:10 - INFO - updated board 
+2.8.2022, 0:29:48 - INFO - Socket disconnected [id: undefined] 
+2.8.2022, 0:29:50 - INFO - New connected socket [id: 8ca1AsEY-8przBzFAAAk] 
+2.8.2022, 0:29:50 - INFO - Setting socket.userId = null for socket [id: 8ca1AsEY-8przBzFAAAk] 
+2.8.2022, 0:29:50 - INFO - Setting socket null 
+2.8.2022, 0:29:53 - INFO - updated board 
+2.8.2022, 0:30:01 - INFO - updated board 
+2.8.2022, 0:30:03 - INFO - updated board 
+2.8.2022, 0:30:07 - INFO - updated board 
+2.8.2022, 0:30:16 - INFO - updated board 
+2.8.2022, 0:30:20 - INFO - Socket disconnected [id: undefined] 
+2.8.2022, 0:30:22 - INFO - New connected socket [id: VOxMzH5FM9ixJ53-AAAm] 
+2.8.2022, 0:30:25 - INFO - Setting socket null 
+2.8.2022, 0:30:25 - INFO - Setting socket.userId = null for socket [id: VOxMzH5FM9ixJ53-AAAm] 
+2.8.2022, 0:30:28 - INFO - updated board 
+2.8.2022, 0:30:37 - INFO - updated board 
+2.8.2022, 0:30:41 - INFO - updated board 
+2.8.2022, 0:30:44 - INFO - updated board 
+2.8.2022, 0:30:48 - INFO - Socket disconnected [id: undefined] 
+2.8.2022, 0:30:51 - INFO - New connected socket [id: MGHZtH_LVyE4I-u2AAAo] 
+2.8.2022, 0:30:52 - INFO - Setting socket.userId = null for socket [id: MGHZtH_LVyE4I-u2AAAo] 
+2.8.2022, 0:30:52 - INFO - Setting socket null 
+2.8.2022, 0:30:56 - INFO - updated board 
+2.8.2022, 0:31:03 - INFO - updated board 
+2.8.2022, 0:31:07 - INFO - Socket disconnected [id: undefined] 
+2.8.2022, 0:31:08 - INFO - New connected socket [id: 7JQ9bwj7ajprpNz1AAAq] 
+2.8.2022, 0:31:09 - INFO - Setting socket.userId = null for socket [id: 7JQ9bwj7ajprpNz1AAAq] 
+2.8.2022, 0:31:09 - INFO - Setting socket null 
+2.8.2022, 0:31:11 - INFO - updated board 
+2.8.2022, 0:31:15 - INFO - updated board 
+2.8.2022, 0:31:32 - INFO - updated board 
+2.8.2022, 0:31:35 - INFO - updated board 
+2.8.2022, 0:32:13 - INFO - updated board 
+2.8.2022, 0:32:15 - INFO - updated board 
+2.8.2022, 0:32:20 - INFO - updated board 
+2.8.2022, 0:32:28 - INFO - updated board 
+2.8.2022, 0:32:38 - INFO - updated board 
+2.8.2022, 0:32:40 - INFO - updated board 
+2.8.2022, 0:40:46 - INFO - Server is running on port: 3030 
+2.8.2022, 0:40:47 - INFO - New connected socket [id: ksb5FZfZc-bm9AWgAAAB] 
+2.8.2022, 1:32:59 - INFO - Socket disconnected [id: undefined] 
+2.8.2022, 1:33:01 - INFO - New connected socket [id: Ylh05rgeSmJCrSx7AAAD] 
+2.8.2022, 1:33:01 - INFO - Setting socket.userId = null for socket [id: Ylh05rgeSmJCrSx7AAAD] 
+2.8.2022, 1:33:01 - INFO - Setting socket null 
+2.8.2022, 1:33:07 - INFO - updated board 
+2.8.2022, 1:35:51 - INFO - updated board 
+2.8.2022, 1:40:44 - INFO - updated board 
+2.8.2022, 1:40:47 - INFO - updated board 
+2.8.2022, 2:45:01 - INFO - Socket disconnected [id: undefined] 
+2.8.2022, 2:48:36 - INFO - New connected socket [id: muV83aFC-bTk2gerAAAF] 
+2.8.2022, 2:48:46 - INFO - Socket disconnected [id: undefined] 
+2.8.2022, 2:49:00 - INFO - New connected socket [id: v_uRSwKzuLqkdlYrAAAH] 
+2.8.2022, 4:39:58 - INFO - Socket disconnected [id: undefined] 
+2.8.2022, 4:41:09 - INFO - New connected socket [id: AO06L4kBDhHFc_bfAAAJ] 
+2.8.2022, 4:55:57 - INFO - Socket disconnected [id: undefined] 
+2.8.2022, 4:57:32 - INFO - New connected socket [id: RRPtZi7r5s57lZf_AAAL] 
+2.8.2022, 14:29:06 - INFO - Server is running on port: 3030 
+2.8.2022, 14:29:37 - INFO - New connected socket [id: qlZg6hRUJRA1lKTSAAAB] 
+2.8.2022, 14:29:37 - INFO - Setting socket.userId = null for socket [id: qlZg6hRUJRA1lKTSAAAB] 
+2.8.2022, 14:29:37 - INFO - Setting socket null 
+2.8.2022, 14:34:05 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+2.8.2022, 14:34:07 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62e8296d16a87a5f48c504c1"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+2.8.2022, 14:34:10 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+2.8.2022, 14:34:10 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+2.8.2022, 14:34:12 - INFO - updated board 
+2.8.2022, 14:34:49 - INFO - updated board 
+2.8.2022, 14:34:49 - INFO - Socket disconnected [id: undefined] 
+2.8.2022, 14:34:51 - INFO - New connected socket [id: _IA0jOQja_NzO2MfAAAD] 
+2.8.2022, 14:34:51 - INFO - Setting socket.userId = null for socket [id: _IA0jOQja_NzO2MfAAAD] 
+2.8.2022, 14:34:51 - INFO - Setting socket null 
+2.8.2022, 14:34:52 - INFO - updated board 
+2.8.2022, 14:42:20 - INFO - updated board 
+2.8.2022, 14:42:26 - INFO - updated board 
+2.8.2022, 14:42:34 - INFO - updated board 
+2.8.2022, 14:45:14 - INFO - New connected socket [id: vgEG1NSOp42_v1xiAAAF] 
+2.8.2022, 14:45:14 - INFO - Setting socket.userId = null for socket [id: vgEG1NSOp42_v1xiAAAF] 
+2.8.2022, 14:45:14 - INFO - Setting socket null 
+2.8.2022, 14:45:16 - INFO - updated board 
+2.8.2022, 14:46:58 - INFO - updated board 
+2.8.2022, 14:47:01 - INFO - updated board 
+2.8.2022, 14:47:49 - INFO - updated board 
+2.8.2022, 14:47:53 - INFO - Socket disconnected [id: undefined] 
+2.8.2022, 14:47:54 - INFO - New connected socket [id: h5Thxsvm5iowkiD4AAAH] 
+2.8.2022, 14:47:54 - INFO - Setting socket.userId = null for socket [id: h5Thxsvm5iowkiD4AAAH] 
+2.8.2022, 14:47:54 - INFO - Setting socket null 
+2.8.2022, 14:47:57 - INFO - updated board 
+2.8.2022, 14:49:34 - INFO - updated board 
+2.8.2022, 14:50:59 - INFO - updated board 
+2.8.2022, 16:10:14 - INFO - Socket disconnected [id: undefined] 
+2.8.2022, 16:10:14 - INFO - Socket disconnected [id: undefined] 
+2.8.2022, 18:11:31 - INFO - New connected socket [id: GeDMMKwU9mjBS_AGAAAK] 
+2.8.2022, 18:11:31 - INFO - New connected socket [id: GKoypaw7Or4gOZRtAAAL] 
+2.8.2022, 18:12:54 - INFO - Socket disconnected [id: undefined] 
+2.8.2022, 18:12:54 - INFO - Socket disconnected [id: undefined] 
+2.8.2022, 18:13:20 - INFO - New connected socket [id: MW-NJFVhFx1lvx2RAAAO] 
+2.8.2022, 18:13:20 - INFO - New connected socket [id: rcLBPNt8OZZ-46HOAAAP] 
+2.8.2022, 23:28:42 - INFO - updated board 
+2.8.2022, 23:33:24 - INFO - updated board 
+2.8.2022, 23:34:23 - INFO - updated board 
+2.8.2022, 23:36:55 - INFO - Socket disconnected [id: undefined] 
+2.8.2022, 23:36:56 - INFO - New connected socket [id: zQmKFwzE6eoMtWjhAAAR] 
+2.8.2022, 23:36:57 - INFO - Setting socket.userId = null for socket [id: zQmKFwzE6eoMtWjhAAAR] 
+2.8.2022, 23:36:57 - INFO - Setting socket null 
+2.8.2022, 23:36:58 - INFO - updated board 
+2.8.2022, 23:37:49 - INFO - updated board 
+2.8.2022, 23:37:50 - INFO - updated board 
+2.8.2022, 23:37:53 - INFO - updated board 
+2.8.2022, 23:37:55 - INFO - updated board 
+2.8.2022, 23:37:58 - INFO - updated board 
+2.8.2022, 23:37:59 - INFO - updated board 
+2.8.2022, 23:38:02 - INFO - updated board 
+2.8.2022, 23:38:03 - INFO - updated board 
+3.8.2022, 0:37:09 - INFO - Socket disconnected [id: undefined] 
+3.8.2022, 0:37:09 - INFO - Socket disconnected [id: undefined] 
+3.8.2022, 1:13:25 - INFO - New connected socket [id: Fo5fn8tIc04eCi48AAAU] 
+3.8.2022, 1:13:25 - INFO - New connected socket [id: uhsdYNv_X4GqugC6AAAV] 
+3.8.2022, 2:56:47 - INFO - Socket disconnected [id: undefined] 
+3.8.2022, 2:56:47 - INFO - Socket disconnected [id: undefined] 
+3.8.2022, 2:57:59 - INFO - New connected socket [id: rik1uMArbJdmmOu9AAAY] 
+3.8.2022, 2:57:59 - INFO - New connected socket [id: CwF0Vl2LmmERauKlAAAZ] 
+3.8.2022, 3:53:20 - INFO - Socket disconnected [id: undefined] 
+3.8.2022, 3:53:20 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 14:41:28 - INFO - New connected socket [id: N4kV0UdW2BrPvID7AAAb] 
+4.8.2022, 14:41:28 - INFO - New connected socket [id: I0WryP6ImvpIuRdbAAAd] 
+4.8.2022, 14:52:21 - INFO - updated board 
+4.8.2022, 14:52:24 - INFO - updated board 
+4.8.2022, 14:52:25 - INFO - updated board 
+4.8.2022, 14:59:19 - INFO - updated board 
+4.8.2022, 14:59:20 - INFO - updated board 
+4.8.2022, 14:59:37 - INFO - updated board 
+4.8.2022, 14:59:39 - INFO - updated board 
+4.8.2022, 15:02:19 - INFO - updated board 
+4.8.2022, 15:02:53 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 15:02:54 - INFO - New connected socket [id: ll0DCvsweRXkx2GOAAAf] 
+4.8.2022, 15:02:54 - INFO - Setting socket.userId = null for socket [id: ll0DCvsweRXkx2GOAAAf] 
+4.8.2022, 15:02:54 - INFO - Setting socket null 
+4.8.2022, 15:02:56 - INFO - updated board 
+4.8.2022, 15:03:39 - INFO - updated board 
+4.8.2022, 15:03:39 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 15:03:39 - INFO - New connected socket [id: RaOdyQFruzqxj1pSAAAh] 
+4.8.2022, 15:03:39 - INFO - Setting socket.userId = null for socket [id: RaOdyQFruzqxj1pSAAAh] 
+4.8.2022, 15:03:39 - INFO - Setting socket null 
+4.8.2022, 15:03:42 - INFO - updated board 
+4.8.2022, 15:04:53 - INFO - updated board 
+4.8.2022, 15:05:16 - INFO - updated board 
+4.8.2022, 15:05:30 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 15:05:31 - INFO - New connected socket [id: KDtPix9AJ6WxEwa8AAAj] 
+4.8.2022, 15:05:31 - INFO - Setting socket.userId = null for socket [id: KDtPix9AJ6WxEwa8AAAj] 
+4.8.2022, 15:05:31 - INFO - Setting socket null 
+4.8.2022, 15:05:33 - INFO - updated board 
+4.8.2022, 15:05:38 - INFO - updated board 
+4.8.2022, 15:05:43 - INFO - updated board 
+4.8.2022, 15:06:53 - INFO - updated board 
+4.8.2022, 15:06:53 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 15:06:54 - INFO - New connected socket [id: -dvyx8wudNPIyxjMAAAl] 
+4.8.2022, 15:06:54 - INFO - Setting socket.userId = null for socket [id: -dvyx8wudNPIyxjMAAAl] 
+4.8.2022, 15:06:54 - INFO - Setting socket null 
+4.8.2022, 15:06:57 - INFO - updated board 
+4.8.2022, 15:08:22 - INFO - updated board 
+4.8.2022, 15:08:31 - INFO - updated board 
+4.8.2022, 15:09:26 - INFO - updated board 
+4.8.2022, 15:09:39 - INFO - updated board 
+4.8.2022, 15:09:41 - INFO - updated board 
+4.8.2022, 15:09:57 - INFO - updated board 
+4.8.2022, 15:12:18 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 15:12:20 - INFO - New connected socket [id: U9SbcPDvNPlKnUrFAAAn] 
+4.8.2022, 15:12:20 - INFO - Setting socket.userId = null for socket [id: U9SbcPDvNPlKnUrFAAAn] 
+4.8.2022, 15:12:20 - INFO - Setting socket null 
+4.8.2022, 15:12:25 - INFO - updated board 
+4.8.2022, 15:12:43 - INFO - updated board 
+4.8.2022, 15:14:23 - INFO - updated board 
+4.8.2022, 15:14:25 - INFO - updated board 
+4.8.2022, 15:14:32 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 15:14:34 - INFO - New connected socket [id: IJMkns7dPxsni9joAAAp] 
+4.8.2022, 15:14:34 - INFO - Setting socket.userId = null for socket [id: IJMkns7dPxsni9joAAAp] 
+4.8.2022, 15:14:34 - INFO - Setting socket null 
+4.8.2022, 15:14:36 - INFO - updated board 
+4.8.2022, 15:15:41 - INFO - updated board 
+4.8.2022, 15:17:52 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 15:17:54 - INFO - New connected socket [id: Y-lT1oH4g8uY_R3wAAAr] 
+4.8.2022, 15:17:54 - INFO - Setting socket.userId = null for socket [id: Y-lT1oH4g8uY_R3wAAAr] 
+4.8.2022, 15:17:54 - INFO - Setting socket null 
+4.8.2022, 15:17:57 - INFO - updated board 
+4.8.2022, 15:18:09 - INFO - updated board 
+4.8.2022, 15:18:13 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 15:18:14 - INFO - New connected socket [id: sCEpxSLWxBVmHqlbAAAt] 
+4.8.2022, 15:18:14 - INFO - Setting socket.userId = null for socket [id: sCEpxSLWxBVmHqlbAAAt] 
+4.8.2022, 15:18:14 - INFO - Setting socket null 
+4.8.2022, 15:18:16 - INFO - updated board 
+4.8.2022, 15:20:04 - INFO - updated board 
+4.8.2022, 15:20:16 - INFO - updated board 
+4.8.2022, 15:20:24 - INFO - updated board 
+4.8.2022, 15:20:29 - INFO - updated board 
+4.8.2022, 15:20:34 - INFO - updated board 
+4.8.2022, 15:20:39 - INFO - updated board 
+4.8.2022, 15:21:28 - INFO - updated board 
+4.8.2022, 15:21:39 - INFO - updated board 
+4.8.2022, 15:22:06 - INFO - updated board 
+4.8.2022, 15:22:19 - INFO - updated board 
+4.8.2022, 15:22:28 - INFO - updated board 
+4.8.2022, 15:22:57 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 15:22:58 - INFO - New connected socket [id: b7l9tBNUK-VnyX5gAAAv] 
+4.8.2022, 15:22:59 - INFO - Setting socket.userId = null for socket [id: b7l9tBNUK-VnyX5gAAAv] 
+4.8.2022, 15:22:59 - INFO - Setting socket null 
+4.8.2022, 15:23:09 - INFO - updated board 
+4.8.2022, 15:23:14 - INFO - updated board 
+4.8.2022, 15:23:52 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 15:24:33 - INFO - updated board 
+4.8.2022, 15:24:41 - INFO - updated board 
+4.8.2022, 15:24:52 - INFO - updated board 
+4.8.2022, 15:25:21 - INFO - updated board 
+4.8.2022, 15:25:29 - INFO - updated board 
+4.8.2022, 15:26:06 - INFO - updated board 
+4.8.2022, 15:26:16 - INFO - updated board 
+4.8.2022, 15:27:05 - INFO - updated board 
+4.8.2022, 15:27:11 - INFO - updated board 
+4.8.2022, 15:27:13 - INFO - updated board 
+4.8.2022, 15:27:25 - INFO - updated board 
+4.8.2022, 15:27:36 - INFO - updated board 
+4.8.2022, 15:28:15 - INFO - updated board 
+4.8.2022, 15:28:28 - INFO - updated board 
+4.8.2022, 15:28:36 - INFO - updated board 
+4.8.2022, 15:28:54 - INFO - updated board 
+4.8.2022, 15:28:56 - INFO - New connected socket [id: -TaeqpyfRNCX_PnSAAAx] 
+4.8.2022, 15:29:01 - INFO - updated board 
+4.8.2022, 15:29:12 - INFO - updated board 
+4.8.2022, 15:30:07 - INFO - updated board 
+4.8.2022, 15:30:11 - INFO - updated board 
+4.8.2022, 15:30:18 - INFO - updated board 
+4.8.2022, 15:30:31 - INFO - updated board 
+4.8.2022, 15:30:44 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 15:30:45 - INFO - New connected socket [id: 5z-Uadzx6qDi1owdAAAz] 
+4.8.2022, 15:30:46 - INFO - Setting socket.userId = null for socket [id: 5z-Uadzx6qDi1owdAAAz] 
+4.8.2022, 15:30:46 - INFO - Setting socket null 
+4.8.2022, 15:30:48 - INFO - updated board 
+4.8.2022, 15:31:17 - INFO - updated board 
+4.8.2022, 15:31:58 - INFO - updated board 
+4.8.2022, 15:32:05 - INFO - updated board 
+4.8.2022, 15:32:14 - INFO - updated board 
+4.8.2022, 15:32:45 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 15:34:30 - INFO - New connected socket [id: NdGKs04iRw4O3GqxAAA1] 
+4.8.2022, 15:34:39 - INFO - updated board 
+4.8.2022, 15:35:22 - INFO - updated board 
+4.8.2022, 15:35:34 - INFO - updated board 
+4.8.2022, 15:35:48 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 15:35:49 - INFO - New connected socket [id: smrs0zMBoTeyOFE2AAA3] 
+4.8.2022, 15:35:49 - INFO - Setting socket null 
+4.8.2022, 15:35:49 - INFO - Setting socket.userId = null for socket [id: smrs0zMBoTeyOFE2AAA3] 
+4.8.2022, 15:35:52 - INFO - updated board 
+4.8.2022, 15:35:59 - INFO - updated board 
+4.8.2022, 15:36:17 - INFO - updated board 
+4.8.2022, 15:36:28 - INFO - updated board 
+4.8.2022, 15:36:41 - INFO - updated board 
+4.8.2022, 15:38:36 - INFO - updated board 
+4.8.2022, 15:38:47 - INFO - updated board 
+4.8.2022, 15:38:57 - INFO - updated board 
+4.8.2022, 15:39:44 - INFO - updated board 
+4.8.2022, 15:41:57 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 15:41:59 - INFO - New connected socket [id: jmYtSrDJpckJYYG1AAA5] 
+4.8.2022, 15:41:59 - INFO - Setting socket.userId = null for socket [id: jmYtSrDJpckJYYG1AAA5] 
+4.8.2022, 15:41:59 - INFO - Setting socket null 
+4.8.2022, 15:42:01 - INFO - updated board 
+4.8.2022, 15:42:43 - INFO - updated board 
+4.8.2022, 15:43:47 - INFO - updated board 
+4.8.2022, 15:43:56 - INFO - updated board 
+4.8.2022, 15:44:53 - INFO - updated board 
+4.8.2022, 15:44:55 - INFO - updated board 
+4.8.2022, 15:45:41 - INFO - updated board 
+4.8.2022, 15:45:55 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 15:45:56 - INFO - New connected socket [id: zIRwoy5IhNDMH5NRAAA7] 
+4.8.2022, 15:45:56 - INFO - Setting socket.userId = null for socket [id: zIRwoy5IhNDMH5NRAAA7] 
+4.8.2022, 15:45:56 - INFO - Setting socket null 
+4.8.2022, 15:45:59 - INFO - updated board 
+4.8.2022, 15:46:11 - INFO - updated board 
+4.8.2022, 15:47:04 - INFO - updated board 
+4.8.2022, 15:47:06 - INFO - updated board 
+4.8.2022, 15:47:46 - INFO - updated board 
+4.8.2022, 15:48:04 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 15:48:05 - INFO - New connected socket [id: rcmCHo77Kh5J-y5rAAA9] 
+4.8.2022, 15:48:05 - INFO - Setting socket.userId = null for socket [id: rcmCHo77Kh5J-y5rAAA9] 
+4.8.2022, 15:48:05 - INFO - Setting socket null 
+4.8.2022, 15:48:08 - INFO - updated board 
+4.8.2022, 15:48:21 - INFO - updated board 
+4.8.2022, 15:48:24 - INFO - updated board 
+4.8.2022, 15:48:33 - INFO - updated board 
+4.8.2022, 15:48:39 - INFO - updated board 
+4.8.2022, 15:48:58 - INFO - updated board 
+4.8.2022, 15:49:10 - INFO - updated board 
+4.8.2022, 15:53:23 - INFO - updated board 
+4.8.2022, 15:53:37 - INFO - updated board 
+4.8.2022, 15:53:40 - INFO - updated board 
+4.8.2022, 15:53:43 - INFO - updated board 
+4.8.2022, 15:53:46 - INFO - updated board 
+4.8.2022, 15:54:52 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 15:54:53 - INFO - New connected socket [id: htISTrMRhTH8QKxYAAA_] 
+4.8.2022, 15:54:53 - INFO - Setting socket.userId = null for socket [id: htISTrMRhTH8QKxYAAA_] 
+4.8.2022, 15:54:53 - INFO - Setting socket null 
+4.8.2022, 15:54:55 - INFO - updated board 
+4.8.2022, 15:55:32 - INFO - updated board 
+4.8.2022, 15:55:36 - INFO - updated board 
+4.8.2022, 15:56:39 - INFO - updated board 
+4.8.2022, 15:56:41 - INFO - updated board 
+4.8.2022, 15:56:45 - INFO - updated board 
+4.8.2022, 15:56:50 - INFO - updated board 
+4.8.2022, 15:57:00 - INFO - updated board 
+4.8.2022, 15:57:09 - INFO - updated board 
+4.8.2022, 15:57:13 - INFO - updated board 
+4.8.2022, 15:57:15 - INFO - updated board 
+4.8.2022, 15:57:20 - INFO - updated board 
+4.8.2022, 15:57:24 - INFO - updated board 
+4.8.2022, 15:57:27 - INFO - updated board 
+4.8.2022, 15:57:28 - INFO - updated board 
+4.8.2022, 15:57:28 - INFO - updated board 
+4.8.2022, 15:57:28 - INFO - updated board 
+4.8.2022, 15:57:29 - INFO - updated board 
+4.8.2022, 15:57:29 - INFO - updated board 
+4.8.2022, 15:57:29 - INFO - updated board 
+4.8.2022, 15:57:29 - INFO - updated board 
+4.8.2022, 15:57:29 - INFO - updated board 
+4.8.2022, 15:57:29 - INFO - updated board 
+4.8.2022, 15:57:29 - INFO - updated board 
+4.8.2022, 15:57:32 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 15:57:33 - INFO - New connected socket [id: pGnpK1L5d-xPfvuvAABB] 
+4.8.2022, 15:57:33 - INFO - Setting socket.userId = null for socket [id: pGnpK1L5d-xPfvuvAABB] 
+4.8.2022, 15:57:33 - INFO - Setting socket null 
+4.8.2022, 15:57:36 - INFO - updated board 
+4.8.2022, 15:57:42 - INFO - updated board 
+4.8.2022, 15:57:46 - INFO - updated board 
+4.8.2022, 15:57:49 - INFO - updated board 
+4.8.2022, 15:58:34 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 15:59:05 - INFO - updated board 
+4.8.2022, 15:59:09 - INFO - updated board 
+4.8.2022, 15:59:14 - INFO - updated board 
+4.8.2022, 15:59:19 - INFO - updated board 
+4.8.2022, 15:59:57 - INFO - updated board 
+4.8.2022, 15:59:59 - INFO - updated board 
+4.8.2022, 16:00:41 - INFO - New connected socket [id: tTc8-aE9DqKyVsa2AABD] 
+4.8.2022, 16:00:42 - INFO - updated board 
+4.8.2022, 16:00:45 - INFO - updated board 
+4.8.2022, 16:00:52 - INFO - updated board 
+4.8.2022, 16:01:00 - INFO - updated board 
+4.8.2022, 16:01:06 - INFO - updated board 
+4.8.2022, 16:01:09 - INFO - updated board 
+4.8.2022, 16:01:15 - INFO - updated board 
+4.8.2022, 16:01:19 - INFO - updated board 
+4.8.2022, 16:01:21 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 16:01:22 - INFO - New connected socket [id: iwDQBKSeUkJkA70GAABF] 
+4.8.2022, 16:01:23 - INFO - Setting socket.userId = null for socket [id: iwDQBKSeUkJkA70GAABF] 
+4.8.2022, 16:01:23 - INFO - Setting socket null 
+4.8.2022, 16:01:37 - INFO - updated board 
+4.8.2022, 16:01:49 - INFO - updated board 
+4.8.2022, 16:01:58 - INFO - updated board 
+4.8.2022, 16:02:01 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 16:02:06 - INFO - updated board 
+4.8.2022, 16:02:12 - INFO - New connected socket [id: GaiMvCtCmXY92r7mAABH] 
+4.8.2022, 16:02:13 - INFO - updated board 
+4.8.2022, 16:02:25 - INFO - updated board 
+4.8.2022, 16:02:28 - INFO - updated board 
+4.8.2022, 16:38:39 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 16:38:39 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 17:46:06 - INFO - New connected socket [id: uSV9UNvN6n0DYQbYAABK] 
+4.8.2022, 17:46:06 - INFO - New connected socket [id: ZMsvbRAaN-_pXQtGAABL] 
+4.8.2022, 17:46:13 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 17:46:21 - INFO - New connected socket [id: Hf_cu2Al5uXlX65EAABN] 
+4.8.2022, 17:46:21 - INFO - Setting socket.userId = null for socket [id: Hf_cu2Al5uXlX65EAABN] 
+4.8.2022, 17:46:21 - INFO - Setting socket null 
+4.8.2022, 17:46:30 - INFO - updated board 
+4.8.2022, 17:50:09 - INFO - updated board 
+4.8.2022, 17:50:10 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+4.8.2022, 17:50:10 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+4.8.2022, 17:50:10 - INFO - updated board 
+4.8.2022, 17:50:58 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 17:50:59 - INFO - New connected socket [id: WKGnQJ3I3mvBgV5OAABP] 
+4.8.2022, 17:50:59 - INFO - Setting socket.userId = null for socket [id: WKGnQJ3I3mvBgV5OAABP] 
+4.8.2022, 17:50:59 - INFO - Setting socket null 
+4.8.2022, 17:51:00 - INFO - updated board 
+4.8.2022, 17:52:06 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 17:52:07 - INFO - New connected socket [id: 2UK_OeOk9Ss42R0XAABR] 
+4.8.2022, 17:52:07 - INFO - Setting socket.userId = null for socket [id: 2UK_OeOk9Ss42R0XAABR] 
+4.8.2022, 17:52:07 - INFO - Setting socket null 
+4.8.2022, 17:52:32 - INFO - updated board 
+4.8.2022, 18:24:28 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 18:24:28 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 18:31:00 - INFO - New connected socket [id: fpo7cpzL5JbX1l0KAABU] 
+4.8.2022, 18:31:00 - INFO - New connected socket [id: -q1CmCVvxFOdePeuAABV] 
+4.8.2022, 18:36:42 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+4.8.2022, 18:36:43 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62e8296d16a87a5f48c504c1"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+4.8.2022, 18:36:46 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+4.8.2022, 18:36:46 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+4.8.2022, 18:36:48 - INFO - updated board 
+4.8.2022, 18:36:57 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 18:36:58 - INFO - New connected socket [id: 1tJIkrjigv8cUR45AABX] 
+4.8.2022, 18:36:58 - INFO - Setting socket.userId = null for socket [id: 1tJIkrjigv8cUR45AABX] 
+4.8.2022, 18:36:58 - INFO - Setting socket null 
+4.8.2022, 18:36:59 - INFO - updated board 
+4.8.2022, 18:37:54 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 18:37:54 - INFO - New connected socket [id: O-PbOp4tJvRpqi0FAABZ] 
+4.8.2022, 18:37:55 - INFO - Setting socket.userId = null for socket [id: O-PbOp4tJvRpqi0FAABZ] 
+4.8.2022, 18:37:55 - INFO - Setting socket null 
+4.8.2022, 18:37:59 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+4.8.2022, 18:37:59 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+4.8.2022, 18:38:00 - INFO - updated board 
+4.8.2022, 18:38:43 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 18:38:44 - INFO - New connected socket [id: fhBKmIk8a1WPMCpCAABb] 
+4.8.2022, 18:38:44 - INFO - Setting socket.userId = null for socket [id: fhBKmIk8a1WPMCpCAABb] 
+4.8.2022, 18:38:44 - INFO - Setting socket null 
+4.8.2022, 18:38:53 - DEBUG - auth.service - login with username: bar (userId: 629e05249a28133be456c129)
+4.8.2022, 18:38:53 - INFO - User login:  | {"_id":"629e49af14eca981a88edabc","username":"bar","fullname":"bar","boards":["629e53f714eca981a88edabd","629e05339a28133be456c12a"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540772/T02SFLQBMS9-U034UG4PA1Y-4ce47463ddaf-512_jm4vof.jpg","mentions":[]} (userId: 629e05249a28133be456c129)
+4.8.2022, 18:38:58 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e49af14eca981a88edabc)
+4.8.2022, 18:38:58 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e49af14eca981a88edabc)
+4.8.2022, 18:39:00 - INFO - updated board 
+4.8.2022, 18:43:57 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 18:43:58 - INFO - New connected socket [id: jxmBXI9IgNOex0tvAABd] 
+4.8.2022, 18:43:58 - INFO - Setting socket.userId = null for socket [id: jxmBXI9IgNOex0tvAABd] 
+4.8.2022, 18:43:58 - INFO - Setting socket null 
+4.8.2022, 18:43:59 - INFO - updated board 
+4.8.2022, 18:44:12 - DEBUG - auth.service - login with username: n1 (userId: 629e49af14eca981a88edabc)
+4.8.2022, 18:44:13 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62e8296d16a87a5f48c504c1"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} (userId: 629e49af14eca981a88edabc)
+4.8.2022, 18:44:15 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+4.8.2022, 18:44:15 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+4.8.2022, 18:44:16 - INFO - updated board 
+4.8.2022, 18:45:34 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 18:45:34 - INFO - New connected socket [id: 9IDGKSIkz876FfKPAABf] 
+4.8.2022, 18:45:35 - INFO - Setting socket.userId = null for socket [id: 9IDGKSIkz876FfKPAABf] 
+4.8.2022, 18:45:35 - INFO - Setting socket null 
+4.8.2022, 18:45:36 - INFO - updated board 
+4.8.2022, 18:47:13 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 18:47:14 - INFO - New connected socket [id: jVSA0axfe5J9DCuGAABh] 
+4.8.2022, 18:47:14 - INFO - Setting socket.userId = null for socket [id: jVSA0axfe5J9DCuGAABh] 
+4.8.2022, 18:47:14 - INFO - Setting socket null 
+4.8.2022, 18:47:15 - INFO - updated board 
+4.8.2022, 18:50:11 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 18:50:11 - INFO - New connected socket [id: OfWlx0u16bv9EX5QAABj] 
+4.8.2022, 18:50:11 - INFO - Setting socket.userId = null for socket [id: OfWlx0u16bv9EX5QAABj] 
+4.8.2022, 18:50:11 - INFO - Setting socket null 
+4.8.2022, 18:50:12 - INFO - updated board 
+4.8.2022, 18:50:14 - INFO - updated board 
+4.8.2022, 19:15:48 - INFO - updated board 
+4.8.2022, 19:15:49 - INFO - updated board 
+4.8.2022, 19:15:50 - INFO - updated board 
+4.8.2022, 19:15:51 - INFO - updated board 
+4.8.2022, 19:15:54 - INFO - updated board 
+4.8.2022, 19:15:56 - INFO - updated board 
+4.8.2022, 19:15:58 - INFO - updated board 
+4.8.2022, 19:16:01 - INFO - updated board 
+4.8.2022, 19:16:09 - INFO - updated board 
+4.8.2022, 19:16:14 - INFO - updated board 
+4.8.2022, 19:16:15 - INFO - updated board 
+4.8.2022, 19:16:27 - INFO - updated board 
+4.8.2022, 19:16:28 - INFO - updated board 
+4.8.2022, 19:16:36 - INFO - updated board 
+4.8.2022, 19:16:37 - INFO - updated board 
+4.8.2022, 19:16:46 - INFO - updated board 
+4.8.2022, 19:16:47 - INFO - updated board 
+4.8.2022, 19:16:48 - INFO - updated board 
+4.8.2022, 19:16:49 - INFO - updated board 
+4.8.2022, 19:16:57 - INFO - updated board 
+4.8.2022, 19:17:03 - INFO - updated board 
+4.8.2022, 19:17:09 - INFO - updated board 
+4.8.2022, 19:17:10 - INFO - updated board 
+4.8.2022, 19:17:11 - INFO - updated board 
+4.8.2022, 19:17:14 - INFO - updated board 
+4.8.2022, 19:17:15 - INFO - updated board 
+4.8.2022, 19:17:22 - INFO - updated board 
+4.8.2022, 19:17:27 - INFO - updated board 
+4.8.2022, 19:17:27 - INFO - updated board 
+4.8.2022, 19:17:28 - INFO - updated board 
+4.8.2022, 19:17:33 - INFO - updated board 
+4.8.2022, 19:17:40 - INFO - updated board 
+4.8.2022, 19:17:44 - INFO - updated board 
+4.8.2022, 19:17:48 - INFO - updated board 
+4.8.2022, 19:17:50 - INFO - updated board 
+4.8.2022, 19:17:52 - INFO - updated board 
+4.8.2022, 19:17:54 - INFO - updated board 
+4.8.2022, 19:17:56 - INFO - updated board 
+4.8.2022, 19:18:01 - INFO - updated board 
+4.8.2022, 19:18:02 - INFO - updated board 
+4.8.2022, 19:18:09 - INFO - updated board 
+4.8.2022, 19:18:10 - INFO - updated board 
+4.8.2022, 19:18:16 - INFO - updated board 
+4.8.2022, 19:18:27 - INFO - updated board 
+4.8.2022, 19:18:32 - INFO - updated board 
+4.8.2022, 19:18:39 - INFO - updated board 
+4.8.2022, 19:18:46 - INFO - updated board 
+4.8.2022, 19:18:51 - INFO - updated board 
+4.8.2022, 19:18:58 - INFO - updated board 
+4.8.2022, 19:19:05 - INFO - updated board 
+4.8.2022, 19:19:41 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 19:19:42 - INFO - New connected socket [id: vG6gMYifPqtOZoogAABl] 
+4.8.2022, 19:19:42 - INFO - Setting socket.userId = null for socket [id: vG6gMYifPqtOZoogAABl] 
+4.8.2022, 19:19:42 - INFO - Setting socket null 
+4.8.2022, 19:19:43 - INFO - updated board 
+4.8.2022, 19:20:14 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 19:20:14 - INFO - New connected socket [id: WtyQEToxOzh2Pi3rAABn] 
+4.8.2022, 19:20:14 - INFO - Setting socket.userId = null for socket [id: WtyQEToxOzh2Pi3rAABn] 
+4.8.2022, 19:20:14 - INFO - Setting socket null 
+4.8.2022, 19:20:15 - INFO - updated board 
+4.8.2022, 19:23:31 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 19:23:32 - INFO - New connected socket [id: x5NPyVcGBrC6xnkoAABp] 
+4.8.2022, 19:23:32 - INFO - Setting socket.userId = null for socket [id: x5NPyVcGBrC6xnkoAABp] 
+4.8.2022, 19:23:32 - INFO - Setting socket null 
+4.8.2022, 19:23:33 - INFO - updated board 
+4.8.2022, 19:25:00 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 19:25:01 - INFO - New connected socket [id: H4-INP87jCjx469pAABr] 
+4.8.2022, 19:25:01 - INFO - Setting socket.userId = null for socket [id: H4-INP87jCjx469pAABr] 
+4.8.2022, 19:25:01 - INFO - Setting socket null 
+4.8.2022, 19:25:02 - INFO - updated board 
+4.8.2022, 19:26:57 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 19:26:57 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 22:09:31 - INFO - Server is running on port: 3030 
+4.8.2022, 22:09:45 - INFO - New connected socket [id: koKYrk0wwPs1bS5DAAAB] 
+4.8.2022, 22:09:45 - INFO - Setting socket.userId = null for socket [id: koKYrk0wwPs1bS5DAAAB] 
+4.8.2022, 22:09:45 - INFO - Setting socket null 
+4.8.2022, 22:10:01 - DEBUG - auth.service - login with username: n1 
+4.8.2022, 22:10:03 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62e8296d16a87a5f48c504c1"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[]} 
+4.8.2022, 22:10:06 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+4.8.2022, 22:10:06 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+4.8.2022, 22:10:07 - INFO - updated board 
+4.8.2022, 22:11:21 - INFO - updated board 
+4.8.2022, 22:11:26 - INFO - updated board 
+4.8.2022, 22:11:27 - INFO - updated board 
+4.8.2022, 22:11:30 - INFO - updated board 
+4.8.2022, 22:11:32 - INFO - updated board 
+4.8.2022, 22:13:07 - INFO - updated board 
+4.8.2022, 22:13:07 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 22:13:08 - INFO - New connected socket [id: J5pf48sSkx6k4PiSAAAD] 
+4.8.2022, 22:13:09 - INFO - Setting socket.userId = null for socket [id: J5pf48sSkx6k4PiSAAAD] 
+4.8.2022, 22:13:09 - INFO - Setting socket null 
+4.8.2022, 22:13:10 - INFO - updated board 
+4.8.2022, 22:13:14 - INFO - updated board 
+4.8.2022, 22:13:18 - INFO - updated board 
+4.8.2022, 22:13:32 - INFO - updated board 
+4.8.2022, 22:13:34 - INFO - updated board 
+4.8.2022, 22:17:46 - INFO - updated board 
+4.8.2022, 22:20:11 - INFO - updated board 
+4.8.2022, 22:21:13 - INFO - updated board 
+4.8.2022, 22:21:32 - INFO - updated board 
+4.8.2022, 22:23:52 - INFO - updated board 
+4.8.2022, 22:23:59 - INFO - updated board 
+4.8.2022, 22:24:12 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 22:24:13 - INFO - New connected socket [id: RW_mVw-xvFeEU_byAAAF] 
+4.8.2022, 22:24:13 - INFO - Setting socket.userId = null for socket [id: RW_mVw-xvFeEU_byAAAF] 
+4.8.2022, 22:24:13 - INFO - Setting socket null 
+4.8.2022, 22:24:15 - INFO - updated board 
+4.8.2022, 22:24:32 - INFO - updated board 
+4.8.2022, 22:26:03 - INFO - updated board 
+4.8.2022, 22:26:13 - INFO - updated board 
+4.8.2022, 22:26:36 - INFO - updated board 
+4.8.2022, 22:26:45 - INFO - updated board 
+4.8.2022, 22:26:55 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 22:26:57 - INFO - New connected socket [id: 9QKAF-x0BBUJ3OulAAAH] 
+4.8.2022, 22:26:57 - INFO - Setting socket.userId = null for socket [id: 9QKAF-x0BBUJ3OulAAAH] 
+4.8.2022, 22:26:57 - INFO - Setting socket null 
+4.8.2022, 22:26:58 - INFO - updated board 
+4.8.2022, 22:27:05 - INFO - updated board 
+4.8.2022, 22:27:16 - INFO - updated board 
+4.8.2022, 22:27:53 - INFO - updated board 
+4.8.2022, 22:28:12 - INFO - updated board 
+4.8.2022, 22:28:14 - INFO - updated board 
+4.8.2022, 22:28:17 - INFO - updated board 
+4.8.2022, 22:28:19 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 22:28:20 - INFO - New connected socket [id: -E6qDHG-xuW6sF1FAAAJ] 
+4.8.2022, 22:28:20 - INFO - Setting socket.userId = null for socket [id: -E6qDHG-xuW6sF1FAAAJ] 
+4.8.2022, 22:28:20 - INFO - Setting socket null 
+4.8.2022, 22:28:22 - INFO - updated board 
+4.8.2022, 22:28:45 - INFO - updated board 
+4.8.2022, 22:28:49 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 22:28:49 - INFO - New connected socket [id: pnoleOGPzGpSDQ9eAAAL] 
+4.8.2022, 22:28:50 - INFO - Setting socket.userId = null for socket [id: pnoleOGPzGpSDQ9eAAAL] 
+4.8.2022, 22:28:50 - INFO - Setting socket null 
+4.8.2022, 22:28:51 - INFO - updated board 
+4.8.2022, 22:31:52 - INFO - updated board 
+4.8.2022, 22:32:04 - INFO - updated board 
+4.8.2022, 22:32:05 - INFO - updated board 
+4.8.2022, 22:32:06 - INFO - updated board 
+4.8.2022, 22:48:08 - INFO - Socket disconnected [id: undefined] 
+4.8.2022, 22:48:09 - INFO - New connected socket [id: I78vWUhH9D0rZOXEAAAN] 
+4.8.2022, 22:48:09 - INFO - Setting socket.userId = null for socket [id: I78vWUhH9D0rZOXEAAAN] 
+4.8.2022, 22:48:09 - INFO - Setting socket null 
+4.8.2022, 22:48:11 - INFO - updated board 
+>>>>>>> 2c6b180eab0a836201e0f6bc51c78cac3580cd6a
+4.8.2022, 23:00:53 - INFO - Server is running on port: 3030 
+4.8.2022, 23:00:54 - INFO - New connected socket [id: VS5k9qVCVQOpvWLVAAAC] 
+4.8.2022, 23:00:54 - INFO - New connected socket [id: yd3MAdRP4Hb4AMyRAAAD] 
