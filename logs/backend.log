@@ -10052,3 +10052,57 @@
 >>>>>>> 5fd5815302a51cad896c37d7a0639172374aabe0
 16.8.2022, 19:13:07 - INFO - Server is running on port: 3030 
 16.8.2022, 19:13:09 - INFO - New connected socket [id: PRL6lWv11tX1aSFcAAAB] 
+16.8.2022, 19:27:03 - INFO - Server is running on port: 3030 
+16.8.2022, 19:27:03 - INFO - New connected socket [id: ZyDTH_3TAepTb4QpAAAB] 
+16.8.2022, 19:27:09 - INFO - Socket disconnected [id: undefined] 
+16.8.2022, 19:27:10 - INFO - New connected socket [id: f9EH48pKd_xHHtvTAAAD] 
+16.8.2022, 19:27:13 - INFO - board updated 
+16.8.2022, 19:27:13 - INFO - updated board 
+16.8.2022, 19:28:40 - INFO - Socket disconnected [id: undefined] 
+16.8.2022, 19:28:40 - INFO - New connected socket [id: GnpDV3n6hqGYcpwgAAAF] 
+16.8.2022, 19:31:55 - INFO - Socket disconnected [id: undefined] 
+16.8.2022, 19:31:56 - INFO - New connected socket [id: Vk2ecNgdmqQOfyj3AAAH] 
+16.8.2022, 19:32:23 - INFO - Socket disconnected [id: undefined] 
+16.8.2022, 19:32:24 - INFO - New connected socket [id: AIZHrckpTEaRkjlcAAAJ] 
+16.8.2022, 19:34:33 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+16.8.2022, 19:34:33 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+16.8.2022, 19:34:49 - INFO - Socket disconnected [id: undefined] 
+16.8.2022, 19:34:50 - INFO - New connected socket [id: 0T8MWB3K-Rs-SV4CAAAL] 
+16.8.2022, 19:36:03 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+16.8.2022, 19:36:03 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+16.8.2022, 19:36:05 - INFO - Socket disconnected [id: undefined] 
+16.8.2022, 19:36:06 - INFO - New connected socket [id: sg-huS5Cfc1XqjgmAAAN] 
+16.8.2022, 19:36:07 - INFO - board updated 
+16.8.2022, 19:36:07 - INFO - updated board 
+16.8.2022, 19:36:26 - INFO - board updated 
+16.8.2022, 19:36:26 - INFO - updated board 
+16.8.2022, 19:36:36 - INFO - updated board 
+16.8.2022, 19:36:36 - INFO - board updated 
+16.8.2022, 19:37:02 - INFO - board updated 
+16.8.2022, 19:37:02 - INFO - updated board 
+16.8.2022, 19:39:50 - INFO - board updated 
+16.8.2022, 19:39:50 - INFO - updated board 
+16.8.2022, 19:41:59 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+16.8.2022, 19:41:59 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+16.8.2022, 19:42:04 - INFO - Socket disconnected [id: undefined] 
+16.8.2022, 19:42:05 - INFO - New connected socket [id: eOyZJUJ8nWdTsG0OAAAP] 
+16.8.2022, 19:42:06 - INFO - updated board 
+16.8.2022, 19:42:06 - INFO - board updated 
+16.8.2022, 19:42:15 - INFO - board updated 
+16.8.2022, 19:42:15 - INFO - updated board 
+16.8.2022, 19:42:17 - INFO - board updated 
+16.8.2022, 19:42:17 - INFO - updated board 
+16.8.2022, 19:42:22 - INFO - updated board 
+16.8.2022, 19:42:22 - INFO - board updated 
+16.8.2022, 19:42:29 - INFO - board updated 
+16.8.2022, 19:42:29 - INFO - updated board 
+16.8.2022, 19:42:36 - INFO - board updated 
+16.8.2022, 19:42:36 - INFO - updated board 
+16.8.2022, 19:42:40 - INFO - board updated 
+16.8.2022, 19:42:40 - INFO - updated board 
+16.8.2022, 19:52:58 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+16.8.2022, 19:52:58 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+16.8.2022, 19:53:18 - INFO - Socket disconnected [id: undefined] 
+16.8.2022, 19:53:19 - INFO - New connected socket [id: Z61jr3Ep0xSJnThlAAAR] 
+16.8.2022, 19:53:21 - INFO - board updated 
+16.8.2022, 19:53:21 - INFO - updated board 
