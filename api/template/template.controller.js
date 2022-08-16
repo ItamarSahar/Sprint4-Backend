@@ -4,6 +4,7 @@ const userService = require('../user/user.service')
 
 const socketService = require('../../services/socket.service')
 const templateService = require('./template.service')
+const { log } = require('../../middlewares/logger.middleware')
 
 async function getTemplates(req, res) {
 	try {
@@ -20,6 +21,7 @@ async function getTemplates(req, res) {
 async function getTemplate(req, res) {
 	try {
 		const template = await templateService.getById(req.params.id)
+		console.log(template, 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX');
 		res.send(template)
 	} catch (err) {
 		logger.error('Failed to get templete', err)
