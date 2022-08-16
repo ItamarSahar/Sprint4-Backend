@@ -8196,3 +8196,513 @@
 16.8.2022, 19:11:28 - INFO - Setting socket null 
 16.8.2022, 19:11:38 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
 16.8.2022, 19:11:38 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62ec5c0370541b15205d7d68","62eff8c9b83d38042c0a0873","62eff959b83d38042c0a0874","62effcd8b83d38042c0a0875","62effdf3b83d38042c0a0876","62f000c9b83d38042c0a0877","62f00103b83d38042c0a0878","62f003a3b83d38042c0a0879","62f0f111b83d38042c0a087a","62f0f22eb83d38042c0a087b","62efed41d57b372faeb1ab05"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[],"starred":[]} (userId: 629e05249a28133be456c129)
+16.8.2022, 19:16:29 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+16.8.2022, 19:16:29 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+16.8.2022, 19:16:30 - INFO - board updated 
+16.8.2022, 19:16:30 - INFO - updated board 
+16.8.2022, 19:16:40 - INFO - board updated 
+16.8.2022, 19:16:40 - INFO - updated board 
+16.8.2022, 19:16:42 - INFO - board updated 
+16.8.2022, 19:16:42 - INFO - updated board 
+16.8.2022, 19:16:45 - INFO - board updated 
+16.8.2022, 19:16:45 - INFO - updated board 
+16.8.2022, 19:16:47 - INFO - board updated 
+16.8.2022, 19:16:47 - INFO - updated board 
+16.8.2022, 19:16:49 - INFO - board updated 
+16.8.2022, 19:16:49 - INFO - updated board 
+16.8.2022, 19:16:54 - INFO - board updated 
+16.8.2022, 19:16:54 - INFO - updated board 
+16.8.2022, 19:16:56 - INFO - board updated 
+16.8.2022, 19:16:56 - INFO - updated board 
+16.8.2022, 19:16:57 - INFO - board updated 
+16.8.2022, 19:16:57 - INFO - updated board 
+16.8.2022, 19:17:18 - INFO - board updated 
+16.8.2022, 19:17:18 - INFO - updated board 
+16.8.2022, 19:17:22 - INFO - board updated 
+16.8.2022, 19:17:22 - INFO - updated board 
+16.8.2022, 19:17:25 - INFO - board updated 
+16.8.2022, 19:17:25 - INFO - updated board 
+16.8.2022, 19:17:27 - INFO - board updated 
+16.8.2022, 19:17:27 - INFO - updated board 
+16.8.2022, 19:18:20 - INFO - board updated 
+16.8.2022, 19:18:20 - INFO - updated board 
+16.8.2022, 19:18:24 - INFO - board updated 
+16.8.2022, 19:18:24 - INFO - updated board 
+16.8.2022, 19:18:24 - INFO - Socket disconnected [id: undefined] 
+16.8.2022, 19:18:25 - INFO - New connected socket [id: BHHKKpZpZDwWd-EHAAAt] 
+16.8.2022, 19:18:25 - INFO - Setting socket.userId = null for socket [id: BHHKKpZpZDwWd-EHAAAt] 
+16.8.2022, 19:18:25 - INFO - Setting socket null 
+16.8.2022, 19:18:26 - INFO - board updated 
+16.8.2022, 19:18:26 - INFO - updated board 
+16.8.2022, 19:18:27 - INFO - board updated 
+16.8.2022, 19:18:27 - INFO - updated board 
+16.8.2022, 19:18:31 - INFO - board updated 
+16.8.2022, 19:18:31 - INFO - updated board 
+16.8.2022, 19:18:59 - INFO - board updated 
+16.8.2022, 19:18:59 - INFO - updated board 
+16.8.2022, 19:18:59 - INFO - board updated 
+16.8.2022, 19:18:59 - INFO - updated board 
+16.8.2022, 19:18:59 - INFO - updated board 
+16.8.2022, 19:18:59 - INFO - board updated 
+16.8.2022, 19:19:34 - INFO - board updated 
+16.8.2022, 19:19:34 - INFO - updated board 
+16.8.2022, 19:19:36 - INFO - board updated 
+16.8.2022, 19:19:36 - INFO - updated board 
+16.8.2022, 19:19:39 - INFO - board updated 
+16.8.2022, 19:19:39 - INFO - updated board 
+16.8.2022, 19:19:41 - INFO - updated board 
+16.8.2022, 19:19:41 - INFO - board updated 
+16.8.2022, 19:19:42 - INFO - board updated 
+16.8.2022, 19:19:42 - INFO - updated board 
+16.8.2022, 19:19:59 - INFO - board updated 
+16.8.2022, 19:19:59 - INFO - updated board 
+16.8.2022, 19:20:16 - INFO - board updated 
+16.8.2022, 19:20:16 - INFO - updated board 
+16.8.2022, 19:20:21 - INFO - board updated 
+16.8.2022, 19:20:21 - INFO - updated board 
+16.8.2022, 19:20:23 - INFO - board updated 
+16.8.2022, 19:20:23 - INFO - updated board 
+16.8.2022, 19:20:42 - INFO - board updated 
+16.8.2022, 19:20:42 - INFO - updated board 
+16.8.2022, 19:20:45 - INFO - board updated 
+16.8.2022, 19:20:45 - INFO - updated board 
+16.8.2022, 19:21:03 - INFO - board updated 
+16.8.2022, 19:21:03 - INFO - updated board 
+16.8.2022, 19:21:06 - INFO - board updated 
+16.8.2022, 19:21:06 - INFO - updated board 
+16.8.2022, 19:21:08 - INFO - board updated 
+16.8.2022, 19:21:08 - INFO - updated board 
+16.8.2022, 19:21:14 - INFO - board updated 
+16.8.2022, 19:21:14 - INFO - updated board 
+16.8.2022, 19:21:28 - INFO - board updated 
+16.8.2022, 19:21:28 - INFO - updated board 
+16.8.2022, 19:21:30 - INFO - board updated 
+16.8.2022, 19:21:30 - INFO - updated board 
+16.8.2022, 19:21:35 - INFO - updated board 
+16.8.2022, 19:21:35 - INFO - board updated 
+16.8.2022, 19:21:40 - INFO - board updated 
+16.8.2022, 19:21:40 - INFO - updated board 
+16.8.2022, 19:23:28 - INFO - Socket disconnected [id: undefined] 
+16.8.2022, 19:23:29 - INFO - New connected socket [id: 5HT3k-t-Vs6jLoZGAAAv] 
+16.8.2022, 19:23:29 - INFO - Setting socket.userId = null for socket [id: 5HT3k-t-Vs6jLoZGAAAv] 
+16.8.2022, 19:23:29 - INFO - Setting socket null 
+16.8.2022, 19:23:30 - INFO - board updated 
+16.8.2022, 19:23:30 - INFO - updated board 
+16.8.2022, 19:24:50 - INFO - Socket disconnected [id: undefined] 
+16.8.2022, 19:24:51 - INFO - New connected socket [id: 3fnHbwyZJQVtHUjAAAAx] 
+16.8.2022, 19:24:51 - INFO - Setting socket.userId = null for socket [id: 3fnHbwyZJQVtHUjAAAAx] 
+16.8.2022, 19:24:51 - INFO - Setting socket null 
+16.8.2022, 19:24:53 - INFO - board updated 
+16.8.2022, 19:24:53 - INFO - updated board 
+16.8.2022, 19:25:16 - INFO - board updated 
+16.8.2022, 19:25:16 - INFO - updated board 
+16.8.2022, 19:25:30 - INFO - board updated 
+16.8.2022, 19:25:30 - INFO - updated board 
+16.8.2022, 19:25:36 - INFO - board updated 
+16.8.2022, 19:25:36 - INFO - updated board 
+16.8.2022, 19:25:38 - INFO - board updated 
+16.8.2022, 19:25:38 - INFO - updated board 
+16.8.2022, 19:25:57 - INFO - Server is running on port: 3030 
+16.8.2022, 19:25:58 - INFO - New connected socket [id: ivBKL5A__KVzrnXfAAAB] 
+16.8.2022, 19:27:31 - INFO - board updated 
+16.8.2022, 19:27:31 - INFO - updated board 
+16.8.2022, 19:27:48 - INFO - board updated 
+16.8.2022, 19:27:48 - INFO - updated board 
+16.8.2022, 19:28:02 - INFO - board updated 
+16.8.2022, 19:28:02 - INFO - updated board 
+16.8.2022, 19:28:04 - INFO - board updated 
+16.8.2022, 19:28:04 - INFO - updated board 
+16.8.2022, 19:28:04 - INFO - board updated 
+16.8.2022, 19:28:04 - INFO - updated board 
+16.8.2022, 19:28:18 - INFO - board updated 
+16.8.2022, 19:28:18 - INFO - updated board 
+16.8.2022, 19:28:20 - INFO - board updated 
+16.8.2022, 19:28:20 - INFO - updated board 
+16.8.2022, 19:28:21 - INFO - board updated 
+16.8.2022, 19:28:21 - INFO - updated board 
+16.8.2022, 19:28:52 - INFO - board updated 
+16.8.2022, 19:28:52 - INFO - updated board 
+16.8.2022, 19:29:02 - INFO - board updated 
+16.8.2022, 19:29:02 - INFO - updated board 
+16.8.2022, 19:29:13 - INFO - board updated 
+16.8.2022, 19:29:13 - INFO - updated board 
+16.8.2022, 19:29:32 - INFO - board updated 
+16.8.2022, 19:29:32 - INFO - updated board 
+16.8.2022, 19:29:56 - INFO - board updated 
+16.8.2022, 19:29:56 - INFO - updated board 
+16.8.2022, 19:30:00 - INFO - board updated 
+16.8.2022, 19:30:00 - INFO - updated board 
+16.8.2022, 19:30:07 - INFO - board updated 
+16.8.2022, 19:30:07 - INFO - updated board 
+16.8.2022, 19:30:14 - INFO - board updated 
+16.8.2022, 19:30:14 - INFO - updated board 
+16.8.2022, 19:30:24 - INFO - board updated 
+16.8.2022, 19:30:24 - INFO - updated board 
+16.8.2022, 19:30:25 - INFO - board updated 
+16.8.2022, 19:30:25 - INFO - updated board 
+16.8.2022, 19:30:25 - INFO - board updated 
+16.8.2022, 19:30:25 - INFO - updated board 
+16.8.2022, 19:30:26 - INFO - updated board 
+16.8.2022, 19:30:26 - INFO - board updated 
+16.8.2022, 19:30:26 - INFO - board updated 
+16.8.2022, 19:30:26 - INFO - updated board 
+16.8.2022, 19:30:27 - INFO - board updated 
+16.8.2022, 19:30:27 - INFO - updated board 
+16.8.2022, 19:30:29 - INFO - board updated 
+16.8.2022, 19:30:29 - INFO - updated board 
+16.8.2022, 19:30:29 - INFO - board updated 
+16.8.2022, 19:30:29 - INFO - updated board 
+16.8.2022, 19:30:29 - INFO - board updated 
+16.8.2022, 19:30:29 - INFO - updated board 
+16.8.2022, 19:30:29 - INFO - board updated 
+16.8.2022, 19:30:29 - INFO - updated board 
+16.8.2022, 19:30:30 - INFO - board updated 
+16.8.2022, 19:30:30 - INFO - updated board 
+16.8.2022, 19:30:30 - INFO - board updated 
+16.8.2022, 19:30:30 - INFO - updated board 
+16.8.2022, 19:30:30 - INFO - board updated 
+16.8.2022, 19:30:30 - INFO - updated board 
+16.8.2022, 19:30:30 - INFO - board updated 
+16.8.2022, 19:30:30 - INFO - updated board 
+16.8.2022, 19:30:31 - INFO - board updated 
+16.8.2022, 19:30:31 - INFO - updated board 
+16.8.2022, 19:30:31 - INFO - board updated 
+16.8.2022, 19:30:31 - INFO - updated board 
+16.8.2022, 19:30:31 - INFO - board updated 
+16.8.2022, 19:30:31 - INFO - updated board 
+16.8.2022, 19:30:32 - INFO - board updated 
+16.8.2022, 19:30:32 - INFO - updated board 
+16.8.2022, 19:30:33 - INFO - board updated 
+16.8.2022, 19:30:33 - INFO - updated board 
+16.8.2022, 19:30:34 - INFO - board updated 
+16.8.2022, 19:30:34 - INFO - updated board 
+16.8.2022, 19:30:34 - INFO - board updated 
+16.8.2022, 19:30:34 - INFO - updated board 
+16.8.2022, 19:30:35 - INFO - board updated 
+16.8.2022, 19:30:35 - INFO - updated board 
+16.8.2022, 19:30:35 - INFO - board updated 
+16.8.2022, 19:30:35 - INFO - updated board 
+16.8.2022, 19:30:35 - INFO - board updated 
+16.8.2022, 19:30:35 - INFO - updated board 
+16.8.2022, 19:30:37 - INFO - board updated 
+16.8.2022, 19:30:37 - INFO - updated board 
+16.8.2022, 19:30:52 - INFO - board updated 
+16.8.2022, 19:30:52 - INFO - updated board 
+16.8.2022, 19:31:11 - INFO - board updated 
+16.8.2022, 19:31:11 - INFO - updated board 
+16.8.2022, 19:31:12 - INFO - board updated 
+16.8.2022, 19:31:12 - INFO - updated board 
+16.8.2022, 19:31:14 - INFO - board updated 
+16.8.2022, 19:31:14 - INFO - updated board 
+16.8.2022, 19:31:15 - INFO - board updated 
+16.8.2022, 19:31:15 - INFO - updated board 
+16.8.2022, 19:31:18 - INFO - board updated 
+16.8.2022, 19:31:18 - INFO - updated board 
+16.8.2022, 19:31:27 - INFO - board updated 
+16.8.2022, 19:31:27 - INFO - updated board 
+16.8.2022, 19:31:36 - INFO - board updated 
+16.8.2022, 19:31:36 - INFO - updated board 
+16.8.2022, 19:31:39 - INFO - board updated 
+16.8.2022, 19:31:39 - INFO - updated board 
+16.8.2022, 19:31:44 - INFO - board updated 
+16.8.2022, 19:31:44 - INFO - updated board 
+16.8.2022, 19:31:53 - INFO - board updated 
+16.8.2022, 19:31:53 - INFO - updated board 
+16.8.2022, 19:32:06 - INFO - board updated 
+16.8.2022, 19:32:06 - INFO - updated board 
+16.8.2022, 19:32:21 - INFO - board updated 
+16.8.2022, 19:32:21 - INFO - updated board 
+16.8.2022, 19:32:30 - INFO - board updated 
+16.8.2022, 19:32:30 - INFO - updated board 
+16.8.2022, 19:32:34 - INFO - board updated 
+16.8.2022, 19:32:34 - INFO - updated board 
+16.8.2022, 19:32:40 - INFO - board updated 
+16.8.2022, 19:32:40 - INFO - updated board 
+16.8.2022, 19:32:44 - INFO - board updated 
+16.8.2022, 19:32:44 - INFO - updated board 
+16.8.2022, 19:33:20 - INFO - board updated 
+16.8.2022, 19:33:20 - INFO - updated board 
+16.8.2022, 19:33:23 - INFO - board updated 
+16.8.2022, 19:33:23 - INFO - updated board 
+16.8.2022, 19:33:25 - INFO - board updated 
+16.8.2022, 19:33:25 - INFO - updated board 
+16.8.2022, 19:33:29 - INFO - board updated 
+16.8.2022, 19:33:29 - INFO - updated board 
+16.8.2022, 19:33:36 - INFO - board updated 
+16.8.2022, 19:33:36 - INFO - updated board 
+16.8.2022, 19:33:52 - INFO - board updated 
+16.8.2022, 19:33:52 - INFO - updated board 
+16.8.2022, 19:34:10 - INFO - board updated 
+16.8.2022, 19:34:10 - INFO - updated board 
+16.8.2022, 19:34:22 - INFO - board updated 
+16.8.2022, 19:34:22 - INFO - updated board 
+16.8.2022, 19:34:29 - INFO - board updated 
+16.8.2022, 19:34:29 - INFO - updated board 
+16.8.2022, 19:34:34 - INFO - board updated 
+16.8.2022, 19:34:34 - INFO - updated board 
+16.8.2022, 19:35:24 - INFO - board updated 
+16.8.2022, 19:35:24 - INFO - updated board 
+16.8.2022, 19:35:30 - INFO - Socket disconnected [id: undefined] 
+16.8.2022, 19:35:31 - INFO - New connected socket [id: 1SkPy_OFTF6gESeYAAAD] 
+16.8.2022, 19:35:31 - INFO - Setting socket.userId = null for socket [id: 1SkPy_OFTF6gESeYAAAD] 
+16.8.2022, 19:35:31 - INFO - Setting socket null 
+16.8.2022, 19:35:32 - INFO - board updated 
+16.8.2022, 19:35:32 - INFO - updated board 
+16.8.2022, 19:36:36 - INFO - board updated 
+16.8.2022, 19:36:36 - INFO - updated board 
+16.8.2022, 19:36:40 - INFO - board updated 
+16.8.2022, 19:36:40 - INFO - updated board 
+16.8.2022, 19:39:52 - INFO - board updated 
+16.8.2022, 19:39:52 - INFO - updated board 
+16.8.2022, 19:40:07 - INFO - board updated 
+16.8.2022, 19:40:07 - INFO - updated board 
+16.8.2022, 19:41:03 - INFO - board updated 
+16.8.2022, 19:41:03 - INFO - updated board 
+16.8.2022, 19:41:09 - INFO - board updated 
+16.8.2022, 19:41:09 - INFO - updated board 
+16.8.2022, 19:41:15 - INFO - board updated 
+16.8.2022, 19:41:15 - INFO - updated board 
+16.8.2022, 19:41:55 - INFO - board updated 
+16.8.2022, 19:41:55 - INFO - updated board 
+16.8.2022, 19:42:13 - INFO - board updated 
+16.8.2022, 19:42:14 - INFO - updated board 
+16.8.2022, 19:42:28 - INFO - board updated 
+16.8.2022, 19:42:28 - INFO - updated board 
+16.8.2022, 19:42:33 - INFO - board updated 
+16.8.2022, 19:42:33 - INFO - updated board 
+16.8.2022, 19:42:45 - INFO - board updated 
+16.8.2022, 19:42:45 - INFO - updated board 
+16.8.2022, 19:42:49 - INFO - board updated 
+16.8.2022, 19:42:49 - INFO - updated board 
+16.8.2022, 19:42:56 - INFO - board updated 
+16.8.2022, 19:42:56 - INFO - updated board 
+16.8.2022, 19:43:01 - INFO - board updated 
+16.8.2022, 19:43:01 - INFO - updated board 
+16.8.2022, 19:43:02 - INFO - board updated 
+16.8.2022, 19:43:02 - INFO - updated board 
+16.8.2022, 19:43:02 - INFO - board updated 
+16.8.2022, 19:43:02 - INFO - updated board 
+16.8.2022, 19:43:06 - INFO - board updated 
+16.8.2022, 19:43:06 - INFO - updated board 
+16.8.2022, 19:43:08 - INFO - board updated 
+16.8.2022, 19:43:08 - INFO - updated board 
+16.8.2022, 19:43:11 - INFO - board updated 
+16.8.2022, 19:43:11 - INFO - updated board 
+16.8.2022, 19:43:29 - INFO - board updated 
+16.8.2022, 19:43:29 - INFO - updated board 
+16.8.2022, 19:43:36 - INFO - board updated 
+16.8.2022, 19:43:36 - INFO - updated board 
+16.8.2022, 19:43:51 - INFO - board updated 
+16.8.2022, 19:43:51 - INFO - updated board 
+16.8.2022, 19:44:08 - INFO - board updated 
+16.8.2022, 19:44:08 - INFO - updated board 
+16.8.2022, 19:44:16 - INFO - board updated 
+16.8.2022, 19:44:16 - INFO - updated board 
+16.8.2022, 19:44:21 - INFO - board updated 
+16.8.2022, 19:44:21 - INFO - updated board 
+16.8.2022, 19:44:32 - INFO - board updated 
+16.8.2022, 19:44:32 - INFO - updated board 
+16.8.2022, 19:44:41 - INFO - board updated 
+16.8.2022, 19:44:41 - INFO - updated board 
+16.8.2022, 19:44:48 - INFO - board updated 
+16.8.2022, 19:44:48 - INFO - updated board 
+16.8.2022, 19:44:52 - INFO - board updated 
+16.8.2022, 19:44:52 - INFO - updated board 
+16.8.2022, 19:45:38 - INFO - board updated 
+16.8.2022, 19:45:38 - INFO - updated board 
+16.8.2022, 19:45:41 - INFO - board updated 
+16.8.2022, 19:45:41 - INFO - updated board 
+16.8.2022, 19:45:43 - INFO - board updated 
+16.8.2022, 19:45:43 - INFO - updated board 
+16.8.2022, 19:45:48 - INFO - board updated 
+16.8.2022, 19:45:48 - INFO - updated board 
+16.8.2022, 19:45:59 - INFO - board updated 
+16.8.2022, 19:45:59 - INFO - updated board 
+16.8.2022, 19:46:09 - INFO - Socket disconnected [id: undefined] 
+16.8.2022, 19:46:10 - INFO - New connected socket [id: nTN4xSR9fatiy8UDAAAF] 
+16.8.2022, 19:46:10 - INFO - Setting socket.userId = null for socket [id: nTN4xSR9fatiy8UDAAAF] 
+16.8.2022, 19:46:10 - INFO - Setting socket null 
+16.8.2022, 19:46:11 - INFO - board updated 
+16.8.2022, 19:46:11 - INFO - updated board 
+16.8.2022, 19:46:56 - INFO - Socket disconnected [id: undefined] 
+16.8.2022, 19:46:57 - INFO - New connected socket [id: ui0c7oy7Gy5IvDc2AAAH] 
+16.8.2022, 19:46:57 - INFO - Setting socket.userId = null for socket [id: ui0c7oy7Gy5IvDc2AAAH] 
+16.8.2022, 19:46:57 - INFO - Setting socket null 
+16.8.2022, 19:46:58 - INFO - board updated 
+16.8.2022, 19:46:58 - INFO - updated board 
+16.8.2022, 19:47:12 - INFO - board updated 
+16.8.2022, 19:47:12 - INFO - updated board 
+16.8.2022, 19:47:17 - INFO - Socket disconnected [id: undefined] 
+16.8.2022, 19:47:18 - INFO - New connected socket [id: d1ZMYtXcxtxwCO_LAAAJ] 
+16.8.2022, 19:47:18 - INFO - Setting socket.userId = null for socket [id: d1ZMYtXcxtxwCO_LAAAJ] 
+16.8.2022, 19:47:18 - INFO - Setting socket null 
+16.8.2022, 19:47:19 - INFO - board updated 
+16.8.2022, 19:47:19 - INFO - updated board 
+16.8.2022, 19:49:45 - INFO - board updated 
+16.8.2022, 19:49:45 - INFO - updated board 
+16.8.2022, 19:50:12 - INFO - Socket disconnected [id: undefined] 
+16.8.2022, 19:50:13 - INFO - New connected socket [id: QkwVwowd1z8wvJ5aAAAL] 
+16.8.2022, 19:50:13 - INFO - Setting socket.userId = null for socket [id: QkwVwowd1z8wvJ5aAAAL] 
+16.8.2022, 19:50:13 - INFO - Setting socket null 
+16.8.2022, 19:50:14 - INFO - board updated 
+16.8.2022, 19:50:14 - INFO - updated board 
+16.8.2022, 19:51:03 - INFO - board updated 
+16.8.2022, 19:51:03 - INFO - updated board 
+16.8.2022, 19:51:05 - INFO - board updated 
+16.8.2022, 19:51:05 - INFO - updated board 
+16.8.2022, 19:51:14 - INFO - Socket disconnected [id: undefined] 
+16.8.2022, 19:51:25 - INFO - New connected socket [id: NMm-BL0qzbAGOTNaAAAN] 
+16.8.2022, 19:51:52 - INFO - Socket disconnected [id: undefined] 
+16.8.2022, 19:51:52 - INFO - New connected socket [id: iShxQlUYWh8T9bs_AAAP] 
+16.8.2022, 19:52:07 - DEBUG - auth.service - login with username: n1 (userId: 629e05249a28133be456c129)
+16.8.2022, 19:52:07 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62ec5c0370541b15205d7d68","62eff8c9b83d38042c0a0873","62eff959b83d38042c0a0874","62effcd8b83d38042c0a0875","62effdf3b83d38042c0a0876","62f000c9b83d38042c0a0877","62f00103b83d38042c0a0878","62f003a3b83d38042c0a0879","62f0f111b83d38042c0a087a","62f0f22eb83d38042c0a087b","62efed41d57b372faeb1ab05"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[],"starred":["62f0f111b83d38042c0a087a","62effdf3b83d38042c0a0876","62efed41d57b372faeb1ab05"]} (userId: 629e05249a28133be456c129)
+16.8.2022, 19:52:14 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+16.8.2022, 19:52:14 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+16.8.2022, 19:52:33 - INFO - Socket disconnected [id: undefined] 
+16.8.2022, 19:52:34 - INFO - New connected socket [id: eqKukheAMIjIVCEDAAAR] 
+16.8.2022, 19:52:35 - INFO - board updated 
+16.8.2022, 19:52:35 - INFO - updated board 
+16.8.2022, 19:52:46 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+16.8.2022, 19:52:46 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+16.8.2022, 19:53:33 - INFO - board updated 
+16.8.2022, 19:53:33 - INFO - updated board 
+16.8.2022, 19:53:40 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+16.8.2022, 19:53:40 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+16.8.2022, 19:53:41 - INFO - board updated 
+16.8.2022, 19:53:41 - INFO - updated board 
+16.8.2022, 19:53:58 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+16.8.2022, 19:53:58 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+16.8.2022, 19:53:59 - INFO - updated board 
+16.8.2022, 19:53:59 - INFO - board updated 
+16.8.2022, 19:54:42 - INFO - board updated 
+16.8.2022, 19:54:42 - INFO - updated board 
+16.8.2022, 19:57:02 - INFO - board updated 
+16.8.2022, 19:57:02 - INFO - updated board 
+16.8.2022, 19:57:08 - INFO - board updated 
+16.8.2022, 19:57:08 - INFO - updated board 
+16.8.2022, 19:57:43 - INFO - board updated 
+16.8.2022, 19:57:43 - INFO - updated board 
+16.8.2022, 19:58:30 - INFO - board updated 
+16.8.2022, 19:58:30 - INFO - updated board 
+16.8.2022, 19:58:37 - INFO - updated board 
+16.8.2022, 19:58:37 - INFO - board updated 
+16.8.2022, 19:58:46 - INFO - board updated 
+16.8.2022, 19:58:46 - INFO - updated board 
+16.8.2022, 19:58:47 - INFO - Socket disconnected [id: undefined] 
+16.8.2022, 19:58:48 - INFO - New connected socket [id: Xvd9ZGQ8iTQBQKzWAAAT] 
+16.8.2022, 19:58:49 - INFO - board updated 
+16.8.2022, 19:58:50 - INFO - updated board 
+16.8.2022, 19:59:00 - INFO - board updated 
+16.8.2022, 19:59:00 - INFO - updated board 
+16.8.2022, 19:59:10 - INFO - board updated 
+16.8.2022, 19:59:10 - INFO - updated board 
+16.8.2022, 19:59:12 - INFO - board updated 
+16.8.2022, 19:59:12 - INFO - updated board 
+16.8.2022, 19:59:12 - INFO - board updated 
+16.8.2022, 19:59:12 - INFO - updated board 
+16.8.2022, 19:59:13 - INFO - updated board 
+16.8.2022, 19:59:13 - INFO - board updated 
+16.8.2022, 19:59:27 - INFO - board updated 
+16.8.2022, 19:59:27 - INFO - updated board 
+16.8.2022, 19:59:29 - INFO - board updated 
+16.8.2022, 19:59:29 - INFO - updated board 
+16.8.2022, 19:59:49 - INFO - board updated 
+16.8.2022, 19:59:49 - INFO - updated board 
+16.8.2022, 19:59:55 - INFO - board updated 
+16.8.2022, 19:59:55 - INFO - updated board 
+16.8.2022, 19:59:55 - INFO - board updated 
+16.8.2022, 19:59:55 - INFO - updated board 
+16.8.2022, 20:00:01 - INFO - board updated 
+16.8.2022, 20:00:01 - INFO - updated board 
+16.8.2022, 20:00:12 - INFO - board updated 
+16.8.2022, 20:00:12 - INFO - updated board 
+16.8.2022, 20:00:35 - INFO - board updated 
+16.8.2022, 20:00:35 - INFO - updated board 
+16.8.2022, 20:00:37 - INFO - board updated 
+16.8.2022, 20:00:37 - INFO - updated board 
+16.8.2022, 20:00:43 - INFO - board updated 
+16.8.2022, 20:00:43 - INFO - updated board 
+16.8.2022, 20:00:51 - INFO - board updated 
+16.8.2022, 20:00:51 - INFO - updated board 
+16.8.2022, 20:02:05 - INFO - board updated 
+16.8.2022, 20:02:05 - INFO - updated board 
+16.8.2022, 20:02:18 - INFO - board updated 
+16.8.2022, 20:02:18 - INFO - updated board 
+16.8.2022, 20:02:29 - INFO - board updated 
+16.8.2022, 20:02:29 - INFO - updated board 
+16.8.2022, 20:02:49 - INFO - board updated 
+16.8.2022, 20:02:49 - INFO - updated board 
+16.8.2022, 20:02:53 - INFO - board updated 
+16.8.2022, 20:02:53 - INFO - updated board 
+16.8.2022, 20:02:55 - INFO - updated board 
+16.8.2022, 20:02:55 - INFO - board updated 
+16.8.2022, 20:02:58 - INFO - board updated 
+16.8.2022, 20:02:58 - INFO - updated board 
+16.8.2022, 20:03:05 - INFO - board updated 
+16.8.2022, 20:03:05 - INFO - updated board 
+16.8.2022, 20:03:12 - INFO - board updated 
+16.8.2022, 20:03:12 - INFO - updated board 
+16.8.2022, 20:03:23 - INFO - board updated 
+16.8.2022, 20:03:23 - INFO - updated board 
+16.8.2022, 20:03:25 - INFO - board updated 
+16.8.2022, 20:03:25 - INFO - updated board 
+16.8.2022, 20:04:02 - INFO - updated board 
+16.8.2022, 20:04:02 - INFO - board updated 
+16.8.2022, 20:04:31 - INFO - board updated 
+16.8.2022, 20:04:31 - INFO - updated board 
+16.8.2022, 20:04:35 - INFO - board updated 
+16.8.2022, 20:04:35 - INFO - updated board 
+16.8.2022, 20:04:36 - INFO - board updated 
+16.8.2022, 20:04:36 - INFO - updated board 
+16.8.2022, 20:04:51 - INFO - board updated 
+16.8.2022, 20:04:51 - INFO - updated board 
+16.8.2022, 20:04:54 - INFO - board updated 
+16.8.2022, 20:04:54 - INFO - updated board 
+16.8.2022, 20:04:59 - INFO - board updated 
+16.8.2022, 20:04:59 - INFO - updated board 
+16.8.2022, 20:05:11 - INFO - board updated 
+16.8.2022, 20:05:11 - INFO - updated board 
+16.8.2022, 20:05:24 - INFO - board updated 
+16.8.2022, 20:05:24 - INFO - updated board 
+16.8.2022, 20:05:25 - INFO - board updated 
+16.8.2022, 20:05:25 - INFO - updated board 
+16.8.2022, 20:05:26 - INFO - board updated 
+16.8.2022, 20:05:26 - INFO - updated board 
+16.8.2022, 20:05:27 - INFO - board updated 
+16.8.2022, 20:05:27 - INFO - updated board 
+16.8.2022, 20:05:29 - INFO - board updated 
+16.8.2022, 20:05:29 - INFO - updated board 
+16.8.2022, 20:05:35 - INFO - board updated 
+16.8.2022, 20:05:35 - INFO - updated board 
+16.8.2022, 20:05:39 - INFO - board updated 
+16.8.2022, 20:05:39 - INFO - updated board 
+16.8.2022, 20:05:42 - INFO - board updated 
+16.8.2022, 20:05:42 - INFO - updated board 
+16.8.2022, 20:05:51 - INFO - board updated 
+16.8.2022, 20:05:51 - INFO - updated board 
+16.8.2022, 20:06:04 - INFO - board updated 
+16.8.2022, 20:06:04 - INFO - updated board 
+16.8.2022, 20:06:42 - INFO - board updated 
+16.8.2022, 20:06:42 - INFO - updated board 
+16.8.2022, 20:06:49 - INFO - board updated 
+16.8.2022, 20:06:49 - INFO - updated board 
+16.8.2022, 20:06:52 - INFO - board updated 
+16.8.2022, 20:06:52 - INFO - updated board 
+16.8.2022, 20:06:55 - INFO - board updated 
+16.8.2022, 20:06:55 - INFO - updated board 
+16.8.2022, 20:06:59 - INFO - board updated 
+16.8.2022, 20:06:59 - INFO - updated board 
+16.8.2022, 20:07:18 - INFO - board updated 
+16.8.2022, 20:07:18 - INFO - updated board 
+16.8.2022, 20:08:46 - INFO - updated board 
+16.8.2022, 20:08:46 - INFO - board updated 
+16.8.2022, 20:08:47 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+16.8.2022, 20:08:47 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+16.8.2022, 20:08:47 - INFO - board updated 
+16.8.2022, 20:08:47 - INFO - updated board 
+16.8.2022, 20:09:08 - INFO - board updated 
+16.8.2022, 20:09:09 - INFO - updated board 
+16.8.2022, 20:09:09 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+16.8.2022, 20:09:09 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+16.8.2022, 20:09:09 - INFO - board updated 
+16.8.2022, 20:09:09 - INFO - updated board 
