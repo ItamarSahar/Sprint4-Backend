@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.2a36429d.css",
-    "main.js": "/static/js/main.74efe751.js",
+    "main.css": "/static/css/main.fbdb49a4.css",
+    "main.js": "/static/js/main.6873f216.js",
     "static/js/787.2faa5723.chunk.js": "/static/js/787.2faa5723.chunk.js",
+    "static/media/mello pic.png": "/static/media/mello pic.e763ef347c6724d4d187.png",
     "static/media/SFUIText-Regular.otf": "/static/media/SFUIText-Regular.3891cf449d0d4808a8b5.otf",
     "static/media/SFUIDisplay-Regular.otf": "/static/media/SFUIDisplay-Regular.824bcb096242327a0403.otf",
     "static/media/hero1.png": "/static/media/hero1.e8878a5487f1b4b94d6f.png",
@@ -11,16 +12,26 @@
     "static/media/CharlieText-Semibold.ttf": "/static/media/CharlieText-Semibold.9c8e3395b54fc4328868.ttf",
     "static/media/CharlieDisplay-Regular.ttf": "/static/media/CharlieDisplay-Regular.a2a3c582da84941794e4.ttf",
     "static/media/CharlieText-Regular.ttf": "/static/media/CharlieText-Regular.3443d70ce64d7c39caf1.ttf",
+    "static/media/powerUpsTeaser.webp": "/static/media/powerUpsTeaser.925776151f1cf10da20b.webp",
+    "static/media/autoTeaser.webp": "/static/media/autoTeaser.281583494dc52d881f45.webp",
+    "static/media/boradTeaser.svg": "/static/media/boradTeaser.30c721bc784217178a495ad3fc30a3c7.svg",
     "static/media/charlie-text.woff": "/static/media/charlie-text.412ff94c22c5a7b585da.woff",
+    "static/media/cardTeaser.svg": "/static/media/cardTeaser.11e5c4277f982422e988ff3128ba5dd4.svg",
     "static/media/Charlie.otf": "/static/media/Charlie.24d7eab43fe70d94fc1b.otf",
-    "static/media/info.png": "/static/media/info.a9b33a5d268cc03a1305.png",
+    "static/media/visa-pic.svg": "/static/media/visa-pic.3f209fbae5d0b38d665a613154432741.svg",
+    "static/media/john-pic.svg": "/static/media/john-pic.50ab946d94b1fb7a5f586e09ad438660.svg",
+    "static/media/grand-pic.svg": "/static/media/grand-pic.f71cd141e353a84cb724ae9f8eab9ddb.svg",
+    "static/media/google-pic.svg": "/static/media/google-pic.d6111f61fc7ba1f89031fcd7fff6f357.svg",
+    "static/media/coinbase-pic.svg": "/static/media/coinbase-pic.2645f13292ae9cf4236f01bb2f382fd9.svg",
+    "static/media/zoom-pic.webp": "/static/media/zoom-pic.4b894324f5605b938709.webp",
+    "static/media/trello-black-full.svg": "/static/media/trello-black-full.b3a8913363bf180c80686f14830a2322.svg",
     "index.html": "/index.html",
-    "main.2a36429d.css.map": "/static/css/main.2a36429d.css.map",
-    "main.74efe751.js.map": "/static/js/main.74efe751.js.map",
+    "main.fbdb49a4.css.map": "/static/css/main.fbdb49a4.css.map",
+    "main.6873f216.js.map": "/static/js/main.6873f216.js.map",
     "787.2faa5723.chunk.js.map": "/static/js/787.2faa5723.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a36429d.css",
-    "static/js/main.74efe751.js"
+    "static/css/main.fbdb49a4.css",
+    "static/js/main.6873f216.js"
   ]
 }
