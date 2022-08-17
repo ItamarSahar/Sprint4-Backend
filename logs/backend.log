@@ -11345,3 +11345,59 @@
 17.8.2022, 3:43:43 - INFO - New connected socket [id: GPrJKxOk32cIWOPBAADL] 
 17.8.2022, 3:43:43 - INFO - board updated 
 17.8.2022, 3:43:44 - INFO - updated board 
+17.8.2022, 15:59:36 - INFO - Server is running on port: 3030 
+17.8.2022, 15:59:41 - INFO - New connected socket [id: g3qj7Ey3UoxnzsCgAAAB] 
+17.8.2022, 15:59:45 - INFO - Socket disconnected [id: undefined] 
+17.8.2022, 15:59:46 - INFO - New connected socket [id: o_RIcDWJ9g0KSrKgAAAD] 
+17.8.2022, 16:05:16 - INFO - Socket disconnected [id: undefined] 
+17.8.2022, 16:05:16 - INFO - New connected socket [id: Dss8JabahfXcDXoMAAAF] 
+17.8.2022, 16:11:58 - INFO - Socket disconnected [id: undefined] 
+17.8.2022, 16:11:58 - INFO - New connected socket [id: RYMOtp69RSFw-4ioAAAH] 
+17.8.2022, 16:12:11 - ERROR - while finding board null | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+17.8.2022, 16:12:11 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+17.8.2022, 16:12:11 - DEBUG - auth.service - signup with username: ofri, fullname: Ofri (userId: 629e05249a28133be456c129)
+17.8.2022, 16:12:12 - ERROR - while finding board null | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+17.8.2022, 16:12:12 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+17.8.2022, 16:12:13 - ERROR - while finding board null | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+17.8.2022, 16:12:13 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+17.8.2022, 16:12:14 - DEBUG - auth.route - new account created: {"username":"ofri","password":"$2b$10$aRDjwURUiCh4yKExDzTCv.Yy/sNgpx/4Dvhbw1mjL54EQfa6famqa","fullname":"Ofri","boards":[],"imgUrl":"","mentions":[],"_id":"62fce92d32777416887c327f"} (userId: 629e05249a28133be456c129)
+17.8.2022, 16:12:14 - DEBUG - auth.service - login with username: ofri (userId: 629e05249a28133be456c129)
+17.8.2022, 16:12:14 - INFO - User signup: | {"_id":"62fce92d32777416887c327f","username":"ofri","fullname":"Ofri","boards":[],"imgUrl":"","mentions":[]} (userId: 629e05249a28133be456c129)
+17.8.2022, 16:16:05 - INFO - Socket disconnected [id: undefined] 
+17.8.2022, 16:16:05 - INFO - New connected socket [id: G6dP-NvdKDkDeGTyAAAJ] 
+17.8.2022, 16:20:29 - DEBUG - auth.service - signup with username: Lee, fullname: Lee (userId: 629e05249a28133be456c129)
+17.8.2022, 16:20:29 - DEBUG - auth.route - new account created: {"username":"Lee","password":"$2b$10$5cyMtocZGwgzWH1nY9HKWeXuFrzVlj4bnk3t3XHMpM1XF5y2hjBgq","fullname":"Lee","boards":[],"imgUrl":"","mentions":[],"_id":"62fceb1d32777416887c32a1"} (userId: 629e05249a28133be456c129)
+17.8.2022, 16:20:29 - DEBUG - auth.service - login with username: Lee (userId: 629e05249a28133be456c129)
+17.8.2022, 16:20:29 - INFO - User signup: | {"_id":"62fceb1d32777416887c32a1","username":"Lee","fullname":"Lee","boards":[],"imgUrl":"","mentions":[]} (userId: 629e05249a28133be456c129)
+17.8.2022, 16:20:39 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 62fceb1d32777416887c32a1)
+17.8.2022, 16:20:39 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 62fceb1d32777416887c32a1)
+17.8.2022, 16:20:42 - INFO - board updated 
+17.8.2022, 16:20:42 - INFO - updated board 
+17.8.2022, 16:21:25 - INFO - board updated 
+17.8.2022, 16:21:25 - INFO - updated board 
+17.8.2022, 16:21:28 - INFO - Socket disconnected [id: undefined] 
+17.8.2022, 16:21:30 - INFO - New connected socket [id: fW0nnm2A6kd2uM0KAAAL] 
+17.8.2022, 16:21:31 - INFO - board updated 
+17.8.2022, 16:21:31 - INFO - updated board 
+17.8.2022, 16:21:34 - INFO - Socket disconnected [id: undefined] 
+17.8.2022, 16:21:35 - INFO - New connected socket [id: j_7sJSq-xjPoa9ZMAAAN] 
+17.8.2022, 16:21:52 - INFO - Socket disconnected [id: undefined] 
+17.8.2022, 16:21:53 - INFO - New connected socket [id: GJaHK9kcs16g25nVAAAP] 
+17.8.2022, 16:22:40 - INFO - Socket disconnected [id: undefined] 
+17.8.2022, 16:22:41 - INFO - New connected socket [id: 75SR0jINUTow5ABsAAAR] 
+17.8.2022, 16:23:41 - INFO - Socket disconnected [id: undefined] 
+17.8.2022, 16:23:42 - INFO - New connected socket [id: Nnh_5C0X7EFG2Z9FAAAT] 
+17.8.2022, 16:27:41 - INFO - Socket disconnected [id: undefined] 
+17.8.2022, 16:27:43 - INFO - New connected socket [id: MyG_AxQ2ScWsugIMAAAV] 
+17.8.2022, 16:30:06 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 62fceb1d32777416887c32a1)
+17.8.2022, 16:30:06 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 62fceb1d32777416887c32a1)
+17.8.2022, 16:30:09 - INFO - updated board 
+17.8.2022, 16:30:09 - INFO - board updated 
+17.8.2022, 16:32:38 - INFO - board updated 
+17.8.2022, 16:32:38 - INFO - updated board 
+17.8.2022, 16:32:42 - INFO - board updated 
+17.8.2022, 16:32:42 - INFO - updated board 
+17.8.2022, 16:35:12 - INFO - board updated 
+17.8.2022, 16:35:12 - INFO - updated board 
+17.8.2022, 16:38:58 - INFO - Server is running on port: 3030 
+17.8.2022, 16:39:00 - INFO - New connected socket [id: gShuM7jkeP9sDMVnAAAB] 
