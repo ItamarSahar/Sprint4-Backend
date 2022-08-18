@@ -112,7 +112,8 @@ async function add(user) {
 			username: user.username,
 			password: user.password,
 			fullname: user.fullname,
-			boards: [],
+			boards: user.boards ? user.boards:[],
+			starred: user.starred ? user.starred:[],
 			imgUrl:user.imgUrl||'',
 			mentions: [],
 		}

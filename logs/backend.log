@@ -11401,3 +11401,395 @@
 17.8.2022, 16:35:12 - INFO - updated board 
 17.8.2022, 16:38:58 - INFO - Server is running on port: 3030 
 17.8.2022, 16:39:00 - INFO - New connected socket [id: gShuM7jkeP9sDMVnAAAB] 
+18.8.2022, 15:41:25 - INFO - Server is running on port: 3030 
+18.8.2022, 15:41:49 - INFO - New connected socket [id: pGTNOPKunBQVrYagAAAB] 
+18.8.2022, 15:42:09 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 16:01:13 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 16:02:35 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 16:02:36 - INFO - New connected socket [id: 2Ez7EYqYRi-EKXNjAAAD] 
+18.8.2022, 16:02:39 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 16:03:01 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 16:03:01 - INFO - New connected socket [id: dP45or9xVzTKhQdrAAAF] 
+18.8.2022, 16:03:04 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 16:03:05 - INFO - New connected socket [id: gh20IPv1rfrxowiTAAAH] 
+18.8.2022, 16:03:33 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 16:03:34 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 16:03:36 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 16:03:45 - INFO - Server is running on port: 3030 
+18.8.2022, 16:03:45 - INFO - New connected socket [id: lEt6dQnsdd_SmiodAAAB] 
+18.8.2022, 16:04:04 - DEBUG - auth.service - login with username: n1 
+18.8.2022, 16:04:06 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[],"starred":["629e05339a28133be456c12a"]} 
+18.8.2022, 16:04:08 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+18.8.2022, 16:04:08 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e05249a28133be456c129)
+18.8.2022, 16:04:09 - INFO - board updated 
+18.8.2022, 16:04:09 - INFO - updated board 
+18.8.2022, 16:04:17 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 16:04:18 - INFO - New connected socket [id: 9eMiIzC7EFVtyRP_AAAD] 
+18.8.2022, 16:04:27 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 16:09:46 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 16:09:47 - INFO - New connected socket [id: oop_Y89tcUefpSbVAAAF] 
+18.8.2022, 16:11:05 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 16:11:05 - INFO - New connected socket [id: zC_G7ujF9iXQitJeAAAH] 
+18.8.2022, 16:11:07 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 16:12:11 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 16:12:30 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 16:12:30 - INFO - New connected socket [id: RBqFcbBznZnMot9AAAAJ] 
+18.8.2022, 16:12:35 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 16:15:22 - INFO - Server is running on port: 3030 
+18.8.2022, 16:15:24 - INFO - New connected socket [id: MJM8YOTo8DT4K3TUAAAB] 
+18.8.2022, 16:15:27 - INFO - Server is running on port: 3030 
+18.8.2022, 16:15:29 - INFO - New connected socket [id: x74f70Vhd5VQvgdEAAAB] 
+18.8.2022, 16:15:52 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 16:15:53 - INFO - New connected socket [id: D4UEZZXUAn1qmoV2AAAE] 
+18.8.2022, 16:16:13 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 16:17:27 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 16:17:28 - INFO - New connected socket [id: AZknecHvjaaivqTNAAAG] 
+18.8.2022, 16:17:30 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 16:17:30 - INFO - New connected socket [id: HXrRrpQUv8kAhe1hAAAI] 
+18.8.2022, 16:17:32 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 16:23:30 - INFO - Server is running on port: 3030 
+18.8.2022, 16:23:31 - INFO - New connected socket [id: hQrD-fPiSSCapj2iAAAB] 
+18.8.2022, 16:25:16 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 16:25:16 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 16:25:17 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 16:25:20 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 16:27:53 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 16:27:54 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 16:27:54 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 16:27:54 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 16:27:54 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 16:28:00 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 16:54:49 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 16:55:38 - INFO - New connected socket [id: d4yECBjp5zf1976-AAAD] 
+18.8.2022, 17:00:21 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 17:03:32 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 17:05:49 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 17:05:50 - INFO - New connected socket [id: PiqZKtQgiGZXmh0yAAAF] 
+18.8.2022, 17:05:56 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 17:05:56 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 17:05:57 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 17:06:06 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 17:06:07 - INFO - New connected socket [id: VMm9ENlY28bwtFJDAAAH] 
+18.8.2022, 17:06:22 - DEBUG - auth.service - login with username: check2 
+18.8.2022, 17:06:22 - ERROR - Failed to Login Invalid username or password 
+18.8.2022, 17:06:22 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 17:06:22 - INFO - New connected socket [id: mqfMspS5BKYAa8LDAAAJ] 
+18.8.2022, 17:06:29 - DEBUG - auth.service - login with username: check2 
+18.8.2022, 17:06:29 - ERROR - Failed to Login Invalid username or password 
+18.8.2022, 17:06:29 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 17:06:29 - INFO - New connected socket [id: 1YcJsKdQBvZDl3lWAAAL] 
+18.8.2022, 17:06:35 - DEBUG - auth.service - login with username: check2 
+18.8.2022, 17:06:35 - ERROR - Failed to Login Invalid username or password 
+18.8.2022, 17:06:35 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 17:06:36 - INFO - New connected socket [id: 6nLiVqUuQ9Yk2CjzAAAN] 
+18.8.2022, 17:06:42 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 17:06:47 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 17:06:47 - INFO - New connected socket [id: Sqd_-mfuKK3LSryiAAAP] 
+18.8.2022, 17:06:50 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 17:07:29 - DEBUG - auth.service - login with username: ori 
+18.8.2022, 17:07:29 - ERROR - Failed to Login Invalid username or password 
+18.8.2022, 17:07:29 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 17:07:30 - INFO - New connected socket [id: BN7ZoE8koSFIVQhjAAAR] 
+18.8.2022, 17:10:58 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 17:10:58 - INFO - New connected socket [id: Y5SvRqE_kdBBDVgBAAAT] 
+18.8.2022, 17:11:04 - DEBUG - auth.service - login with username: ori 
+18.8.2022, 17:11:04 - ERROR - Failed to Login Invalid username or password 
+18.8.2022, 17:11:04 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 17:11:05 - INFO - New connected socket [id: t3Mhr25H068xZdDSAAAV] 
+18.8.2022, 17:11:10 - DEBUG - auth.service - login with username: n1 
+18.8.2022, 17:11:10 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62ec5c0370541b15205d7d68","62eff8c9b83d38042c0a0873","62eff959b83d38042c0a0874","62effcd8b83d38042c0a0875","62effdf3b83d38042c0a0876","62f000c9b83d38042c0a0877","62f00103b83d38042c0a0878","62f003a3b83d38042c0a0879","62f0f111b83d38042c0a087a","62f0f22eb83d38042c0a087b","62efed41d57b372faeb1ab05"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[],"starred":["62efed41d57b372faeb1ab05"]} 
+18.8.2022, 17:13:27 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 17:13:27 - INFO - New connected socket [id: 2CyK0FC1PD0aaD-rAAAX] 
+18.8.2022, 17:13:47 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 17:13:48 - INFO - New connected socket [id: LBixLpJrp2shgGJ2AAAZ] 
+18.8.2022, 17:13:54 - DEBUG - auth.service - login with username: n1 
+18.8.2022, 17:13:54 - INFO - User login:  | {"_id":"629e05249a28133be456c129","username":"n1","fullname":"noam","boards":["629e05339a28133be456c12a","62ec5c0370541b15205d7d68","62eff8c9b83d38042c0a0873","62eff959b83d38042c0a0874","62effcd8b83d38042c0a0875","62effdf3b83d38042c0a0876","62f000c9b83d38042c0a0877","62f00103b83d38042c0a0878","62f003a3b83d38042c0a0879","62f0f111b83d38042c0a087a","62f0f22eb83d38042c0a087b","62efed41d57b372faeb1ab05"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540893/T02SFLQBMS9-U034L6SMYE8-19b83471b07d-512_iv0lka.jpg","mentions":[],"starred":["62efed41d57b372faeb1ab05"]} 
+18.8.2022, 17:14:05 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 17:14:06 - INFO - New connected socket [id: HK5pvADWq8hCL-VjAAAb] 
+18.8.2022, 17:14:11 - DEBUG - auth.service - login with username: bar (userId: 629e05249a28133be456c129)
+18.8.2022, 17:14:11 - INFO - User login:  | {"_id":"629e49af14eca981a88edabc","username":"bar","fullname":"bar","boards":["629e05339a28133be456c12a"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540772/T02SFLQBMS9-U034UG4PA1Y-4ce47463ddaf-512_jm4vof.jpg","mentions":[],"starred":[]} (userId: 629e05249a28133be456c129)
+18.8.2022, 17:14:21 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e49af14eca981a88edabc)
+18.8.2022, 17:14:21 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e49af14eca981a88edabc)
+18.8.2022, 17:14:22 - INFO - board updated 
+18.8.2022, 17:14:22 - INFO - updated board 
+18.8.2022, 17:15:26 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 17:15:26 - INFO - New connected socket [id: SmQK7MDeHaKZLzHnAAAd] 
+18.8.2022, 17:15:42 - DEBUG - auth.service - signup with username: c3, fullname: c3 (userId: 629e49af14eca981a88edabc)
+18.8.2022, 17:15:42 - DEBUG - auth.route - new account created: {"username":"c3","password":"$2b$10$OEbzfC7zdvUUejqYPvVzWeTiku1ox/ShtKLmxQXgihTaph3eR8TvW","fullname":"c3","boards":[],"imgUrl":"","mentions":[],"_id":"62fe498ebdd69526a0c5fd3c"} (userId: 629e49af14eca981a88edabc)
+18.8.2022, 17:15:42 - DEBUG - auth.service - login with username: c3 (userId: 629e49af14eca981a88edabc)
+18.8.2022, 17:15:42 - INFO - User signup: | {"_id":"62fe498ebdd69526a0c5fd3c","username":"c3","fullname":"c3","boards":[],"imgUrl":"","mentions":[]} (userId: 629e49af14eca981a88edabc)
+18.8.2022, 17:15:49 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 62fe498ebdd69526a0c5fd3c)
+18.8.2022, 17:15:49 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 62fe498ebdd69526a0c5fd3c)
+18.8.2022, 17:15:51 - INFO - board updated 
+18.8.2022, 17:15:51 - INFO - updated board 
+18.8.2022, 17:15:59 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 17:16:00 - INFO - New connected socket [id: 2NwAbl-40aOqApD0AAAf] 
+18.8.2022, 17:16:04 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 17:16:05 - INFO - New connected socket [id: KEA9rbnIjXYl2C3GAAAh] 
+18.8.2022, 17:16:10 - INFO - board updated 
+18.8.2022, 17:16:10 - INFO - updated board 
+18.8.2022, 17:16:14 - INFO - board updated 
+18.8.2022, 17:16:14 - INFO - updated board 
+18.8.2022, 17:52:10 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 17:53:42 - INFO - New connected socket [id: 90Ek0ge_6CizZxzAAAAj] 
+18.8.2022, 18:52:06 - INFO - New connected socket [id: S_QPtmejRL151O7RAAAl] 
+18.8.2022, 18:52:15 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 19:02:19 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 19:04:43 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 19:04:44 - INFO - New connected socket [id: Z72dy_grMEV21qa3AAAn] 
+18.8.2022, 19:05:03 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 19:05:47 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 19:05:49 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 19:05:50 - INFO - New connected socket [id: boOsbsol2wyZhgk5AAAp] 
+18.8.2022, 19:05:53 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 19:05:54 - INFO - New connected socket [id: DQm_i0hf8gcM_rAAAAAr] 
+18.8.2022, 19:05:56 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 19:08:45 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 19:08:47 - INFO - New connected socket [id: M0BogKW-LSPk_KFmAAAu] 
+18.8.2022, 19:08:48 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 19:08:49 - INFO - New connected socket [id: ZrlNp3zXK5uPl3HkAAAw] 
+18.8.2022, 19:09:05 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 19:09:58 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 19:10:17 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 19:10:18 - INFO - New connected socket [id: vOVazOjT2rMk7ReXAAAy] 
+18.8.2022, 19:10:19 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 19:10:20 - INFO - New connected socket [id: 7JFS8yLjFdvjbVmRAAA0] 
+18.8.2022, 19:10:21 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 19:10:21 - DEBUG - auth.service - signup with username: fzHL6w, fullname: Guest 
+18.8.2022, 19:10:22 - DEBUG - auth.route - new account created: {"username":"fzHL6w","password":"$2b$10$M5fsyKObEv.0akHt8Jur8.aj96E7Cym0jbRZ7Zs5a/YoT7gUgixi6","fullname":"Guest","boards":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62fe646ebdd69526a0c5fd46"} 
+18.8.2022, 19:10:22 - DEBUG - auth.service - login with username: fzHL6w 
+18.8.2022, 19:10:22 - INFO - User signup: | {"_id":"62fe646ebdd69526a0c5fd46","username":"fzHL6w","fullname":"Guest","boards":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} 
+18.8.2022, 19:11:12 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 19:11:13 - INFO - New connected socket [id: lS0ZehojQ2sUESuRAAA2] 
+18.8.2022, 19:11:15 - DEBUG - auth.service - signup with username: ZroLzx, fullname: Guest (userId: 62fe646ebdd69526a0c5fd46)
+18.8.2022, 19:11:15 - DEBUG - auth.route - new account created: {"username":"ZroLzx","password":"$2b$10$uC4ZQuFHOj2xFKdEHVx8r.K2KmnIrppwmRxQFbYHI61nqebK4yk6K","fullname":"Guest","boards":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62fe64a3bdd69526a0c5fd48"} (userId: 62fe646ebdd69526a0c5fd46)
+18.8.2022, 19:11:15 - DEBUG - auth.service - login with username: ZroLzx (userId: 62fe646ebdd69526a0c5fd46)
+18.8.2022, 19:11:15 - INFO - User signup: | {"_id":"62fe64a3bdd69526a0c5fd48","username":"ZroLzx","fullname":"Guest","boards":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} (userId: 62fe646ebdd69526a0c5fd46)
+18.8.2022, 19:14:20 - DEBUG - auth.service - signup with username: kBkhE1, fullname: Guest (userId: 62fe64a3bdd69526a0c5fd48)
+18.8.2022, 19:14:21 - DEBUG - auth.route - new account created: {"username":"kBkhE1","password":"$2b$10$ksoX3Ks69ZaDtUqXppqqM.BZXx/SLKcw6d05gAOGImjt0tg59LGx.","fullname":"Guest","boards":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62fe655cbdd69526a0c5fd4a"} (userId: 62fe64a3bdd69526a0c5fd48)
+18.8.2022, 19:14:21 - DEBUG - auth.service - login with username: kBkhE1 (userId: 62fe64a3bdd69526a0c5fd48)
+18.8.2022, 19:14:21 - INFO - User signup: | {"_id":"62fe655cbdd69526a0c5fd4a","username":"kBkhE1","fullname":"Guest","boards":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} (userId: 62fe64a3bdd69526a0c5fd48)
+18.8.2022, 19:14:45 - DEBUG - auth.service - signup with username: Vosa3D, fullname: Guest (userId: 62fe655cbdd69526a0c5fd4a)
+18.8.2022, 19:14:45 - DEBUG - auth.route - new account created: {"username":"Vosa3D","password":"$2b$10$lDnJJEs4WMEogU.cLyCW2us69C/aissmcSlagiOGWSY8nzf/FdMJu","fullname":"Guest","boards":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62fe6575bdd69526a0c5fd4c"} (userId: 62fe655cbdd69526a0c5fd4a)
+18.8.2022, 19:14:45 - DEBUG - auth.service - login with username: Vosa3D (userId: 62fe655cbdd69526a0c5fd4a)
+18.8.2022, 19:14:45 - INFO - User signup: | {"_id":"62fe6575bdd69526a0c5fd4c","username":"Vosa3D","fullname":"Guest","boards":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} (userId: 62fe655cbdd69526a0c5fd4a)
+18.8.2022, 19:15:23 - INFO - Server is running on port: 3030 
+18.8.2022, 19:15:23 - INFO - New connected socket [id: G5ElmKbxa_vnF4W5AAAB] 
+18.8.2022, 19:15:44 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 19:15:44 - DEBUG - auth.service - signup with username: 1OC4VW, fullname: Guest 
+18.8.2022, 19:15:45 - DEBUG - auth.route - new account created: {"username":"1OC4VW","password":"$2b$10$rD8OSTMjgttBo9G3nmrOhOIBlahvIsOqtCRl6dGwVeDL6ke6wgkw.","fullname":"Guest","boards":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62fe65b19c227f4d78af4a60"} 
+18.8.2022, 19:15:45 - DEBUG - auth.service - login with username: 1OC4VW 
+18.8.2022, 19:15:45 - INFO - User signup: | {"_id":"62fe65b19c227f4d78af4a60","username":"1OC4VW","fullname":"Guest","boards":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} 
+18.8.2022, 19:19:43 - INFO - Server is running on port: 3030 
+18.8.2022, 19:19:44 - INFO - New connected socket [id: qOrnGsNgVIzYggYXAAAB] 
+18.8.2022, 19:19:46 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 19:19:46 - INFO - New connected socket [id: cE_nbmQvCfo8uiz3AAAD] 
+18.8.2022, 19:19:55 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 19:19:55 - DEBUG - auth.service - signup with username: hX6gbl, fullname: Guest 
+18.8.2022, 19:19:55 - DEBUG - auth.route - new account created: {"username":"hX6gbl","password":"$2b$10$ZRAFks6mKuGHOCR4oirleumqIE8RtuaS09CvmIySjPWcXcpYamLm.","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62fe66ab9a5b5f1b84ffe0b4"} 
+18.8.2022, 19:19:55 - DEBUG - auth.service - login with username: hX6gbl 
+18.8.2022, 19:19:56 - INFO - User signup: | {"_id":"62fe66ab9a5b5f1b84ffe0b4","username":"hX6gbl","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} 
+18.8.2022, 19:21:21 - DEBUG - auth.service - signup with username: YSSZ2Q, fullname: Guest (userId: 62fe66ab9a5b5f1b84ffe0b4)
+18.8.2022, 19:21:21 - DEBUG - auth.service - login with username: YSSZ2Q (userId: 62fe66ab9a5b5f1b84ffe0b4)
+18.8.2022, 19:21:21 - DEBUG - auth.route - new account created: {"username":"YSSZ2Q","password":"$2b$10$Ohc/EdKJ/BsRFE2uQPqVFuFS1jKSx6/PWumBxbLT4bW1VwK53THiy","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62fe67019a5b5f1b84ffe0b7"} (userId: 62fe66ab9a5b5f1b84ffe0b4)
+18.8.2022, 19:21:21 - INFO - User signup: | {"_id":"62fe67019a5b5f1b84ffe0b7","username":"YSSZ2Q","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} (userId: 62fe66ab9a5b5f1b84ffe0b4)
+18.8.2022, 19:22:08 - DEBUG - auth.service - signup with username: Qe0Pni, fullname: Guest (userId: 62fe67019a5b5f1b84ffe0b7)
+18.8.2022, 19:22:08 - DEBUG - auth.route - new account created: {"username":"Qe0Pni","password":"$2b$10$zkyb.FG5rII0b3utJLcUm.aukWUOvpJbgmVn14BuwUfuV3xSog.h6","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62fe67309a5b5f1b84ffe0b9"} (userId: 62fe67019a5b5f1b84ffe0b7)
+18.8.2022, 19:22:08 - DEBUG - auth.service - login with username: Qe0Pni (userId: 62fe67019a5b5f1b84ffe0b7)
+18.8.2022, 19:22:09 - INFO - User signup: | {"_id":"62fe67309a5b5f1b84ffe0b9","username":"Qe0Pni","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} (userId: 62fe67019a5b5f1b84ffe0b7)
+18.8.2022, 19:23:02 - DEBUG - auth.service - signup with username: bOWe1b, fullname: Guest (userId: 62fe67309a5b5f1b84ffe0b9)
+18.8.2022, 19:23:02 - DEBUG - auth.route - new account created: {"username":"bOWe1b","password":"$2b$10$ueY8mOJBBTr2IYMI/LVAveDiRwwhfFLb0ZYk.EBr81cPKIiR6m646","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62fe67669a5b5f1b84ffe0bb"} (userId: 62fe67309a5b5f1b84ffe0b9)
+18.8.2022, 19:23:02 - DEBUG - auth.service - login with username: bOWe1b (userId: 62fe67309a5b5f1b84ffe0b9)
+18.8.2022, 19:23:03 - INFO - User signup: | {"_id":"62fe67669a5b5f1b84ffe0bb","username":"bOWe1b","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} (userId: 62fe67309a5b5f1b84ffe0b9)
+18.8.2022, 19:23:28 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 19:24:55 - INFO - Server is running on port: 3030 
+18.8.2022, 19:24:55 - INFO - New connected socket [id: 9E0g3hph7DIXBhHoAAAB] 
+18.8.2022, 19:25:10 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 19:27:17 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 19:27:19 - INFO - New connected socket [id: dR50A1-Y6v6Xb0EzAAAD] 
+18.8.2022, 19:27:21 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 19:27:55 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 19:27:56 - INFO - New connected socket [id: OkLjAVDwfLD-XzjVAAAF] 
+18.8.2022, 19:27:59 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 19:31:49 - DEBUG - auth.service - signup with username: XTgiNw, fullname: Guest 
+18.8.2022, 19:31:49 - DEBUG - auth.route - new account created: {"username":"XTgiNw","password":"$2b$10$hy7/1GhueXJd8Nv/RCQ1seGmLdFPLknNMZKKdRvDlLsLTsdFVTs76","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62fe69752bd53a8690a536fc"} 
+18.8.2022, 19:31:49 - DEBUG - auth.service - login with username: XTgiNw 
+18.8.2022, 19:31:49 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 19:31:49 - INFO - User signup: | {"_id":"62fe69752bd53a8690a536fc","username":"XTgiNw","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} 
+18.8.2022, 19:34:35 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 19:34:35 - INFO - New connected socket [id: pFyaXvRLgrbn3PKNAAAH] 
+18.8.2022, 19:34:42 - DEBUG - auth.service - signup with username: TbQfVM, fullname: Guest (userId: 62fe69752bd53a8690a536fc)
+18.8.2022, 19:34:43 - DEBUG - auth.service - login with username: TbQfVM (userId: 62fe69752bd53a8690a536fc)
+18.8.2022, 19:34:43 - DEBUG - auth.route - new account created: {"username":"TbQfVM","password":"$2b$10$Ig1ezwKPxOuahSrUEq4PWuGPVoZ.FKwppyZnU58ONEkJovFZRfhtm","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62fe6a232bd53a8690a536ff"} (userId: 62fe69752bd53a8690a536fc)
+18.8.2022, 19:34:43 - INFO - User signup: | {"_id":"62fe6a232bd53a8690a536ff","username":"TbQfVM","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} (userId: 62fe69752bd53a8690a536fc)
+18.8.2022, 19:35:16 - DEBUG - auth.service - signup with username: DOpD0w, fullname: Guest 
+18.8.2022, 19:35:16 - DEBUG - auth.route - new account created: {"username":"DOpD0w","password":"$2b$10$jPpXq63keI25gF8zsUik9.reTdoZ3Ii9nxDpfXeegnEo9NqZWwKlq","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62fe6a442bd53a8690a53701"} 
+18.8.2022, 19:35:16 - DEBUG - auth.service - login with username: DOpD0w 
+18.8.2022, 19:35:16 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 19:35:16 - INFO - User signup: | {"_id":"62fe6a442bd53a8690a53701","username":"DOpD0w","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} 
+18.8.2022, 19:35:37 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 19:35:38 - INFO - New connected socket [id: 4v9rhQyot50BcgijAAAJ] 
+18.8.2022, 19:35:42 - DEBUG - auth.service - signup with username: Z6SstT, fullname: Guest 
+18.8.2022, 19:35:42 - DEBUG - auth.route - new account created: {"username":"Z6SstT","password":"$2b$10$yxxqWoJmvlMJxTXzXGk75OfI4ZENe//hwINOQtRbLFk.Itsv.ruqS","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62fe6a5e2bd53a8690a53703"} 
+18.8.2022, 19:35:42 - DEBUG - auth.service - login with username: Z6SstT 
+18.8.2022, 19:35:42 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 19:35:42 - INFO - User signup: | {"_id":"62fe6a5e2bd53a8690a53703","username":"Z6SstT","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} 
+18.8.2022, 19:36:35 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 19:36:36 - INFO - New connected socket [id: wIjJ-8nZ5wRmDBwHAAAL] 
+18.8.2022, 19:36:49 - DEBUG - auth.service - signup with username: kN1ERc, fullname: Guest 
+18.8.2022, 19:36:50 - DEBUG - auth.route - new account created: {"username":"kN1ERc","password":"$2b$10$hQaoOGWS3BAnvRShKA5oEebrJ7aV5CR0aRR5sT26HImcgCLnIViLK","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62fe6aa22bd53a8690a53705"} 
+18.8.2022, 19:36:50 - DEBUG - auth.service - login with username: kN1ERc 
+18.8.2022, 19:36:50 - INFO - User signup: | {"_id":"62fe6aa22bd53a8690a53705","username":"kN1ERc","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} 
+18.8.2022, 19:36:50 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 19:38:06 - DEBUG - auth.service - signup with username: DBAHIB, fullname: Guest 
+18.8.2022, 19:38:07 - DEBUG - auth.route - new account created: {"username":"DBAHIB","password":"$2b$10$oM8hdXCncNAkNkhD/ZUoDO6teBBGYQJX1mh3f/QLL5Z/9NJ1bazlu","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62fe6aef2bd53a8690a53707"} 
+18.8.2022, 19:38:07 - DEBUG - auth.service - login with username: DBAHIB 
+18.8.2022, 19:38:07 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 19:38:07 - INFO - User signup: | {"_id":"62fe6aef2bd53a8690a53707","username":"DBAHIB","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} 
+18.8.2022, 19:38:59 - DEBUG - auth.service - signup with username: ll6wDk, fullname: Guest 
+18.8.2022, 19:39:00 - DEBUG - auth.route - new account created: {"username":"ll6wDk","password":"$2b$10$.SZUWtWa6xYXw1P7vAecA.8ms5TQJ14cO/AT6UBSCRhIeNszM9ZSu","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62fe6b242bd53a8690a53709"} 
+18.8.2022, 19:39:00 - DEBUG - auth.service - login with username: ll6wDk 
+18.8.2022, 19:39:00 - INFO - User signup: | {"_id":"62fe6b242bd53a8690a53709","username":"ll6wDk","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} 
+18.8.2022, 19:40:03 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 19:40:04 - INFO - New connected socket [id: q7ITpGdKhln0CEByAAAN] 
+18.8.2022, 19:40:12 - DEBUG - auth.service - signup with username: lgNTIc, fullname: Guest 
+18.8.2022, 19:40:12 - DEBUG - auth.route - new account created: {"username":"lgNTIc","password":"$2b$10$3x.MuvF9kyUlVuZbVHLvBuzYL79iwl2vMdp9CTZJBqQQjRUudvrce","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62fe6b6c2bd53a8690a5370c"} 
+18.8.2022, 19:40:12 - DEBUG - auth.service - login with username: lgNTIc 
+18.8.2022, 19:40:12 - INFO - User signup: | {"_id":"62fe6b6c2bd53a8690a5370c","username":"lgNTIc","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} 
+18.8.2022, 19:40:27 - INFO - updated board 
+18.8.2022, 19:40:27 - INFO - board updated 
+18.8.2022, 19:40:31 - INFO - board updated 
+18.8.2022, 19:40:31 - INFO - updated board 
+18.8.2022, 19:40:38 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 62fe6b6c2bd53a8690a5370c)
+18.8.2022, 19:40:38 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 62fe6b6c2bd53a8690a5370c)
+18.8.2022, 19:40:39 - INFO - board updated 
+18.8.2022, 19:40:39 - INFO - updated board 
+18.8.2022, 19:40:46 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 19:40:47 - INFO - New connected socket [id: UATwkWe3yUzbW9ZJAAAP] 
+18.8.2022, 19:40:47 - INFO - board updated 
+18.8.2022, 19:40:48 - INFO - updated board 
+18.8.2022, 19:41:31 - DEBUG - auth.service - signup with username: z0hCSE, fullname: Guest 
+18.8.2022, 19:41:31 - DEBUG - auth.route - new account created: {"username":"z0hCSE","password":"$2b$10$m.Hr1rULIFRwVc7CcFcHx.h11h9Mu89pgGMpCZp7Iu0r7BPMTV9NC","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62fe6bbb2bd53a8690a53711"} 
+18.8.2022, 19:41:31 - DEBUG - auth.service - login with username: z0hCSE 
+18.8.2022, 19:41:31 - INFO - User signup: | {"_id":"62fe6bbb2bd53a8690a53711","username":"z0hCSE","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} 
+18.8.2022, 19:41:37 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 62fe6bbb2bd53a8690a53711)
+18.8.2022, 19:41:37 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 62fe6bbb2bd53a8690a53711)
+18.8.2022, 19:41:38 - INFO - board updated 
+18.8.2022, 19:41:38 - INFO - updated board 
+18.8.2022, 19:43:20 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 19:43:21 - INFO - New connected socket [id: 9GQ3XDJHkpxUTA3XAAAR] 
+18.8.2022, 19:43:22 - INFO - board updated 
+18.8.2022, 19:43:22 - INFO - updated board 
+18.8.2022, 19:45:56 - INFO - board updated 
+18.8.2022, 19:45:56 - INFO - updated board 
+18.8.2022, 19:46:37 - DEBUG - auth.service - signup with username: F4GaHd, fullname: Guest (userId: 62fe6bbb2bd53a8690a53711)
+18.8.2022, 19:46:37 - DEBUG - auth.route - new account created: {"username":"F4GaHd","password":"$2b$10$XSSAzP/UzhonvGjlIofA5.oCIJQb/IiMoRkJZih42Ie3jcGAfuiFy","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62fe6ced2bd53a8690a53714"} (userId: 62fe6bbb2bd53a8690a53711)
+18.8.2022, 19:46:37 - DEBUG - auth.service - login with username: F4GaHd (userId: 62fe6bbb2bd53a8690a53711)
+18.8.2022, 19:46:38 - INFO - User signup: | {"_id":"62fe6ced2bd53a8690a53714","username":"F4GaHd","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} (userId: 62fe6bbb2bd53a8690a53711)
+18.8.2022, 19:47:48 - DEBUG - auth.service - login with username: bar (userId: 62fe6ced2bd53a8690a53714)
+18.8.2022, 19:47:48 - INFO - User login:  | {"_id":"629e49af14eca981a88edabc","username":"bar","fullname":"bar","boards":["629e05339a28133be456c12a"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540772/T02SFLQBMS9-U034UG4PA1Y-4ce47463ddaf-512_jm4vof.jpg","mentions":[],"starred":[]} (userId: 62fe6ced2bd53a8690a53714)
+18.8.2022, 19:47:50 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e49af14eca981a88edabc)
+18.8.2022, 19:47:50 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e49af14eca981a88edabc)
+18.8.2022, 19:47:51 - INFO - board updated 
+18.8.2022, 19:47:52 - INFO - updated board 
+18.8.2022, 19:48:14 - INFO - board updated 
+18.8.2022, 19:48:14 - INFO - updated board 
+18.8.2022, 19:48:20 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 19:48:21 - INFO - New connected socket [id: KXKjFjbgUjgcPESeAAAT] 
+18.8.2022, 19:48:21 - INFO - board updated 
+18.8.2022, 19:48:21 - INFO - updated board 
+18.8.2022, 19:51:10 - INFO - board updated 
+18.8.2022, 19:51:10 - INFO - updated board 
+18.8.2022, 19:51:38 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e49af14eca981a88edabc)
+18.8.2022, 19:51:38 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e49af14eca981a88edabc)
+18.8.2022, 19:51:38 - INFO - board updated 
+18.8.2022, 19:51:38 - INFO - updated board 
+18.8.2022, 19:54:23 - INFO - board updated 
+18.8.2022, 19:54:23 - INFO - updated board 
+18.8.2022, 19:54:39 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e49af14eca981a88edabc)
+18.8.2022, 19:54:39 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e49af14eca981a88edabc)
+18.8.2022, 19:54:41 - INFO - board updated 
+18.8.2022, 19:54:41 - INFO - updated board 
+18.8.2022, 19:54:55 - INFO - board updated 
+18.8.2022, 19:54:55 - INFO - updated board 
+18.8.2022, 19:55:18 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 19:55:19 - INFO - New connected socket [id: S2A_7ycG6SMZDU04AAAV] 
+18.8.2022, 19:55:19 - INFO - board updated 
+18.8.2022, 19:55:19 - INFO - updated board 
+18.8.2022, 19:55:32 - INFO - board updated 
+18.8.2022, 19:55:32 - INFO - updated board 
+18.8.2022, 19:56:11 - ERROR - Failed to add board | TypeError: Cannot read properties of null (reading '_id') 
+18.8.2022, 19:56:55 - DEBUG - auth.service - signup with username: tI6Z1u, fullname: Guest 
+18.8.2022, 19:56:55 - DEBUG - auth.route - new account created: {"username":"tI6Z1u","password":"$2b$10$fzMYnyxVko52gA/gb/vjjOAVJiBzJIGUQlrc8nTdnhQ5GoJMfTN7W","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62fe6f572bd53a8690a5371d"} 
+18.8.2022, 19:56:55 - DEBUG - auth.service - login with username: tI6Z1u 
+18.8.2022, 19:56:55 - INFO - User signup: | {"_id":"62fe6f572bd53a8690a5371d","username":"tI6Z1u","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} 
+18.8.2022, 19:57:53 - DEBUG - auth.service - signup with username: mPxxTI, fullname: Guest 
+18.8.2022, 19:57:53 - DEBUG - auth.route - new account created: {"username":"mPxxTI","password":"$2b$10$wyHeAj/Ov/I0Lo6SqahlsebACdRueJUjQUCxZeq02qnRZ7o1vzKq2","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62fe6f912bd53a8690a53720"} 
+18.8.2022, 19:57:53 - DEBUG - auth.service - login with username: mPxxTI 
+18.8.2022, 19:57:53 - INFO - User signup: | {"_id":"62fe6f912bd53a8690a53720","username":"mPxxTI","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} 
+18.8.2022, 20:01:03 - DEBUG - auth.service - signup with username: kZ42aG, fullname: Guest 
+18.8.2022, 20:01:03 - DEBUG - auth.route - new account created: {"username":"kZ42aG","password":"$2b$10$tjvbt5ZYehCzz4DYuhsTKeFkf5mQ0qmM1LOCM25dnjdnwLsyiy8de","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62fe704f2bd53a8690a53723"} 
+18.8.2022, 20:01:03 - DEBUG - auth.service - login with username: kZ42aG 
+18.8.2022, 20:01:03 - INFO - User signup: | {"_id":"62fe704f2bd53a8690a53723","username":"kZ42aG","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} 
+18.8.2022, 20:02:15 - DEBUG - auth.service - signup with username: n2, fullname: n2 (userId: 62fe704f2bd53a8690a53723)
+18.8.2022, 20:02:16 - DEBUG - auth.route - new account created: {"username":"n2","password":"$2b$10$FbJnuzExxB/dwf70gsCY7e3KW/tBjO.JUb4b/.ETTqlCV/tfoLq5C","fullname":"n2","boards":[],"starred":[],"imgUrl":"","mentions":[],"_id":"62fe70972bd53a8690a53726"} (userId: 62fe704f2bd53a8690a53723)
+18.8.2022, 20:02:16 - DEBUG - auth.service - login with username: n2 (userId: 62fe704f2bd53a8690a53723)
+18.8.2022, 20:02:16 - INFO - User signup: | {"_id":"62fe70972bd53a8690a53726","username":"n2","fullname":"n2","boards":[],"starred":[],"imgUrl":"","mentions":[]} (userId: 62fe704f2bd53a8690a53723)
+18.8.2022, 20:03:28 - DEBUG - auth.service - signup with username: Xbjm4j, fullname: Guest 
+18.8.2022, 20:03:28 - DEBUG - auth.route - new account created: {"username":"Xbjm4j","password":"$2b$10$zazML8HLmraebcOP4otcOu/c8dMlRkddIgRIyy0XiK368ujjPmBOi","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62fe70e02bd53a8690a53727"} 
+18.8.2022, 20:03:28 - DEBUG - auth.service - login with username: Xbjm4j 
+18.8.2022, 20:03:28 - INFO - User signup: | {"_id":"62fe70e02bd53a8690a53727","username":"Xbjm4j","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} 
+18.8.2022, 20:04:17 - DEBUG - auth.service - signup with username: lAQnVm, fullname: Guest 
+18.8.2022, 20:04:17 - DEBUG - auth.route - new account created: {"username":"lAQnVm","password":"$2b$10$9jH4lUm.e3lNkqyHcqJC/.H69D9l.SfwCaIqGGtPBFzm23zia7fOu","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62fe71112bd53a8690a5372a"} 
+18.8.2022, 20:04:17 - DEBUG - auth.service - login with username: lAQnVm 
+18.8.2022, 20:04:18 - INFO - User signup: | {"_id":"62fe71112bd53a8690a5372a","username":"lAQnVm","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} 
+18.8.2022, 20:06:16 - DEBUG - auth.service - login with username: n2 (userId: 62fe71112bd53a8690a5372a)
+18.8.2022, 20:06:16 - INFO - User login:  | {"_id":"62fe70972bd53a8690a53726","username":"n2","fullname":"n2","boards":[],"starred":[],"imgUrl":"","mentions":[]} (userId: 62fe71112bd53a8690a5372a)
+18.8.2022, 20:07:20 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 20:07:21 - INFO - New connected socket [id: PrvQGtmW-kkt9dzzAAAX] 
+18.8.2022, 20:07:26 - DEBUG - auth.service - signup with username: 3hCgqI, fullname: Guest 
+18.8.2022, 20:07:26 - DEBUG - auth.route - new account created: {"username":"3hCgqI","password":"$2b$10$KGSM7YO7JX0LPY8GIF/clutDuaTcUBnhweN4bDDxdsO3fQh/9y8lq","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62fe71ce2bd53a8690a5372d"} 
+18.8.2022, 20:07:26 - DEBUG - auth.service - login with username: 3hCgqI 
+18.8.2022, 20:07:26 - INFO - User signup: | {"_id":"62fe71ce2bd53a8690a5372d","username":"3hCgqI","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} 
+18.8.2022, 20:07:57 - DEBUG - auth.service - signup with username: n3, fullname: Noam 
+18.8.2022, 20:07:57 - DEBUG - auth.route - new account created: {"username":"n3","password":"$2b$10$RQINxHZYgOkJGaWmPHAmaePGTnn77qZe8q6g6GsexvzN4aVdxsNbe","fullname":"Noam","boards":[],"starred":[],"imgUrl":"","mentions":[],"_id":"62fe71ed2bd53a8690a53730"} 
+18.8.2022, 20:07:57 - DEBUG - auth.service - login with username: n3 
+18.8.2022, 20:07:57 - INFO - User signup: | {"_id":"62fe71ed2bd53a8690a53730","username":"n3","fullname":"Noam","boards":[],"starred":[],"imgUrl":"","mentions":[]} 
+18.8.2022, 20:09:02 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 20:09:03 - INFO - New connected socket [id: n895A-1t7L6mIU-bAAAZ] 
+18.8.2022, 20:12:31 - DEBUG - auth.service - signup with username: n4, fullname: n4 (userId: 62fe71ed2bd53a8690a53730)
+18.8.2022, 20:12:31 - DEBUG - auth.route - new account created: {"username":"n4","password":"$2b$10$js4WB66CJovVypOyRHDSBOtlHrPgsL9N2BuZGYzDS2yvAdTJveQhq","fullname":"n4","boards":[],"starred":[],"imgUrl":"","mentions":[],"_id":"62fe72ff2bd53a8690a53731"} (userId: 62fe71ed2bd53a8690a53730)
+18.8.2022, 20:12:31 - DEBUG - auth.service - login with username: n4 (userId: 62fe71ed2bd53a8690a53730)
+18.8.2022, 20:12:31 - INFO - User signup: | {"_id":"62fe72ff2bd53a8690a53731","username":"n4","fullname":"n4","boards":[],"starred":[],"imgUrl":"","mentions":[]} (userId: 62fe71ed2bd53a8690a53730)
+18.8.2022, 20:12:45 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 20:12:46 - INFO - New connected socket [id: HY3zVx2zntbvJfIsAAAb] 
+18.8.2022, 20:13:49 - DEBUG - auth.service - signup with username: n5, fullname: n5 (userId: 62fe71ed2bd53a8690a53730)
+18.8.2022, 20:13:49 - DEBUG - auth.route - new account created: {"username":"n5","password":"$2b$10$feFmZcfpYPJol9/s91bcYeZTcY./hS5dcyzY2GpxWPQXyACySpzui","fullname":"n5","boards":[],"starred":[],"imgUrl":"","mentions":[],"_id":"62fe734d2bd53a8690a53734"} (userId: 62fe71ed2bd53a8690a53730)
+18.8.2022, 20:13:49 - DEBUG - auth.service - login with username: n5 (userId: 62fe71ed2bd53a8690a53730)
+18.8.2022, 20:13:49 - INFO - User signup: | {"_id":"62fe734d2bd53a8690a53734","username":"n5","fullname":"n5","boards":[],"starred":[],"imgUrl":"","mentions":[]} (userId: 62fe71ed2bd53a8690a53730)
+18.8.2022, 20:14:58 - DEBUG - auth.service - signup with username: LGwnTT, fullname: Guest 
+18.8.2022, 20:14:58 - DEBUG - auth.route - new account created: {"username":"LGwnTT","password":"$2b$10$J7Rzub1MjFyHzAC8ecZRZOyVyf8KXaEl2Q7j745z/WhBVQMJUiQte","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62fe73922bd53a8690a53737"} 
+18.8.2022, 20:14:58 - DEBUG - auth.service - login with username: LGwnTT 
+18.8.2022, 20:14:58 - INFO - User signup: | {"_id":"62fe73922bd53a8690a53737","username":"LGwnTT","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} 
+18.8.2022, 20:15:05 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 20:15:06 - INFO - New connected socket [id: PHYXiL2OMXePqa8sAAAd] 
+18.8.2022, 20:16:26 - DEBUG - auth.service - signup with username: J7AawH, fullname: Guest 
+18.8.2022, 20:16:27 - DEBUG - auth.route - new account created: {"username":"J7AawH","password":"$2b$10$krttrq3mxek1DXWnlOtQV.SK633u4gfV16y9IElCgAnnSgeXHD3eS","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62fe73ea2bd53a8690a5373a"} 
+18.8.2022, 20:16:27 - DEBUG - auth.service - login with username: J7AawH 
+18.8.2022, 20:16:27 - INFO - User signup: | {"_id":"62fe73ea2bd53a8690a5373a","username":"J7AawH","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} 
+18.8.2022, 20:17:28 - INFO - Socket disconnected [id: undefined] 
+18.8.2022, 20:17:29 - INFO - New connected socket [id: cfoj5TChODKwdkbNAAAf] 
+18.8.2022, 20:17:40 - DEBUG - auth.service - signup with username: I4mnzG, fullname: Guest 
+18.8.2022, 20:17:40 - DEBUG - auth.route - new account created: {"username":"I4mnzG","password":"$2b$10$GqKSzSf7S3Djlj4pRBOUT.jacBDReEY7PzMre/JfbXGUPZ7AEXskC","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[],"_id":"62fe74342bd53a8690a5373d"} 
+18.8.2022, 20:17:40 - DEBUG - auth.service - login with username: I4mnzG 
+18.8.2022, 20:17:40 - INFO - User signup: | {"_id":"62fe74342bd53a8690a5373d","username":"I4mnzG","fullname":"Guest","boards":[],"starred":[],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1653899076/dl6faof1ecyjnfnknkla_gxwbcq.svg","mentions":[]} 
+18.8.2022, 20:17:53 - DEBUG - auth.service - signup with username: n6, fullname: n6 (userId: 62fe74342bd53a8690a5373d)
+18.8.2022, 20:17:53 - DEBUG - auth.route - new account created: {"username":"n6","password":"$2b$10$i8FBzEjhO6xPvqVdZY3oQOe/r6X9IMl3N0zdfUA4UpRv5TRBl1Ngy","fullname":"n6","boards":[],"starred":[],"imgUrl":"","mentions":[],"_id":"62fe74412bd53a8690a53740"} (userId: 62fe74342bd53a8690a5373d)
+18.8.2022, 20:17:53 - DEBUG - auth.service - login with username: n6 (userId: 62fe74342bd53a8690a5373d)
+18.8.2022, 20:17:53 - INFO - User signup: | {"_id":"62fe74412bd53a8690a53740","username":"n6","fullname":"n6","boards":[],"starred":[],"imgUrl":"","mentions":[]} (userId: 62fe74342bd53a8690a5373d)
+18.8.2022, 20:19:11 - DEBUG - auth.service - login with username: bar (userId: 62fe74412bd53a8690a53740)
+18.8.2022, 20:19:11 - INFO - User login:  | {"_id":"629e49af14eca981a88edabc","username":"bar","fullname":"bar","boards":["629e05339a28133be456c12a","62fe6d462bd53a8690a53717","62fe6e212bd53a8690a53718","62fe6e212bd53a8690a53719","62fe6edb2bd53a8690a5371a","62fe6eff2bd53a8690a5371b"],"imgUrl":"https://res.cloudinary.com/dgjmjxkct/image/upload/v1654540772/T02SFLQBMS9-U034UG4PA1Y-4ce47463ddaf-512_jm4vof.jpg","mentions":[],"starred":[]} (userId: 62fe74412bd53a8690a53740)
+18.8.2022, 20:19:14 - ERROR - while finding board [object Object] | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e49af14eca981a88edabc)
+18.8.2022, 20:19:14 - ERROR - Failed to get board | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (userId: 629e49af14eca981a88edabc)
+18.8.2022, 20:19:15 - INFO - board updated 
+18.8.2022, 20:19:15 - INFO - updated board 
