@@ -29,26 +29,26 @@ async function getBoards(req, res) {
 	}
 }
 
-// async function addBoard(req, res) {
-// 	var loggedinUser = authService.validateToken(req.cookies.loginToken)
+async function addBoard(req, res) {
+	var loggedinUser = authService.validateToken(req.cookies.loginToken)
 
-// 	try {
-// 		var board = req.body
-// 		// console.log(board)
-// 		board = await boardService.add(board)
+	try {
+		var board = req.body
+		// console.log(board)
+		board = await boardService.add(board)
 
-// 		loggedinUser = await userService.update(loggedinUser)
+		loggedinUser = await userService.update(loggedinUser)
 
-// 		// User info is saved also in the login-token, update it
-// 		const loginToken = authService.getLoginToken(loggedinUser)
-// 		res.cookie('loginToken', loginToken)
-// 		res.send(board)
-// 	} catch (err) {
-// 		console.log(err)
-// 		logger.error('Failed to add board', err)
-// 		res.status(500).send({ err: 'Failed to add board' })
-// 	}
-// }
+		// User info is saved also in the login-token, update it
+		const loginToken = authService.getLoginToken(loggedinUser)
+		res.cookie('logrinToken', loginToken)
+		res.send(board)
+	} catch (err) {
+		console.log(err)
+		logger.error('Failed to add board', err)
+		res.status(500).send({ err: 'Failed to add board' })
+	}
+}
 
 async function updateBoard(req, res) {
 	try {
